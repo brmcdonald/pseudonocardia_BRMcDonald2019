@@ -1,0 +1,876 @@
+LocusID	Annotation	Start	End	Partial	Absolute_Start	Strand	Contig	Type	TIGR	TIGR_bitscore	KEGG	KEGG_bitscore	resfam	resfam_bitscore	dbCAN	dbCAN_bitscore	NRPS	NRPS_bitscore	antiSMASH	antiSMASH_bitscore	PFAM	PFAM_bitscore	actNOG	actNOG_bitscore
+CLI4811|pBCI2-1_0006598	PFAM Acyl-CoA_dh_N domain partial partial partial partial protein	1	321	10	1	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N	71.9	actNOG.ENOG4100BJ5.meta_raw	94.3
+CLI4811|pBCI2-1_0006599	alkanesulfonate monooxygenase	489	1646	00	489	1	contig.1	cds	-	0.0	K04091	42.0	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	137.4	actNOG.ENOG4100EEA.meta_raw	474.3
+CLI4811|pBCI2-1_0006600	putative 3,4-dihydroxy-2-butanone 4-phosphate synthase	1639	2679	00	1639	1	contig.1	cds	TIGR00506	122.5	K14652	323.9	-	0.0	-	0.0	-	0.0	-	0.0	DHBP_synthase,GTP_cyclohydro2	171.2,79.5	actNOG.ENOG4100C67.meta_raw	286.3
+CLI4811|pBCI2-1_0006601	K01913 family protein	2799	4439	00	2799	1	contig.1	cds	-	0.0	K01913	197.1	-	0.0	-	0.0	-	0.0	AMP-binding	180.8	AMP-binding	147.8	actNOG.ENOG4100DGX.meta_raw	371.9
+CLI4811|pBCI2-1_0006602	dbCAN CE10 domain protein	4417	5310	00	4417	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	CE10	153.9	-	0.0	-	0.0	Abhydrolase_3	169.3	actNOG.ENOG4100HMX.meta_raw	237.4
+CLI4811|pBCI2-1_0006603	acetoacetyl-CoA reductase	5307	6089	00	5307	-1	contig.1	cds	-	0.0	K00023	180.7	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	202.6	actNOG.ENOG4100CX1.meta_raw	233.1
+CLI4811|pBCI2-1_0006604	branched-chain amino acid transport system ATP-binding protein	6101	6802	00	6101	-1	contig.1	cds	-	0.0	K01996	223.4	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	90.7	actNOG.ENOG4100JVK.meta_raw	201.0
+CLI4811|pBCI2-1_0006605	branched-chain amino acid transport system permease protein	6799	7581	00	6799	-1	contig.1	cds	-	0.0	K01998	211.7	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran,BCA_ABC_TP_C	92.6,28.2	actNOG.ENOG4100DSM.meta_raw	306.4
+CLI4811|pBCI2-1_0006606	branched-chain amino acid transport system permease protein	7578	8636	00	7578	-1	contig.1	cds	-	0.0	K01998	128.7	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_2	86.7	actNOG.ENOG4100KXC.meta_raw	145.3
+CLI4811|pBCI2-1_0006607	branched-chain amino acid transport system permease protein	8638	9444	00	8638	-1	contig.1	cds	-	0.0	K01998	60.6	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_2	75.5	actNOG.ENOG4100HCP.meta_raw	195.3
+CLI4811|pBCI2-1_0006608	putative transposase	9482	10573	00	9482	1	contig.1	cds	-	0.0	K07494	170.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,DDE_3	50.2,74.2	actNOG.ENOG4100BDX.meta_raw	642.3
+CLI4811|pBCI2-1_0006609	branched-chain amino acid transport system substrate-binding protein	10711	11919	00	10711	-1	contig.1	cds	-	0.0	K01999	99.2	-	0.0	-	0.0	-	0.0	-	0.0	Peripla_BP_6	186.8	actNOG.ENOG4100DBC.meta_raw	183.4
+CLI4811|pBCI2-1_0006610	(R,R)-butanediol dehydrogenase / diacetyl reductase	12139	12891	00	12139	1	contig.1	cds	-	0.0	K03366	189.8	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	211.2	actNOG.ENOG4100K2N.meta_raw	249.5
+CLI4811|pBCI2-1_0006611	TetR/AcrR family transcriptional regulator, acrAB operon repressor	12909	13523	00	12909	-1	contig.1	cds	-	0.0	K03577	51.2	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	50.4	actNOG.ENOG41014W2.meta_raw	201.5
+CLI4811|pBCI2-1_0006612	PFAM AcetylCoA_hydro-AcetylCoA_hyd_C domain protein	13719	14945	00	13719	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	AcetylCoA_hydro,AcetylCoA_hyd_C	28.2,138.0	actNOG.ENOG4100DNY.meta_raw	302.9
+CLI4811|pBCI2-1_0006613	4-hydroxy 2-oxovalerate aldolase	14942	15907	00	14942	1	contig.1	cds	-	0.0	K01666	72.2	-	0.0	-	0.0	-	0.0	-	0.0	HMGL-like	133.1	actNOG.ENOG4100E1Y.meta_raw	278.2
+CLI4811|pBCI2-1_0006614	acetoacetyl-CoA synthase	15904	17877	00	15904	1	contig.1	cds	TIGR01217	642.0	K01895	321.3	-	0.0	-	0.0	F	58.6	AMP-binding	202.4	AMP-binding	152.3	actNOG.ENOG41014RT.meta_raw	802.7
+CLI4811|pBCI2-1_0006615	enoyl-CoA hydratase	17874	18659	00	17874	1	contig.1	cds	-	0.0	K01692	232.4	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	173.9	actNOG.ENOG4100GK5.meta_raw	239.2
+CLI4811|pBCI2-1_0006616	PFAM CoA_transf_3 domain protein	18656	19780	00	18656	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3	257.3	actNOG.ENOG4100C76.meta_raw	356.0
+CLI4811|pBCI2-1_0006617	SDR family mycofactocin-dependent oxidoreductase	19794	20654	00	19794	1	contig.1	cds	TIGR03971	348.4	K03366	184.3	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	164.5	actNOG.ENOG4100GHK.meta_raw	372.2
+CLI4811|pBCI2-1_0006618	putative PPOX class probable F420-dependent enzyme	20684	21166	00	20684	1	contig.1	cds	TIGR03618	65.9	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Pyridox_oxidase	40.5	actNOG.ENOG4100J69.meta_raw	82.4
+CLI4811|pBCI2-1_0006619	PFAM HTH_IclR-IclR domain protein	21372	22286	00	21372	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_IclR,IclR	54.0,64.5	actNOG.ENOG4100VMJ.meta_raw	264.5
+CLI4811|pBCI2-1_0006620	ferredoxin-NAD+ reductase	22283	23491	00	22283	-1	contig.1	cds	-	0.0	K00529	368.1	-	0.0	-	0.0	-	0.0	-	0.0	Pyr_redox_2,Reductase_C	187.8,44.8	actNOG.ENOG4100E5Z.meta_raw	454.0
+CLI4811|pBCI2-1_0006621	PFAM Fer4_15 domain protein	23494	23685	00	23494	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Fer4_15	56.6	actNOG.ENOG4100TQD.meta_raw	58.3
+CLI4811|pBCI2-1_0006622	PFAM CoA_transf_3 domain protein	23714	24880	00	23714	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3	346.3	actNOG.ENOG4100BDQ.meta_raw	350.5
+CLI4811|pBCI2-1_0006623	K00257 family protein	24877	26016	00	24877	-1	contig.1	cds	-	0.0	K00257	389.0	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	85.3,89.3,156.8	actNOG.ENOG4100BP6.meta_raw	423.8
+CLI4811|pBCI2-1_0006624	K07045 family protein	26013	27065	00	26013	-1	contig.1	cds	-	0.0	K07045	70.8	-	0.0	-	0.0	-	0.0	-	0.0	Amidohydro_2	137.4	actNOG.ENOG4100EKY.meta_raw	318.5
+CLI4811|pBCI2-1_0006625	biphenyl-2,3-diol 1,2-dioxygenase	27058	27936	00	27058	-1	contig.1	cds	-	0.0	K00462	82.5	-	0.0	-	0.0	-	0.0	-	0.0	Glyoxalase,Glyoxalase	54.6,35.3	actNOG.ENOG4100JS6.meta_raw	123.0
+CLI4811|pBCI2-1_0006626	acetoacetyl-CoA reductase	27993	28784	00	27993	-1	contig.1	cds	-	0.0	K00023	188.3	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	184.7	actNOG.ENOG4100CKY.meta_raw	253.0
+CLI4811|pBCI2-1_0006627	haloalkane dehalogenase	28785	29648	00	28785	-1	contig.1	cds	-	0.0	K01563	97.3	-	0.0	CE1	29.2	-	0.0	-	0.0	Abhydrolase_1	103.1	actNOG.ENOG4100GKJ.meta_raw	361.1
+CLI4811|pBCI2-1_0006628	PFAM Ring_hydroxyl_B domain protein	29700	30212	00	29700	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Ring_hydroxyl_B	112.0	actNOG.ENOG4100QWX.meta_raw	171.1
+CLI4811|pBCI2-1_0006629	large terminal subunit of phenylpropionate dioxygenase	30209	31534	00	30209	-1	contig.1	cds	-	0.0	K05708	298.6	-	0.0	-	0.0	-	0.0	-	0.0	Rieske,Ring_hydroxyl_A	65.4,81.2	actNOG.ENOG4100FX1.meta_raw	432.9
+CLI4811|pBCI2-1_0006630	putative TRAP transporter, DctM subunit	31592	33097	00	31592	-1	contig.1	cds	TIGR00786	232.9	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DctM	242.4	actNOG.ENOG4100BPT.meta_raw	368.7
+CLI4811|pBCI2-1_0006631	PFAM DctQ domain protein	33090	33659	00	33090	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DctQ	83.5	actNOG.ENOG4100ZET.meta_raw	71.9
+CLI4811|pBCI2-1_0006632	PFAM DctP domain protein	33656	34900	00	33656	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DctP	86.8	actNOG.ENOG4100WC8.meta_raw	185.3
+CLI4811|pBCI2-1_0006633	NADPH2:quinone reductase	35183	36178	00	35183	1	contig.1	cds	-	0.0	K00344	200.8	-	0.0	-	0.0	-	0.0	-	0.0	ADH_N,ADH_zinc_N	30.7,62.0	actNOG.ENOG4100DPS.meta_raw	202.4
+CLI4811|pBCI2-1_0006634	GntR family transcriptional regulator, uxuAB operon repressor	36151	36882	00	36151	-1	contig.1	cds	-	0.0	K13637	121.0	-	0.0	-	0.0	-	0.0	-	0.0	GntR,FCD	74.5,68.2	actNOG.ENOG4100QQB.meta_raw	180.0
+CLI4811|pBCI2-1_0006635	4-hydroxy-2-oxovalerate aldolase	37188	38252	00	37188	-1	contig.1	cds	TIGR03217	543.7	K01666	443.4	-	0.0	-	0.0	-	0.0	-	0.0	HMGL-like,DmpG_comm	194.8,108.4	actNOG.ENOG4100D6F.meta_raw	571.3
+CLI4811|pBCI2-1_0006636	acetaldehyde dehydrogenase (acetylating)	38249	39202	00	38249	-1	contig.1	cds	TIGR03215	464.6	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Semialdhyde_dh,AcetDehyd-dimer	45.9,213.9	actNOG.ENOG4100CV9.meta_raw	557.2
+CLI4811|pBCI2-1_0006637	putative 2-oxopent-4-enoate hydratase	39199	40008	00	39199	-1	contig.1	cds	TIGR03220	253.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	FAA_hydrolase	46.8	actNOG.ENOG4100HPY.meta_raw	385.6
+CLI4811|pBCI2-1_0006638	hypothetical protein	40229	40495	00	40229	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006639	glycine betaine/proline transport system substrate-binding protein	40568	41413	00	40568	-1	contig.1	cds	-	0.0	K02002	32.3	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_1	68.8	actNOG.ENOG4100HI5.meta_raw	297.2
+CLI4811|pBCI2-1_0006640	sulfonate/nitrate/taurine transport system ATP-binding protein	41410	42231	00	41410	-1	contig.1	cds	-	0.0	K02049	274.5	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	93.9	actNOG.ENOG4100VN7.meta_raw	370.3
+CLI4811|pBCI2-1_0006641	sulfonate/nitrate/taurine transport system substrate-binding protein	42237	43262	00	42237	-1	contig.1	cds	-	0.0	K02051	76.9	-	0.0	-	0.0	-	0.0	-	0.0	NMT1_2	54.8	actNOG.ENOG41011VB.meta_raw	274.6
+CLI4811|pBCI2-1_0006642	hypothetical protein	43410	44078	00	43410	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006643	transposase	44360	45583	00	44360	1	contig.1	cds	-	0.0	K07486	177.1	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	158.7,66.4	actNOG.ENOG4100DKU.meta_raw	560.5
+CLI4811|pBCI2-1_0006644	PFAM DctP domain protein	45837	46409	00	45837	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DctP	41.9	actNOG.ENOG4100EKA.meta_raw	30.3
+CLI4811|pBCI2-1_0006645	propionyl-CoA synthetase	47046	48977	00	47046	-1	contig.1	cds	-	0.0	K01908	1045.1	-	0.0	-	0.0	F	104.5	AMP-binding	322.1	ACAS_N,AMP-binding,AMP-binding_C	66.6,282.4,86.2	actNOG.ENOG41014RH.meta_raw	1139.8
+CLI4811|pBCI2-1_0006646	(R,R)-butanediol dehydrogenase / diacetyl reductase	49075	49605	00	49075	1	contig.1	cds	-	0.0	K03366	127.9	-	0.0	-	0.0	-	0.0	-	0.0	adh_short	148.8	actNOG.ENOG4100DHD.meta_raw	253.8
+CLI4811|pBCI2-1_0006647	PFAM adh_short_C2 domain protein	49663	49839	00	49663	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	47.6	actNOG.ENOG4100I38.meta_raw	61.1
+CLI4811|pBCI2-1_0006648	hypothetical protein	49788	50057	00	49788	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006649	acetoacetyl-CoA reductase	50057	50797	00	50057	-1	contig.1	cds	-	0.0	K00023	94.7	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	165.9	actNOG.ENOG4100F5C.meta_raw	179.2
+CLI4811|pBCI2-1_0006650	formyl-CoA transferase	51106	53391	00	51106	-1	contig.1	cds	-	0.0	K07749	204.4	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3,CoA_transf_3	95.3,246.0	actNOG.ENOG4100IK3.meta_raw	399.0
+CLI4811|pBCI2-1_0006651	K00257 family protein	53430	54611	00	53430	-1	contig.1	cds	-	0.0	K00257	308.5	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	91.3,68.5,100.3	actNOG.ENOG4100BJ5.meta_raw	444.3
+CLI4811|pBCI2-1_0006652	enoyl-CoA hydratase	54640	55359	00	54640	-1	contig.1	cds	-	0.0	K01692	219.8	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	182.5	actNOG.ENOG4100F45.meta_raw	251.0
+CLI4811|pBCI2-1_0006653	alkanesulfonate monooxygenase	55440	56603	00	55440	-1	contig.1	cds	-	0.0	K04091	42.8	-	0.0	-	0.0	-	0.0	A-OX	53.1	Bac_luciferase	142.1	actNOG.ENOG4100EEA.meta_raw	457.2
+CLI4811|pBCI2-1_0006654	GntR family transcriptional regulator, vanillate catabolism	56777	57436	00	56777	-1	contig.1	cds	-	0.0	K11475	82.8	-	0.0	-	0.0	-	0.0	-	0.0	GntR,FCD	52.0,56.3	actNOG.ENOG4100MFC.meta_raw	180.7
+CLI4811|pBCI2-1_0006655	acetoacetyl-CoA reductase	57498	58274	00	57498	-1	contig.1	cds	-	0.0	K00023	171.6	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	204.1	actNOG.ENOG4100CX1.meta_raw	242.0
+CLI4811|pBCI2-1_0006656	PFAM DUF1446 domain protein	58271	60112	00	58271	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF1446	401.7	actNOG.ENOG4100BIY.meta_raw	683.0
+CLI4811|pBCI2-1_0006657	hypothetical protein	60536	60643	00	60536	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006658	putative TRAP transporter, DctM subunit	60699	62126	00	60699	-1	contig.1	cds	TIGR00786	149.3	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DctM	260.1	actNOG.ENOG4100BPT.meta_raw	357.2
+CLI4811|pBCI2-1_0006659	PFAM DctQ domain protein	62142	62681	00	62142	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DctQ	72.3	actNOG.ENOG4100P90.meta_raw	27.4
+CLI4811|pBCI2-1_0006660	PFAM DctP domain protein	62706	63803	00	62706	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DctP	92.7	actNOG.ENOG4100WC8.meta_raw	91.9
+CLI4811|pBCI2-1_0006661	PFAM Cupin_2 domain protein	64520	65095	00	64520	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Cupin_2	36.1	actNOG.ENOG41010RK.meta_raw	102.0
+CLI4811|pBCI2-1_0006662	(R,R)-butanediol dehydrogenase / diacetyl reductase	65133	65942	00	65133	-1	contig.1	cds	-	0.0	K03366	176.6	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	216.7	actNOG.ENOG4100KUU.meta_raw	295.8
+CLI4811|pBCI2-1_0006663	PFAM Bac_luciferase domain protein	66062	66976	00	66062	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	182.9	actNOG.ENOG4100JID.meta_raw	268.7
+CLI4811|pBCI2-1_0006664	thiamine biosynthesis ThiG	67570	68865	00	67570	1	contig.1	cds	-	0.0	K03149	24.6	-	0.0	-	0.0	-	0.0	-	0.0	DAO	159.8	actNOG.ENOG4100H09.meta_raw	176.4
+CLI4811|pBCI2-1_0006665	carbohydrate diacid regulator	68892	70133	00	68892	-1	contig.1	cds	-	0.0	K02647	73.2	-	0.0	-	0.0	-	0.0	-	0.0	HTH_30	65.8	actNOG.ENOG4100I6X.meta_raw	260.8
+CLI4811|pBCI2-1_0006666	MFS transporter, proline/betaine transporter	70271	71596	00	70271	1	contig.1	cds	-	0.0	K03762	416.7	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	62.2	actNOG.ENOG4100C6Q.meta_raw	400.6
+CLI4811|pBCI2-1_0006667	prolyl oligopeptidase	71655	73628	00	71655	-1	contig.1	cds	-	0.0	K01322	399.9	-	0.0	CE1	29.4	-	0.0	-	0.0	Peptidase_S9_N,Peptidase_S9	91.9,139.3	actNOG.ENOG41014MY.meta_raw	403.2
+CLI4811|pBCI2-1_0006668	K07047 family protein	73726	74949	00	73726	-1	contig.1	cds	-	0.0	K07047	60.4	-	0.0	-	0.0	-	0.0	-	0.0	Amidohydro_1	138.9	actNOG.ENOG4100BVS.meta_raw	436.7
+CLI4811|pBCI2-1_0006669	gamma-glutamyltranspeptidase	74940	76595	00	74940	-1	contig.1	cds	-	0.0	K00681	204.2	-	0.0	-	0.0	-	0.0	-	0.0	G_glu_transpept	170.1	actNOG.ENOG4100DWE.meta_raw	160.9
+CLI4811|pBCI2-1_0006670	two-component response regulator, fimbrial Z protein FimZ	77016	77690	00	77016	-1	contig.1	cds	-	0.0	K07688	101.9	-	0.0	-	0.0	-	0.0	-	0.0	Response_reg,GerE	88.7,58.1	actNOG.ENOG4100IB4.meta_raw	345.2
+CLI4811|pBCI2-1_0006671	PFAM HisKA_3 domain protein	77687	78961	00	77687	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HisKA_3	53.3	actNOG.ENOG4100I2Z.meta_raw	421.1
+CLI4811|pBCI2-1_0006672	PFAM Abi domain protein	79045	79968	00	79045	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Abi	42.2	actNOG.ENOG4100END.meta_raw	449.6
+CLI4811|pBCI2-1_0006673	hypothetical protein	80460	80879	00	80460	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006674	hypothetical protein	81122	82507	00	81122	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG410103K.meta_raw	20.6
+CLI4811|pBCI2-1_0006675	putative aspartate ammonia-lyase	82847	84262	00	82847	-1	contig.1	cds	TIGR00839	597.5	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Lyase_1,FumaraseC_C	330.4,55.5	actNOG.ENOG41014PA.meta_raw	737.3
+CLI4811|pBCI2-1_0006676	amidohydrolase	84259	85398	00	84259	-1	contig.1	cds	TIGR01891	200.6	K01463	43.6	-	0.0	-	0.0	-	0.0	-	0.0	Peptidase_M20	32.9	actNOG.ENOG4100E9G.meta_raw	501.1
+CLI4811|pBCI2-1_0006677	PFAM DUF1028 domain protein	85395	86063	00	85395	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF1028	188.8	actNOG.ENOG4100H9N.meta_raw	233.1
+CLI4811|pBCI2-1_0006678	PFAM Ribonuc_L-PSP domain protein	86060	86482	00	86060	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Ribonuc_L-PSP	74.5	actNOG.ENOG4100ITB.meta_raw	255.2
+CLI4811|pBCI2-1_0006679	glutathione reductase (NADPH)	86482	87753	00	86482	-1	contig.1	cds	-	0.0	K00383	14.1	-	0.0	-	0.0	-	0.0	-	0.0	Pyr_redox_3	89.0	actNOG.ENOG4100BRF.meta_raw	628.8
+CLI4811|pBCI2-1_0006680	MFS transporter, proline/betaine transporter	87821	89194	00	87821	-1	contig.1	cds	-	0.0	K03762	506.6	-	0.0	-	0.0	-	0.0	-	0.0	Sugar_tr,Sugar_tr	73.8,44.0	actNOG.ENOG4100C6Q.meta_raw	534.6
+CLI4811|pBCI2-1_0006681	LysR family transcriptional activator, hca operon	89347	90309	00	89347	-1	contig.1	cds	-	0.0	K05817	137.1	-	0.0	-	0.0	-	0.0	-	0.0	HTH_1,LysR_substrate	65.4,135.4	actNOG.ENOG4100I0Z.meta_raw	393.7
+CLI4811|pBCI2-1_0006682	PFAM RepA_C domain protein	90439	91368	00	90439	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	RepA_C	143.6	actNOG.ENOG4100SET.meta_raw	282.8
+CLI4811|pBCI2-1_0006683	hypothetical protein	91796	92533	00	91796	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006684	hypothetical protein	93314	94216	00	93314	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006685	hypothetical protein	94842	95345	00	94842	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100F60.meta_raw	55.6
+CLI4811|pBCI2-1_0006686	hypothetical protein	95388	96551	00	95388	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006687	PFAM CbiA domain protein	96533	97249	00	96533	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CbiA	61.9	actNOG.ENOG4100TW2.meta_raw	218.9
+CLI4811|pBCI2-1_0006688	ParB/RepB/Spo0J family partition protein	97253	98230	00	97253	1	contig.1	cds	TIGR00180	93.8	K03497	135.0	-	0.0	-	0.0	-	0.0	-	0.0	ParBc	39.9	actNOG.ENOG4100QYT.meta_raw	140.6
+CLI4811|pBCI2-1_0006689	hypothetical protein	99273	99470	00	99273	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006690	hypothetical protein	101647	102462	00	101647	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006691	hypothetical protein	102806	103222	00	102806	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006692	hypothetical protein	104116	105264	00	104116	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100U7C.meta_raw	487.3
+CLI4811|pBCI2-1_0006693	hypothetical protein	105128	105883	00	105128	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006694	hypothetical protein	106213	106752	00	106213	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006695	PFAM Prim-Pol domain protein	106749	107546	00	106749	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Prim-Pol	35.7	actNOG.ENOG4100JMQ.meta_raw	88.7
+CLI4811|pBCI2-1_0006696	PFAM Prim-Pol domain protein	107543	108442	00	107543	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Prim-Pol	150.5	actNOG.ENOG4100JMQ.meta_raw	306.0
+CLI4811|pBCI2-1_0006697	hypothetical protein	109196	109429	00	109196	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006698	hypothetical protein	110411	110602	00	110411	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006699	hypothetical protein	110978	111154	00	110978	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006700	hypothetical protein	111989	112741	00	111989	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006701	PFAM HTH_IclR-IclR domain protein	112578	113360	00	112578	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_IclR,IclR	54.0,74.6	actNOG.ENOG4100G5R.meta_raw	217.9
+CLI4811|pBCI2-1_0006702	K00257 family protein	113631	114785	00	113631	1	contig.1	cds	-	0.0	K00257	252.7	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	75.7,71.9,32.8	actNOG.ENOG4100F51.meta_raw	554.0
+CLI4811|pBCI2-1_0006703	acyl-CoA dehydrogenase	114782	115888	00	114782	1	contig.1	cds	-	0.0	K00249	67.6	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_1	29.1,62.3	actNOG.ENOG4100W6X.meta_raw	276.3
+CLI4811|pBCI2-1_0006704	PFAM CoA_transf_3 domain protein	115885	117081	00	115885	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3	382.6	actNOG.ENOG4100W01.meta_raw	437.4
+CLI4811|pBCI2-1_0006705	enoyl-CoA hydratase	117146	117943	00	117146	-1	contig.1	cds	-	0.0	K01692	213.8	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	156.6	actNOG.ENOG4100IWF.meta_raw	364.9
+CLI4811|pBCI2-1_0006706	hypothetical protein	118103	118282	00	118103	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006707	acyl-CoA dehydrogenase	118320	119300	00	118320	-1	contig.1	cds	-	0.0	K00249	111.4	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_1	47.8	actNOG.ENOG4100BHN.meta_raw	155.1
+CLI4811|pBCI2-1_0006708	4-hydroxy-2-oxovalerate aldolase	120124	121170	00	120124	-1	contig.1	cds	TIGR03217	535.1	K01666	440.8	-	0.0	-	0.0	-	0.0	-	0.0	HMGL-like,DmpG_comm	194.9,106.6	actNOG.ENOG4100D6F.meta_raw	564.0
+CLI4811|pBCI2-1_0006709	acetaldehyde dehydrogenase (acetylating)	121167	122126	00	121167	-1	contig.1	cds	TIGR03215	461.1	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Semialdhyde_dh,AcetDehyd-dimer	38.8,213.9	actNOG.ENOG4100CV9.meta_raw	553.2
+CLI4811|pBCI2-1_0006710	PFAM FAA_hydrolase domain protein	122123	122938	00	122123	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	FAA_hydrolase	42.3	actNOG.ENOG4100HPY.meta_raw	356.7
+CLI4811|pBCI2-1_0006711	MFS transporter, oxalate/formate antiporter	123300	124583	00	123300	1	contig.1	cds	-	0.0	K08177	117.7	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	94.2	actNOG.ENOG41011Z5.meta_raw	358.3
+CLI4811|pBCI2-1_0006712	PFAM Amidohydro_2 domain protein	124625	124930	00	124625	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Amidohydro_2	31.6	actNOG.ENOG4100EKY.meta_raw	57.2
+CLI4811|pBCI2-1_0006713	K07045 family protein	124927	125643	00	124927	-1	contig.1	cds	-	0.0	K07045	41.2	-	0.0	-	0.0	-	0.0	-	0.0	Amidohydro_2	57.0	actNOG.ENOG4100EKY.meta_raw	129.1
+CLI4811|pBCI2-1_0006714	PFAM Rieske domain protein	126716	127036	00	126716	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Rieske	59.6	actNOG.ENOG4100PEE.meta_raw	81.0
+CLI4811|pBCI2-1_0006715	(R,R)-butanediol dehydrogenase / diacetyl reductase	127050	127853	00	127050	-1	contig.1	cds	-	0.0	K03366	156.7	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	170.7	actNOG.ENOG4100C1H.meta_raw	214.5
+CLI4811|pBCI2-1_0006716	PFAM Ring_hydroxyl_B domain protein	127850	128395	00	127850	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Ring_hydroxyl_B	101.5	actNOG.ENOG4100QWX.meta_raw	174.7
+CLI4811|pBCI2-1_0006717	large terminal subunit of phenylpropionate dioxygenase	128420	129793	00	128420	-1	contig.1	cds	-	0.0	K05708	268.2	-	0.0	-	0.0	-	0.0	-	0.0	Rieske,Ring_hydroxyl_A	63.1,64.1	actNOG.ENOG4100FX1.meta_raw	454.1
+CLI4811|pBCI2-1_0006718	PFAM DLH domain protein	129790	130533	00	129790	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DLH	39.2	actNOG.ENOG4100J1M.meta_raw	79.9
+CLI4811|pBCI2-1_0006719	ferredoxin-NAD+ reductase	130596	131843	00	130596	-1	contig.1	cds	-	0.0	K00529	369.8	-	0.0	-	0.0	-	0.0	-	0.0	Pyr_redox_2,Reductase_C	174.6,42.9	actNOG.ENOG4100E5Z.meta_raw	424.1
+CLI4811|pBCI2-1_0006720	haloalkane dehalogenase	131848	132822	00	131848	-1	contig.1	cds	-	0.0	K01563	58.3	-	0.0	CE1	21.4	-	0.0	-	0.0	Abhydrolase_1	66.8	actNOG.ENOG4100F5N.meta_raw	145.7
+CLI4811|pBCI2-1_0006721	PFAM LigB domain protein	132877	133944	00	132877	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	LigB	31.8	actNOG.ENOG4100F55.meta_raw	549.2
+CLI4811|pBCI2-1_0006722	MFS transporter bicyclomycin/chloramphenicol	134183	135559	00	134183	1	contig.1	cds	-	0.0	K07552	89.7	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	140.0	actNOG.ENOG4100E56.meta_raw	504.8
+CLI4811|pBCI2-1_0006723	hypothetical protein	135620	135985	00	135620	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006724	putative transposase	136747	137544	00	136747	1	contig.1	cds	-	0.0	K07497	56.4	-	0.0	-	0.0	-	0.0	-	0.0	rve	120.8	actNOG.ENOG4100DMU.meta_raw	374.7
+CLI4811|pBCI2-1_0006725	hypothetical protein	137574	137795	00	137574	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100IWE.meta_raw	43.6
+CLI4811|pBCI2-1_0006726	PFAM HTH_18 domain protein	137819	138067	00	137819	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_18	89.3	actNOG.ENOG4100IWE.meta_raw	111.9
+CLI4811|pBCI2-1_0006727	haloalkane dehalogenase	138105	138890	00	138105	-1	contig.1	cds	-	0.0	K01563	42.7	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	70.3	actNOG.ENOG4100RF5.meta_raw	102.9
+CLI4811|pBCI2-1_0006728	GntR family transcriptional regulator, vanillate catabolism	138961	139656	00	138961	-1	contig.1	cds	-	0.0	K11475	61.1	-	0.0	-	0.0	-	0.0	-	0.0	GntR,FCD	47.1,44.0	actNOG.ENOG4100IER.meta_raw	128.3
+CLI4811|pBCI2-1_0006729	haloalkane dehalogenase	139796	140602	00	139796	1	contig.1	cds	-	0.0	K01563	34.0	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	63.6	actNOG.ENOG4100QST.meta_raw	83.4
+CLI4811|pBCI2-1_0006730	Xaa-Pro dipeptidase	140692	142113	00	140692	1	contig.1	cds	-	0.0	K01271	180.0	-	0.0	-	0.0	-	0.0	-	0.0	AMP_N,Peptidase_M24	45.1,153.2	actNOG.ENOG4100DXG.meta_raw	480.3
+CLI4811|pBCI2-1_0006731	dipeptidyl-peptidase 4	142110	144509	00	142110	1	contig.1	cds	-	0.0	K01278	106.5	-	0.0	CE10	77.2	-	0.0	-	0.0	Peptidase_S9	149.6	actNOG.ENOG4100NJ0.meta_raw	360.4
+CLI4811|pBCI2-1_0006732	haloalkane dehalogenase	144569	145375	00	144569	1	contig.1	cds	-	0.0	K01563	50.2	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	67.6	actNOG.ENOG4100QST.meta_raw	79.1
+CLI4811|pBCI2-1_0006733	hypothetical protein	145292	145531	00	145292	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006734	PFAM RibD_C domain protein	146127	146771	00	146127	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	RibD_C	49.5	actNOG.ENOG4100FSE.meta_raw	339.9
+CLI4811|pBCI2-1_0006735	K06996 family protein	146974	147510	00	146974	1	contig.1	cds	-	0.0	K06996	22.2	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100KSA.meta_raw	139.4
+CLI4811|pBCI2-1_0006736	PFAM Erythro_esteras domain protein	147850	149103	00	147850	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Erythro_esteras	158.1	actNOG.ENOG4100IY3.meta_raw	395.6
+CLI4811|pBCI2-1_0006737	PFAM Alkyl_sulf_dimr-Alkyl_sulf_C domain protein	149287	150075	00	149287	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Alkyl_sulf_dimr,Alkyl_sulf_C	185.7,107.0	actNOG.ENOG4100EK4.meta_raw	344.2
+CLI4811|pBCI2-1_0006738	PFAM Lactamase_B domain protein	150231	150761	00	150231	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Lactamase_B	33.2	actNOG.ENOG4100EK4.meta_raw	278.6
+CLI4811|pBCI2-1_0006739	salicylate hydroxylase	150843	152393	00	150843	-1	contig.1	cds	-	0.0	K00480	40.3	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_3	188.9	actNOG.ENOG4100G2T.meta_raw	608.5
+CLI4811|pBCI2-1_0006740	PFAM TetR_N domain protein	152390	153040	00	152390	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	43.7	actNOG.ENOG4100N48.meta_raw	213.6
+CLI4811|pBCI2-1_0006741	hypothetical protein	153759	153932	00	153759	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100K0P.meta_raw	66.9
+CLI4811|pBCI2-1_0006742	hypothetical protein	154445	154630	00	154445	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010GH.meta_raw	33.9
+CLI4811|pBCI2-1_0006743	hypothetical protein	154764	154961	00	154764	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006744	hypothetical protein	155776	156156	00	155776	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100MAB.meta_raw	55.7
+CLI4811|pBCI2-1_0006745	PFAM AbiEii domain protein	156158	156745	00	156158	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	AbiEii	46.3	actNOG.ENOG4100NWG.meta_raw	108.6
+CLI4811|pBCI2-1_0006746	restriction system protein	156986	157744	00	156986	-1	contig.1	cds	-	0.0	K07448	118.2	-	0.0	-	0.0	-	0.0	-	0.0	Mrr_cat	87.0	actNOG.ENOG4100N5C.meta_raw	267.0
+CLI4811|pBCI2-1_0006747	hypothetical protein	157757	158305	00	157757	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100N5C.meta_raw	116.5
+CLI4811|pBCI2-1_0006748	hypothetical protein	158399	158707	00	158399	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006749	hypothetical protein	158704	159024	00	158704	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100PMN.meta_raw	29.3
+CLI4811|pBCI2-1_0006750	hypothetical protein	159373	160074	00	159373	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41012SK.meta_raw	68.8
+CLI4811|pBCI2-1_0006751	hypothetical protein	160356	161096	00	160356	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006752	hypothetical protein	161140	161727	00	161140	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010ST.meta_raw	27.9
+CLI4811|pBCI2-1_0006753	hypothetical protein	161840	163027	00	161840	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006754	hypothetical protein	163061	163798	00	163061	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006755	type I restriction enzyme M protein	163785	165467	00	163785	-1	contig.1	cds	-	0.0	K03427	64.9	-	0.0	-	0.0	-	0.0	-	0.0	N6_Mtase	54.6	actNOG.ENOG4100SIM.meta_raw	787.6
+CLI4811|pBCI2-1_0006756	hypothetical protein	165656	166198	00	165656	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006757	hypothetical protein	166238	166756	00	166238	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006758	hypothetical protein	167081	167746	00	167081	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006759	hypothetical protein	167762	168055	00	167762	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006760	hypothetical protein	168227	168583	00	168227	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006761	hypothetical protein	168886	169233	00	168886	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006762	putative transcriptional regulator	169230	169889	00	169230	-1	contig.1	cds	-	0.0	K07729	31.4	-	0.0	-	0.0	-	0.0	-	0.0	HTH_31	39.3	actNOG.ENOG41011NF.meta_raw	39.8
+CLI4811|pBCI2-1_0006763	hypothetical protein	169903	170403	00	169903	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006764	PFAM Prim-Pol domain protein	170481	171581	00	170481	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Prim-Pol	53.8	actNOG.ENOG4100S42.meta_raw	62.4
+CLI4811|pBCI2-1_0006765	hypothetical protein	171888	172112	00	171888	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006766	AraC family transcriptional regulator	172321	173298	00	172321	1	contig.1	cds	-	0.0	K07506	72.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_18	83.0	actNOG.ENOG4100NZW.meta_raw	252.5
+CLI4811|pBCI2-1_0006767	cystathionine beta-synthase	173568	174086	00	173568	-1	contig.1	cds	-	0.0	K01697	26.9	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100FXF.meta_raw	95.4
+CLI4811|pBCI2-1_0006768	hypothetical protein	174527	175174	00	174527	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100BGH.meta_raw	64.0
+CLI4811|pBCI2-1_0006769	PFAM MFS_1 domain protein	175641	176246	00	175641	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	58.3	actNOG.ENOG41014C6.meta_raw	196.6
+CLI4811|pBCI2-1_0006770	K07133 family protein	176321	177088	00	176321	-1	contig.1	cds	-	0.0	K07133	23.0	-	0.0	-	0.0	-	0.0	-	0.0	IstB_IS21	229.1	actNOG.ENOG4100FS1.meta_raw	304.6
+CLI4811|pBCI2-1_0006771	PFAM rve domain protein	177085	178584	00	177085	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	rve	69.9	actNOG.ENOG4100EZ5.meta_raw	362.5
+CLI4811|pBCI2-1_0006772	PFAM DDE_Tnp_4 domain protein	179041	179592	00	179041	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_4	85.7	actNOG.ENOG4100JPG.meta_raw	203.7
+CLI4811|pBCI2-1_0006773	PFAM MFS_1 domain protein	179699	180238	00	179699	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	38.2	actNOG.ENOG41014C6.meta_raw	164.3
+CLI4811|pBCI2-1_0006774	hypothetical protein	180235	180513	00	180235	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006775	cysteine synthase A	181477	182544	00	181477	1	contig.1	cds	-	0.0	K01738	73.1	-	0.0	-	0.0	-	0.0	-	0.0	OCD_Mu_crystall	130.4	actNOG.ENOG4100S8G.meta_raw	306.5
+CLI4811|pBCI2-1_0006776	PFAM Orn_Arg_deC_N-Orn_DAP_Arg_deC domain protein	182554	183735	00	182554	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Orn_Arg_deC_N,Orn_DAP_Arg_deC	87.1,44.5	actNOG.ENOG4100FQS.meta_raw	436.8
+CLI4811|pBCI2-1_0006777	PFAM HpcH_HpaI domain protein	183728	184492	00	183728	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HpcH_HpaI	110.3	actNOG.ENOG4100ETX.meta_raw	226.7
+CLI4811|pBCI2-1_0006778	aerobactin synthetase subunit alpha	184485	186227	00	184485	-1	contig.1	cds	-	0.0	K03894	63.5	-	0.0	-	0.0	-	0.0	IucA_IucC	203.5	IucA_IucC,FhuF	200.9,117.5	actNOG.ENOG4100EMS.meta_raw	344.8
+CLI4811|pBCI2-1_0006779	aerobactin synthetase subunit alpha	186224	187816	00	186224	-1	contig.1	cds	-	0.0	K03894	227.5	-	0.0	-	0.0	-	0.0	IucA_IucC	171.5	IucA_IucC,FhuF	148.6,83.6	actNOG.ENOG4100GWA.meta_raw	253.1
+CLI4811|pBCI2-1_0006780	MFS transporter bicyclomycin/chloramphenicol	187813	189069	00	187813	-1	contig.1	cds	-	0.0	K07552	57.9	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	83.1	actNOG.ENOG4100SAR.meta_raw	203.0
+CLI4811|pBCI2-1_0006781	aerobactin synthetase subunit alpha	189066	190880	00	189066	-1	contig.1	cds	-	0.0	K03894	40.4	-	0.0	-	0.0	-	0.0	IucA_IucC	145.8	IucA_IucC,FhuF	144.7,47.2	actNOG.ENOG4100EMS.meta_raw	133.1
+CLI4811|pBCI2-1_0006782	2,3-diaminopropionate biosynthesis protein SbnA	190877	191914	00	190877	-1	contig.1	cds	TIGR03945	384.5	K01738	340.6	-	0.0	-	0.0	-	0.0	-	0.0	PALP	212.8	actNOG.ENOG4100I2M.meta_raw	397.6
+CLI4811|pBCI2-1_0006783	hypothetical protein	192075	192254	00	192075	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100EZJ.meta_raw	45.7
+CLI4811|pBCI2-1_0006784	PFAM Peripla_BP_2 domain protein	192251	193006	00	192251	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Peripla_BP_2	82.7	actNOG.ENOG4100EZJ.meta_raw	307.1
+CLI4811|pBCI2-1_0006785	DtxR family transcriptional regulator, Mn-dependent	193141	194034	00	193141	-1	contig.1	cds	-	0.0	K03709	126.7	-	0.0	-	0.0	-	0.0	-	0.0	Fe_dep_repr_C	67.0	actNOG.ENOG4100CK3.meta_raw	150.6
+CLI4811|pBCI2-1_0006786	two-component response regulator, fimbrial Z protein FimZ	194092	194733	00	194092	1	contig.1	cds	-	0.0	K07688	78.3	-	0.0	-	0.0	-	0.0	-	0.0	Response_reg,GerE	65.7,41.3	actNOG.ENOG4100XPD.meta_raw	198.8
+CLI4811|pBCI2-1_0006787	K00936 family protein	194735	196066	00	194735	1	contig.1	cds	-	0.0	K00936	40.4	-	0.0	-	0.0	-	0.0	-	0.0	HATPase_c	37.3	actNOG.ENOG4100M3Q.meta_raw	252.0
+CLI4811|pBCI2-1_0006788	putative TIGR00245 family protein	196272	196994	00	196272	-1	contig.1	cds	TIGR00245	111.5	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	UPF0014	155.9	actNOG.ENOG4100J30.meta_raw	243.0
+CLI4811|pBCI2-1_0006789	PFAM DUF1173 domain protein	198010	199167	00	198010	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF1173	149.3	-	0.0
+CLI4811|pBCI2-1_0006790	hypothetical protein	199598	200149	00	199598	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006791	PFAM rve domain protein	200722	201306	00	200722	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	rve	25.9	actNOG.ENOG4100BZG.meta_raw	173.0
+CLI4811|pBCI2-1_0006792	hypothetical protein	201621	201806	00	201621	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006793	PPOX class F420-dependent enzyme, MSMEG_5819/OxyR family	201862	202281	00	201862	-1	contig.1	cds	TIGR04023	131.3	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Pyridox_oxidase	32.2	actNOG.ENOG4100X70.meta_raw	196.2
+CLI4811|pBCI2-1_0006794	hypothetical protein	202849	203427	00	202849	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006795	acetyl-CoA synthetase	203493	204659	00	203493	-1	contig.1	cds	-	0.0	K01895	346.3	-	0.0	-	0.0	-	0.0	AMP-binding	230.0	AMP-binding,AMP-binding_C	170.6,42.5	actNOG.ENOG41014RI.meta_raw	617.0
+CLI4811|pBCI2-1_0006796	acetyl-CoA synthetase	204640	205143	00	204640	-1	contig.1	cds	-	0.0	K01895	72.3	-	0.0	-	0.0	-	0.0	AMP-binding	43.5	AMP-binding	46.0	actNOG.ENOG41014RI.meta_raw	158.3
+CLI4811|pBCI2-1_0006797	alcohol dehydrogenase	205140	206090	00	205140	-1	contig.1	cds	-	0.0	K00001	124.5	-	0.0	-	0.0	-	0.0	-	0.0	ADH_zinc_N_2	49.0	actNOG.ENOG4100EUB.meta_raw	302.3
+CLI4811|pBCI2-1_0006798	fumarylacetoacetase	206087	207043	00	206087	-1	contig.1	cds	-	0.0	K01555	77.4	-	0.0	-	0.0	-	0.0	-	0.0	FAA_hydrolase	186.3	actNOG.ENOG4100FX6.meta_raw	394.9
+CLI4811|pBCI2-1_0006799	gluconolactonase	207050	208111	00	207050	-1	contig.1	cds	-	0.0	K01053	106.9	-	0.0	-	0.0	-	0.0	-	0.0	SGL	65.1	actNOG.ENOG4100JCE.meta_raw	83.3
+CLI4811|pBCI2-1_0006800	acetoacetyl-CoA reductase	208104	208883	00	208104	-1	contig.1	cds	-	0.0	K00023	184.1	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	179.3	actNOG.ENOG4100H93.meta_raw	209.6
+CLI4811|pBCI2-1_0006801	def peptide deformylase	208885	209931	00	208885	-1	contig.1	cds	-	0.0	K06889	59.5	-	0.0	-	0.0	-	0.0	-	0.0	DUF1100	28.1	actNOG.ENOG41011Q2.meta_raw	206.6
+CLI4811|pBCI2-1_0006802	TetR/AcrR family transcriptional regulator, acrAB operon repressor	210162	210785	00	210162	1	contig.1	cds	-	0.0	K03577	23.4	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N,TetR_C_11	41.0,87.3	actNOG.ENOG41014X4.meta_raw	200.1
+CLI4811|pBCI2-1_0006803	PFAM DDE_Tnp_1_2 domain protein	211007	211282	00	211007	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_1_2	43.6	actNOG.ENOG4100G28.meta_raw	102.6
+CLI4811|pBCI2-1_0006804	PFAM CoA_trans domain protein	211526	211855	00	211526	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_trans	63.7	actNOG.ENOG4100BH0.meta_raw	119.6
+CLI4811|pBCI2-1_0006805	3-oxoacid CoA-transferase, B subunit	211852	212499	00	211852	1	contig.1	cds	TIGR02428	306.0	K01029	340.5	-	0.0	-	0.0	-	0.0	-	0.0	CoA_trans	144.4	actNOG.ENOG41014P6.meta_raw	371.6
+CLI4811|pBCI2-1_0006806	enoyl-CoA hydratase	212496	213293	00	212496	1	contig.1	cds	-	0.0	K01692	223.5	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	164.2	actNOG.ENOG4100F8S.meta_raw	362.9
+CLI4811|pBCI2-1_0006807	acetyl-CoA synthetase	213290	214330	00	213290	1	contig.1	cds	-	0.0	K01895	158.1	-	0.0	-	0.0	F	157.3	AMP-binding	250.1	AMP-binding	257.4	actNOG.ENOG4100BGV.meta_raw	313.0
+CLI4811|pBCI2-1_0006808	hypothetical protein	214454	215071	00	214454	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100WW2.meta_raw	39.2
+CLI4811|pBCI2-1_0006809	PFAM DUF955 domain protein	215068	215964	00	215068	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF955	40.8	actNOG.ENOG4100T6I.meta_raw	215.1
+CLI4811|pBCI2-1_0006810	PFAM HTH_3 domain protein	215961	216287	00	215961	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_3	43.3	actNOG.ENOG4100R5D.meta_raw	43.6
+CLI4811|pBCI2-1_0006811	hypothetical protein	216854	217132	00	216854	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006812	hypothetical protein	217426	217668	00	217426	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006813	single stranded DNA-binding protein (ssb)	219012	219419	00	219012	1	contig.1	cds	TIGR00621	59.3	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SSB	69.5	actNOG.ENOG4100Q4F.meta_raw	107.1
+CLI4811|pBCI2-1_0006814	PFAM TPP_enzyme_N-TPP_enzyme_M domain protein	219741	220553	00	219741	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	TPP_enzyme_N,TPP_enzyme_M	111.2,28.3	actNOG.ENOG4100BZ9.meta_raw	152.1
+CLI4811|pBCI2-1_0006815	indolepyruvate decarboxylase	220604	221680	00	220604	1	contig.1	cds	-	0.0	K04103	70.5	-	0.0	-	0.0	-	0.0	-	0.0	TPP_enzyme_C	75.4	actNOG.ENOG4100BZ9.meta_raw	174.3
+CLI4811|pBCI2-1_0006816	phenylacetate-CoA ligase	221718	223088	00	221718	1	contig.1	cds	-	0.0	K01912	322.2	-	0.0	-	0.0	-	0.0	-	0.0	AMP-binding_C_2	71.1	actNOG.ENOG4100BYE.meta_raw	450.7
+CLI4811|pBCI2-1_0006817	TetR/AcrR family transcriptional regulator, acrAB operon repressor	223126	223752	00	223126	1	contig.1	cds	-	0.0	K03577	30.2	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	36.0	actNOG.ENOG4100I28.meta_raw	104.5
+CLI4811|pBCI2-1_0006818	hypothetical protein	223740	224075	00	223740	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100EZK.meta_raw	47.0
+CLI4811|pBCI2-1_0006819	hypothetical protein	224169	224945	00	224169	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100UB6.meta_raw	24.2
+CLI4811|pBCI2-1_0006820	hypothetical protein	225046	225342	00	225046	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006821	hypothetical protein	225685	225810	00	225685	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006822	asparagine synthase (glutamine-hydrolysing)	225814	226476	00	225814	1	contig.1	cds	-	0.0	K01953	48.2	-	0.0	-	0.0	-	0.0	-	0.0	Asn_synthase	45.5	actNOG.ENOG4100BVT.meta_raw	34.6
+CLI4811|pBCI2-1_0006823	hypothetical protein	226533	227096	00	226533	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006824	hypothetical protein	227093	227569	00	227093	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006825	hypothetical protein	227566	228087	00	227566	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006826	transposase	228447	229670	00	228447	-1	contig.1	cds	-	0.0	K07486	177.1	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	158.7,66.4	actNOG.ENOG4100DKU.meta_raw	560.5
+CLI4811|pBCI2-1_0006827	gluconolactonase	229895	230818	00	229895	1	contig.1	cds	-	0.0	K01053	163.1	-	0.0	-	0.0	-	0.0	-	0.0	SGL	112.6	actNOG.ENOG4100JCE.meta_raw	196.0
+CLI4811|pBCI2-1_0006828	K01913 family protein	230818	232440	00	230818	1	contig.1	cds	-	0.0	K01913	356.3	-	0.0	-	0.0	-	0.0	AMP-binding	294.9	AMP-binding,AMP-binding_C	267.0,55.1	actNOG.ENOG4100DGX.meta_raw	577.4
+CLI4811|pBCI2-1_0006829	alkanesulfonate monooxygenase	232474	233565	00	232474	1	contig.1	cds	-	0.0	K04091	33.4	-	0.0	-	0.0	-	0.0	A-OX	69.9	Bac_luciferase	163.2	actNOG.ENOG4100IP3.meta_raw	552.4
+CLI4811|pBCI2-1_0006830	acetoacetyl-CoA reductase	233804	234613	00	233804	-1	contig.1	cds	-	0.0	K00023	153.4	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	192.7	actNOG.ENOG4100KUU.meta_raw	251.2
+CLI4811|pBCI2-1_0006831	acetoacetyl-CoA reductase	234848	235597	00	234848	1	contig.1	cds	-	0.0	K00023	194.9	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	204.4	actNOG.ENOG4100CC3.meta_raw	292.6
+CLI4811|pBCI2-1_0006832	(R,R)-butanediol dehydrogenase / diacetyl reductase	235705	236520	00	235705	1	contig.1	cds	-	0.0	K03366	133.6	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	152.1	actNOG.ENOG4100FJC.meta_raw	278.7
+CLI4811|pBCI2-1_0006833	PFAM Bac_luciferase domain protein	236517	237554	00	236517	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	66.2	actNOG.ENOG4100D3H.meta_raw	139.7
+CLI4811|pBCI2-1_0006834	PFAM Acyl-CoA_dh_N domain protein	237591	238157	00	237591	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N	68.8	actNOG.ENOG4100BT0.meta_raw	71.1
+CLI4811|pBCI2-1_0006835	hypothetical protein	238262	239221	00	238262	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006836	hypothetical protein	239509	239835	00	239509	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006837	K06979 family protein	239832	240857	00	239832	1	contig.1	cds	-	0.0	K06979	221.9	-	0.0	-	0.0	-	0.0	-	0.0	APH	128.0	actNOG.ENOG4100CV0.meta_raw	299.2
+CLI4811|pBCI2-1_0006838	hypothetical protein	240871	241842	00	240871	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100YHA.meta_raw	218.6
+CLI4811|pBCI2-1_0006839	hypothetical protein	242362	243096	00	242362	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100YA9.meta_raw	148.1
+CLI4811|pBCI2-1_0006840	cytochrome o ubiquinol oxidase subunit III	243093	243770	00	243093	1	contig.1	cds	-	0.0	K02299	102.8	-	0.0	-	0.0	-	0.0	-	0.0	COX3	49.2	actNOG.ENOG4100XH4.meta_raw	228.3
+CLI4811|pBCI2-1_0006841	PFAM COX4_pro domain protein	243767	244042	00	243767	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	COX4_pro	51.0	-	0.0
+CLI4811|pBCI2-1_0006842	PFAM DDE_Tnp_1_4 domain protein	244079	244444	00	244079	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_1_4	38.5	actNOG.ENOG4100NQB.meta_raw	64.4
+CLI4811|pBCI2-1_0006843	PFAM DDE_Tnp_1_4 domain protein	244905	245183	00	244905	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_1_4	56.6	actNOG.ENOG4100UWK.meta_raw	86.3
+CLI4811|pBCI2-1_0006844	hypothetical protein	245271	245390	00	245271	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006845	hypothetical protein	245387	245509	00	245387	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006846	PFAM MerR_1 domain protein	245706	246128	00	245706	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MerR_1	33.3	actNOG.ENOG4100QGB.meta_raw	137.0
+CLI4811|pBCI2-1_0006847	hypothetical protein	246125	246382	00	246125	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006848	TetR/AcrR family transcriptional regulator, acrAB operon repressor	246465	247085	00	246465	-1	contig.1	cds	-	0.0	K03577	66.9	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	47.5	actNOG.ENOG4100HT4.meta_raw	81.8
+CLI4811|pBCI2-1_0006849	hypothetical protein	247417	247566	00	247417	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006850	PFAM SnoaL_2 domain protein	247674	248183	00	247674	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SnoaL_2	56.3	actNOG.ENOG4100SDZ.meta_raw	76.5
+CLI4811|pBCI2-1_0006851	putative transposase	248409	249500	00	248409	1	contig.1	cds	-	0.0	K07494	170.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,DDE_3	50.2,74.2	actNOG.ENOG4100BDX.meta_raw	642.3
+CLI4811|pBCI2-1_0006852	putative transposase	249497	250186	00	249497	-1	contig.1	cds	-	0.0	K07492	68.5	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_1_2	84.4	actNOG.ENOG4100CM6.meta_raw	278.3
+CLI4811|pBCI2-1_0006853	K07052 family protein	250441	251415	00	250441	-1	contig.1	cds	-	0.0	K07052	70.7	-	0.0	-	0.0	-	0.0	-	0.0	Abi	64.1	actNOG.ENOG4100HXA.meta_raw	274.5
+CLI4811|pBCI2-1_0006854	PFAM HTH_20 domain protein	251530	252057	00	251530	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_20	47.4	actNOG.ENOG4100NPU.meta_raw	191.1
+CLI4811|pBCI2-1_0006855	PFAM DUF1540 domain protein	252869	253156	00	252869	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF1540	26.3	actNOG.ENOG4100N8W.meta_raw	120.8
+CLI4811|pBCI2-1_0006856	hypothetical protein	253292	253507	00	253292	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006857	hypothetical protein	253546	254142	00	253546	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006858	two-component response regulator DesR	254908	256035	00	254908	1	contig.1	cds	-	0.0	K07693	29.8	-	0.0	-	0.0	-	0.0	-	0.0	GerE	34.4	actNOG.ENOG4100BG9.meta_raw	379.0
+CLI4811|pBCI2-1_0006859	PFAM DUF3040 domain protein	256687	257052	00	256687	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF3040	34.8	-	0.0
+CLI4811|pBCI2-1_0006860	PFAM Transgly_assoc domain protein	257070	257342	00	257070	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Transgly_assoc	32.7	actNOG.ENOG4100P7J.meta_raw	98.0
+CLI4811|pBCI2-1_0006861	hypothetical protein	258671	258913	00	258671	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006862	ribosomal-protein-alanine N-acetyltransferase	260801	261781	00	260801	-1	contig.1	cds	-	0.0	K00676	78.4	-	0.0	-	0.0	-	0.0	-	0.0	MmgE_PrpD,Acetyltransf_3	42.8,72.6	actNOG.ENOG4100HIT.meta_raw	239.7
+CLI4811|pBCI2-1_0006863	PFAM MmgE_PrpD domain protein	261857	262042	00	261857	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MmgE_PrpD	39.0	actNOG.ENOG4100BHM.meta_raw	44.7
+CLI4811|pBCI2-1_0006864	MerR family transcriptional regulator, mercuric resistance operon	262744	263451	00	262744	-1	contig.1	cds	-	0.0	K08365	45.2	-	0.0	-	0.0	-	0.0	-	0.0	MerR_1	38.7	actNOG.ENOG4100GP1.meta_raw	232.1
+CLI4811|pBCI2-1_0006865	uncharacterized protein	263758	264876	00	263758	1	contig.1	cds	-	0.0	K07148	175.4	-	0.0	-	0.0	-	0.0	-	0.0	DUF418	109.4	actNOG.ENOG4100DW0.meta_raw	339.6
+CLI4811|pBCI2-1_0006866	D-alanyl-D-alanine carboxypeptidase	265035	266165	00	265035	1	contig.1	cds	-	0.0	K01286	61.0	-	0.0	-	0.0	-	0.0	-	0.0	Beta-lactamase	136.2	actNOG.ENOG4100NR6.meta_raw	209.3
+CLI4811|pBCI2-1_0006867	putative transposase	266102	266911	00	266102	-1	contig.1	cds	-	0.0	K07494	61.1	-	0.0	-	0.0	-	0.0	-	0.0	DDE_3	79.0	actNOG.ENOG4100E84.meta_raw	233.1
+CLI4811|pBCI2-1_0006868	hypothetical protein	267258	267584	00	267258	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100D4B.meta_raw	29.8
+CLI4811|pBCI2-1_0006869	MerR family transcriptional regulator, mercuric resistance operon	267677	268462	00	267677	-1	contig.1	cds	-	0.0	K08365	51.5	-	0.0	-	0.0	-	0.0	-	0.0	MerR	50.9	actNOG.ENOG4100GP1.meta_raw	263.8
+CLI4811|pBCI2-1_0006870	K07052 family protein	268628	269566	00	268628	1	contig.1	cds	-	0.0	K07052	58.0	-	0.0	-	0.0	-	0.0	-	0.0	Abi	46.2	actNOG.ENOG4100E5M.meta_raw	341.6
+CLI4811|pBCI2-1_0006871	hypothetical protein	269792	270280	00	269792	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006872	hypothetical protein	270373	270525	00	270373	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006873	PFAM YCII domain protein	270956	271330	00	270956	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	YCII	49.2	actNOG.ENOG4100PT8.meta_raw	177.0
+CLI4811|pBCI2-1_0006874	PFAM Trans_reg_C-BTAD domain protein	271655	272542	00	271655	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Trans_reg_C,BTAD	31.3,124.5	actNOG.ENOG4100BFH.meta_raw	281.0
+CLI4811|pBCI2-1_0006875	type IV pilus assembly protein PilF	272539	274788	00	272539	1	contig.1	cds	-	0.0	K02656	14.4	-	0.0	-	0.0	-	0.0	-	0.0	NB-ARC,TPR_12,TPR_12,TPR_12,TPR_12	31.3,38.4,37.4,41.2,37.2	actNOG.ENOG4100EWG.meta_raw	656.6
+CLI4811|pBCI2-1_0006876	hypothetical protein	275146	275700	00	275146	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006877	PFAM Peripla_BP_2 domain protein	275821	276810	00	275821	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Peripla_BP_2	84.3	actNOG.ENOG41011ZQ.meta_raw	268.6
+CLI4811|pBCI2-1_0006878	PFAM Glyoxalase_3 domain protein	278222	278962	00	278222	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Glyoxalase_3	59.9	actNOG.ENOG41011CR.meta_raw	231.8
+CLI4811|pBCI2-1_0006879	hypothetical protein	279951	280403	00	279951	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006880	hypothetical protein	280403	280705	00	280403	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100T85.meta_raw	38.3
+CLI4811|pBCI2-1_0006881	hypothetical protein	280706	280978	00	280706	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006882	PFAM HATPase_c_2 domain protein	280894	281268	00	280894	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HATPase_c_2	32.0	actNOG.ENOG410120V.meta_raw	76.5
+CLI4811|pBCI2-1_0006883	hypothetical protein	281582	281764	00	281582	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100MM2.meta_raw	75.2
+CLI4811|pBCI2-1_0006884	hypothetical protein	282337	282543	00	282337	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006885	PFAM Lsr2 domain protein	283422	283877	00	283422	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Lsr2	124.8	actNOG.ENOG4100NQM.meta_raw	130.7
+CLI4811|pBCI2-1_0006886	hypothetical protein	283933	284130	00	283933	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006887	hypothetical protein	284520	284759	00	284520	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100KCB.meta_raw	102.2
+CLI4811|pBCI2-1_0006888	PFAM IstB_IS21 domain protein	285535	286314	00	285535	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	IstB_IS21	118.6	actNOG.ENOG4100F9U.meta_raw	202.9
+CLI4811|pBCI2-1_0006889	hypothetical protein	286928	287245	00	286928	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100NEK.meta_raw	119.4
+CLI4811|pBCI2-1_0006890	hypothetical protein	287286	287450	00	287286	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006891	glutamate dehydrogenase (NAD(P)+)	288117	289742	00	288117	-1	contig.1	cds	-	0.0	K00261	312.9	-	0.0	-	0.0	-	0.0	-	0.0	ELFV_dehydrog_N,ELFV_dehydrog	163.7,275.3	actNOG.ENOG4100BEB.meta_raw	723.0
+CLI4811|pBCI2-1_0006892	putative anti-anti-sigma factor	289796	290089	00	289796	-1	contig.1	cds	TIGR00377	49.3	K06378	32.9	-	0.0	-	0.0	-	0.0	-	0.0	STAS_2	37.7	actNOG.ENOG4100SFP.meta_raw	59.9
+CLI4811|pBCI2-1_0006893	PFAM Asp23 domain protein	290330	290932	00	290330	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Asp23	41.1	actNOG.ENOG4100K4Z.meta_raw	83.7
+CLI4811|pBCI2-1_0006894	RNA polymerase sigma factor, sigma-70 family	290929	291483	00	290929	-1	contig.1	cds	TIGR02937	107.6	K03088	160.4	-	0.0	-	0.0	-	0.0	-	0.0	Sigma70_r2,Sigma70_r4_2	69.6,52.8	actNOG.ENOG4100NFW.meta_raw	177.4
+CLI4811|pBCI2-1_0006895	hypothetical protein	292297	292506	00	292297	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006896	hypothetical protein	292714	293097	00	292714	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100DNX.meta_raw	82.3
+CLI4811|pBCI2-1_0006897	hypothetical protein	293214	293552	00	293214	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100DY4.meta_raw	74.8
+CLI4811|pBCI2-1_0006898	hypothetical protein	293491	294216	00	293491	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100DY4.meta_raw	166.4
+CLI4811|pBCI2-1_0006899	hypothetical protein	294240	294515	00	294240	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100DY4.meta_raw	115.3
+CLI4811|pBCI2-1_0006900	hypothetical protein	294518	294616	00	294518	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100DY4.meta_raw	34.6
+CLI4811|pBCI2-1_0006901	PFAM GPP34 domain protein	294648	295280	00	294648	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	GPP34	109.5	actNOG.ENOG4100N5H.meta_raw	159.5
+CLI4811|pBCI2-1_0006902	PFAM DUF1345 domain protein	295596	295889	00	295596	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF1345	40.8	actNOG.ENOG41013RB.meta_raw	44.5
+CLI4811|pBCI2-1_0006903	hypothetical protein	295998	296225	00	295998	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006904	hypothetical protein	296260	296625	00	296260	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006905	hypothetical protein	296768	297034	00	296768	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006906	hypothetical protein	297330	297560	00	297330	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006907	hypothetical protein	298022	298513	00	298022	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100R9I.meta_raw	213.3
+CLI4811|pBCI2-1_0006908	hypothetical protein	298567	298791	00	298567	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100KA4.meta_raw	33.0
+CLI4811|pBCI2-1_0006909	trans-aconitate 2-methyltransferase	298772	299389	00	298772	-1	contig.1	cds	-	0.0	K00598	42.9	-	0.0	-	0.0	-	0.0	-	0.0	Methyltransf_25	55.7	actNOG.ENOG4100KA4.meta_raw	208.6
+CLI4811|pBCI2-1_0006910	hypothetical protein	299837	300211	00	299837	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006911	hypothetical protein	300715	300897	00	300715	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006912	hypothetical protein	301040	301429	00	301040	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006913	hypothetical protein	302088	302294	00	302088	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006914	hypothetical protein	302328	302810	00	302328	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006915	hypothetical protein	302971	303339	00	302971	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006916	putative transposase	304023	304466	00	304023	1	contig.1	cds	-	0.0	K07493	164.8	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	125.3	actNOG.ENOG4100DIN.meta_raw	202.5
+CLI4811|pBCI2-1_0006917	PFAM AurF domain protein	305128	306045	00	305128	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	AurF	314.2	actNOG.ENOG4100CWW.meta_raw	415.0
+CLI4811|pBCI2-1_0006918	hypothetical protein	306480	307358	00	306480	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006919	PFAM HTH_20 domain protein	307374	307703	00	307374	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_20	44.2	actNOG.ENOG4100MYX.meta_raw	170.5
+CLI4811|pBCI2-1_0006920	carbonic anhydrase	308075	308593	00	308075	1	contig.1	cds	-	0.0	K01673	93.8	-	0.0	-	0.0	-	0.0	-	0.0	Pro_CA	56.9	actNOG.ENOG4100HY3.meta_raw	187.1
+CLI4811|pBCI2-1_0006921	hypothetical protein	309351	309521	00	309351	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100FGN.meta_raw	27.7
+CLI4811|pBCI2-1_0006922	2-oxoglutarate ferredoxin oxidoreductase subunit delta	309580	309933	00	309580	-1	contig.1	cds	-	0.0	K00176	32.4	-	0.0	-	0.0	-	0.0	-	0.0	Fer4_10	33.4	actNOG.ENOG4100R9Z.meta_raw	153.9
+CLI4811|pBCI2-1_0006923	L-aspartate oxidase	309930	311549	00	309930	-1	contig.1	cds	-	0.0	K00278	70.3	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_2,Succ_DH_flav_C	75.2,35.7	actNOG.ENOG4100DQ9.meta_raw	774.8
+CLI4811|pBCI2-1_0006924	MFS transporter bicyclomycin/chloramphenicol	311566	312786	00	311566	-1	contig.1	cds	-	0.0	K07552	59.3	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	85.1	actNOG.ENOG4100BN9.meta_raw	443.4
+CLI4811|pBCI2-1_0006925	FMN-dependent oxidoreductase, nitrilotriacetate monooxygenase family	312845	314197	00	312845	-1	contig.1	cds	TIGR03860	547.4	K00492	361.3	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	187.7	actNOG.ENOG4100BIB.meta_raw	638.7
+CLI4811|pBCI2-1_0006926	glycine betaine/proline transport system substrate-binding protein	314197	315075	00	314197	-1	contig.1	cds	-	0.0	K02002	23.9	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_1	76.5	actNOG.ENOG4100DR2.meta_raw	395.7
+CLI4811|pBCI2-1_0006927	sulfonate/nitrate/taurine transport system ATP-binding protein	315072	315881	00	315072	-1	contig.1	cds	-	0.0	K02049	348.9	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	107.2	actNOG.ENOG4100CWA.meta_raw	417.3
+CLI4811|pBCI2-1_0006928	sulfonate/nitrate/taurine transport system substrate-binding protein	315881	316975	00	315881	-1	contig.1	cds	-	0.0	K02051	109.2	-	0.0	-	0.0	-	0.0	-	0.0	NMT1	72.6	actNOG.ENOG4100DYU.meta_raw	505.1
+CLI4811|pBCI2-1_0006929	taurine dioxygenase	317108	318067	00	317108	-1	contig.1	cds	-	0.0	K03119	348.9	-	0.0	-	0.0	-	0.0	-	0.0	TauD	193.3	actNOG.ENOG4100GKK.meta_raw	472.4
+CLI4811|pBCI2-1_0006930	glucokinase	318376	319644	00	318376	-1	contig.1	cds	-	0.0	K00845	66.0	-	0.0	-	0.0	-	0.0	-	0.0	ROK	99.2	actNOG.ENOG4100CVC.meta_raw	460.3
+CLI4811|pBCI2-1_0006931	iron(III) transport system permease protein	319912	320757	00	319912	-1	contig.1	cds	-	0.0	K02011	25.2	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_1	83.9	actNOG.ENOG4100EEE.meta_raw	379.7
+CLI4811|pBCI2-1_0006932	ABC transporter, substrate-binding protein, aliphatic sulfonates family	320754	321776	00	320754	-1	contig.1	cds	TIGR01728	222.3	K02051	160.7	-	0.0	-	0.0	-	0.0	-	0.0	NMT1	93.1	actNOG.ENOG4100DH3.meta_raw	456.7
+CLI4811|pBCI2-1_0006933	sulfonate/nitrate/taurine transport system ATP-binding protein	321794	322606	00	321794	-1	contig.1	cds	-	0.0	K02049	287.7	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	108.2	actNOG.ENOG4100E94.meta_raw	362.8
+CLI4811|pBCI2-1_0006934	K00257 family protein	322811	324010	00	322811	-1	contig.1	cds	-	0.0	K00257	127.3	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_2	36.1,41.7,58.0	actNOG.ENOG4100EUJ.meta_raw	504.6
+CLI4811|pBCI2-1_0006935	FMN-dependent oxidoreductase, nitrilotriacetate monooxygenase family	324182	325549	00	324182	-1	contig.1	cds	TIGR03860	485.6	K04091	241.4	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	195.2	actNOG.ENOG4100DNK.meta_raw	610.7
+CLI4811|pBCI2-1_0006936	glycine betaine/proline transport system substrate-binding protein	326165	327010	00	326165	1	contig.1	cds	-	0.0	K02002	50.0	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_1	102.2	actNOG.ENOG4100GC3.meta_raw	422.4
+CLI4811|pBCI2-1_0006937	putative taurine ABC transporter, periplasmic binding protein	327007	328047	00	327007	1	contig.1	cds	TIGR01729	221.3	K02051	135.6	-	0.0	-	0.0	-	0.0	-	0.0	NMT1_2	53.8	actNOG.ENOG4100DCS.meta_raw	509.8
+CLI4811|pBCI2-1_0006938	sulfonate/nitrate/taurine transport system ATP-binding protein	328028	328837	00	328028	1	contig.1	cds	-	0.0	K02049	284.3	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	98.1	actNOG.ENOG4100EDM.meta_raw	437.8
+CLI4811|pBCI2-1_0006939	TetR/AcrR family transcriptional regulator, acrAB operon repressor	328894	329463	00	328894	-1	contig.1	cds	-	0.0	K03577	36.6	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	55.9	actNOG.ENOG4100P3A.meta_raw	205.7
+CLI4811|pBCI2-1_0006940	PFAM DUF4242 domain protein	329793	330329	00	329793	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF4242	62.5	actNOG.ENOG4100K2F.meta_raw	252.1
+CLI4811|pBCI2-1_0006941	K00257 family protein	330326	331351	00	330326	1	contig.1	cds	-	0.0	K00257	53.1	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100HUN.meta_raw	400.5
+CLI4811|pBCI2-1_0006942	sulfonate/nitrate/taurine transport system ATP-binding protein	331327	332046	00	331327	1	contig.1	cds	-	0.0	K02049	232.1	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	92.0	actNOG.ENOG4100IRY.meta_raw	323.6
+CLI4811|pBCI2-1_0006943	sulfonate/nitrate/taurine transport system substrate-binding protein	332043	333212	00	332043	1	contig.1	cds	-	0.0	K02051	136.0	-	0.0	-	0.0	-	0.0	-	0.0	NMT1_2	139.0	actNOG.ENOG4100GJM.meta_raw	551.9
+CLI4811|pBCI2-1_0006944	glycine betaine/proline transport system substrate-binding protein	333209	334012	00	333209	1	contig.1	cds	-	0.0	K02002	26.9	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_1	69.5	actNOG.ENOG4100ER8.meta_raw	320.1
+CLI4811|pBCI2-1_0006945	putative hydroxyethylthiazole kinase	334114	334887	00	334114	1	contig.1	cds	TIGR00694	192.9	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HK	194.9	actNOG.ENOG4100HNV.meta_raw	254.7
+CLI4811|pBCI2-1_0006946	FMN-dependent oxidoreductase, nitrilotriacetate monooxygenase family	334900	336219	00	334900	1	contig.1	cds	TIGR03860	497.6	K00492	259.1	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	202.5	actNOG.ENOG4100FQE.meta_raw	629.3
+CLI4811|pBCI2-1_0006947	thiosulfate/3-mercaptopyruvate sulfurtransferase	336216	337040	00	336216	1	contig.1	cds	-	0.0	K01011	196.0	-	0.0	-	0.0	-	0.0	-	0.0	Rhodanese,Rhodanese	51.8,31.8	actNOG.ENOG4100JSB.meta_raw	248.8
+CLI4811|pBCI2-1_0006948	GntR family transcriptional regulator, vanillate catabolism	337065	337829	00	337065	-1	contig.1	cds	-	0.0	K11475	62.2	-	0.0	-	0.0	-	0.0	-	0.0	GntR,FCD	47.5,60.4	actNOG.ENOG4100RSZ.meta_raw	201.4
+CLI4811|pBCI2-1_0006949	putative molybdopterin guanine dinucleotide-containing S/N-oxide reductases	337899	339851	00	337899	1	contig.1	cds	TIGR00509	654.3	K00122	120.7	-	0.0	-	0.0	-	0.0	-	0.0	Molybdopterin	193.3	actNOG.ENOG4100DF9.meta_raw	820.2
+CLI4811|pBCI2-1_0006950	PFAM Molydop_binding domain protein	339848	340183	00	339848	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Molydop_binding	65.9	actNOG.ENOG4100DF9.meta_raw	146.8
+CLI4811|pBCI2-1_0006951	peptide/nickel transport system ATP-binding protein	340192	341871	00	340192	-1	contig.1	cds	-	0.0	K02032	340.1	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran,ABC_tran	78.1,103.1	actNOG.ENOG410150S.meta_raw	670.5
+CLI4811|pBCI2-1_0006952	peptide/nickel transport system permease protein	341850	342713	00	341850	-1	contig.1	cds	-	0.0	K02033	44.4	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_1	87.0	actNOG.ENOG4100DI9.meta_raw	364.5
+CLI4811|pBCI2-1_0006953	peptide/nickel transport system permease protein	342710	343699	00	342710	-1	contig.1	cds	-	0.0	K02033	254.4	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_1	83.6	actNOG.ENOG4100EFF.meta_raw	403.2
+CLI4811|pBCI2-1_0006954	peptide/nickel transport system substrate-binding protein	343696	345336	00	343696	-1	contig.1	cds	-	0.0	K02035	199.8	-	0.0	-	0.0	-	0.0	-	0.0	SBP_bac_5	220.5	actNOG.ENOG4100D1I.meta_raw	533.0
+CLI4811|pBCI2-1_0006955	K00257 family protein	345333	346517	00	345333	-1	contig.1	cds	-	0.0	K00257	113.7	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_M,Acyl-CoA_dh_2	41.5,54.8	actNOG.ENOG4100EJC.meta_raw	543.0
+CLI4811|pBCI2-1_0006956	alkanesulfonate monooxygenase	346514	347722	00	346514	-1	contig.1	cds	-	0.0	K04091	310.1	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	229.2	actNOG.ENOG4100CUW.meta_raw	425.0
+CLI4811|pBCI2-1_0006957	putative glycolate oxidase, subunit GlcD	347851	349197	00	347851	-1	contig.1	cds	TIGR00387	356.0	K11472	184.8	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_4,FAD-oxidase_C	132.7,169.4	actNOG.ENOG4100BJG.meta_raw	535.8
+CLI4811|pBCI2-1_0006958	thiosulfate/3-mercaptopyruvate sulfurtransferase	349458	350315	00	349458	-1	contig.1	cds	-	0.0	K01011	334.4	-	0.0	-	0.0	-	0.0	-	0.0	Rhodanese,Rhodanese	53.3,31.0	actNOG.ENOG4100DFC.meta_raw	455.4
+CLI4811|pBCI2-1_0006959	def peptide deformylase	350312	351076	00	350312	-1	contig.1	cds	-	0.0	K06889	35.8	-	0.0	-	0.0	-	0.0	-	0.0	Hydrolase_4	25.5	actNOG.ENOG4100KRD.meta_raw	290.9
+CLI4811|pBCI2-1_0006960	LysR family transcriptional activator, hca operon	351226	352281	00	351226	1	contig.1	cds	-	0.0	K05817	70.8	-	0.0	-	0.0	-	0.0	-	0.0	HTH_1,LysR_substrate	59.0,68.4	actNOG.ENOG4100IVS.meta_raw	392.7
+CLI4811|pBCI2-1_0006961	PPOX class probable F420-dependent enzyme	352295	352753	00	352295	-1	contig.1	cds	TIGR03618	83.9	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Pyridox_oxidase	49.9	actNOG.ENOG4100MNX.meta_raw	202.9
+CLI4811|pBCI2-1_0006962	GntR family transcriptional regulator, vanillate catabolism	353327	354001	00	353327	1	contig.1	cds	-	0.0	K11475	78.8	-	0.0	-	0.0	-	0.0	-	0.0	GntR,FCD	53.7,85.5	actNOG.ENOG4100M49.meta_raw	264.2
+CLI4811|pBCI2-1_0006963	MFS transporter, shikimate and dehydroshikimate	354170	355489	00	354170	1	contig.1	cds	-	0.0	K08172	404.5	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	55.1	actNOG.ENOG4100BEI.meta_raw	454.3
+CLI4811|pBCI2-1_0006964	4-hydroxy-tetrahydrodipicolinate synthase	355539	356465	00	355539	1	contig.1	cds	TIGR00674	211.0	K01714	308.4	-	0.0	-	0.0	-	0.0	-	0.0	DHDPS	243.4	actNOG.ENOG4100DAT.meta_raw	421.1
+CLI4811|pBCI2-1_0006965	PFAM Pro_racemase domain protein	356462	357463	00	356462	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Pro_racemase	417.9	actNOG.ENOG4100E5G.meta_raw	493.4
+CLI4811|pBCI2-1_0006966	putative transposase	358625	359311	00	358625	1	contig.1	cds	-	0.0	K07493	91.2	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	130.2	actNOG.ENOG4100BTD.meta_raw	160.0
+CLI4811|pBCI2-1_0006967	hypothetical protein	359308	359457	00	359308	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100BTD.meta_raw	31.0
+CLI4811|pBCI2-1_0006968	transposase	359599	360828	00	359599	1	contig.1	cds	-	0.0	K07486	119.4	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	97.3,43.7	actNOG.ENOG4100CWJ.meta_raw	438.1
+CLI4811|pBCI2-1_0006969	hypothetical protein	361233	361400	00	361233	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG410110G.meta_raw	60.8
+CLI4811|pBCI2-1_0006970	4-hydroxy-tetrahydrodipicolinate synthase	361921	362799	00	361921	-1	contig.1	cds	TIGR00674	210.5	K01714	290.9	-	0.0	-	0.0	-	0.0	-	0.0	DHDPS	241.5	actNOG.ENOG4100DAT.meta_raw	393.5
+CLI4811|pBCI2-1_0006971	monoamine oxidase	362841	364247	00	362841	-1	contig.1	cds	-	0.0	K00274	138.0	-	0.0	-	0.0	-	0.0	-	0.0	Amino_oxidase	111.5	actNOG.ENOG4100EZP.meta_raw	789.6
+CLI4811|pBCI2-1_0006972	MFS transporter, putative metabolite:H+ symporter	364346	365713	00	364346	-1	contig.1	cds	-	0.0	K08369	298.2	-	0.0	-	0.0	-	0.0	-	0.0	Sugar_tr	189.7	actNOG.ENOG4100EQ8.meta_raw	429.7
+CLI4811|pBCI2-1_0006973	carbohydrate diacid regulator	366047	367306	00	366047	1	contig.1	cds	-	0.0	K02647	80.6	-	0.0	-	0.0	-	0.0	-	0.0	HTH_30	69.6	actNOG.ENOG41011X1.meta_raw	253.1
+CLI4811|pBCI2-1_0006974	PFAM DUF4096 domain protein	367792	368208	00	367792	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF4096	80.9	actNOG.ENOG4100KR9.meta_raw	151.1
+CLI4811|pBCI2-1_0006975	circadian clock protein KaiC	368238	369698	00	368238	-1	contig.1	cds	-	0.0	K08482	34.6	-	0.0	-	0.0	-	0.0	-	0.0	PLDc_2,DnaB_C	31.8,201.7	actNOG.ENOG4100BK8.meta_raw	264.0
+CLI4811|pBCI2-1_0006976	PFAM rve domain protein	370503	372002	00	370503	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	rve	69.9	actNOG.ENOG4100EZ5.meta_raw	362.5
+CLI4811|pBCI2-1_0006977	K07133 family protein	371999	372766	00	371999	1	contig.1	cds	-	0.0	K07133	23.0	-	0.0	-	0.0	-	0.0	-	0.0	IstB_IS21	229.1	actNOG.ENOG4100FS1.meta_raw	304.6
+CLI4811|pBCI2-1_0006978	PFAM UvrD-helicase domain protein	372715	373326	00	372715	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	UvrD-helicase	36.2	actNOG.ENOG4100G4C.meta_raw	38.3
+CLI4811|pBCI2-1_0006979	putative ATP-dependent endonuclease of the OLD family	373594	375465	00	373594	-1	contig.1	cds	-	0.0	K07459	206.8	-	0.0	-	0.0	-	0.0	-	0.0	AAA_15,AAA_15	25.4,42.5	actNOG.ENOG41011JY.meta_raw	79.3
+CLI4811|pBCI2-1_0006980	hypothetical protein	375601	375777	00	375601	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006981	PFAM Methyltransf_13-Methyltransf_23-Methyltransf_14 domain protein	375794	377035	00	375794	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Methyltransf_13,Methyltransf_23,Methyltransf_14	60.5,40.9,152.6	actNOG.ENOG4100ICM.meta_raw	613.3
+CLI4811|pBCI2-1_0006982	glucose-1-phosphate thymidylyltransferase, short form	377465	378358	00	377465	1	contig.1	cds	TIGR01207	431.1	K00973	378.2	-	0.0	-	0.0	-	0.0	-	0.0	NTP_transferase	197.7	actNOG.ENOG4100CN6.meta_raw	455.4
+CLI4811|pBCI2-1_0006983	dTDP-glucose 4,6-dehydratase	378370	379353	00	378370	1	contig.1	cds	TIGR01181	431.1	K01784	254.7	-	0.0	-	0.0	-	0.0	NAD_binding_4	73.6	GDP_Man_Dehyd	260.4	actNOG.ENOG4100BR6.meta_raw	473.5
+CLI4811|pBCI2-1_0006984	PFAM Hexose_dehydrat-Hexose_dehydrat domain protein	379353	380657	00	379353	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Hexose_dehydrat,Hexose_dehydrat	262.2,206.6	actNOG.ENOG4100CX7.meta_raw	595.5
+CLI4811|pBCI2-1_0006985	two-component response regulator CpxR	381035	381742	00	381035	1	contig.1	cds	-	0.0	K07662	162.1	-	0.0	-	0.0	-	0.0	-	0.0	Response_reg,Trans_reg_C	59.1,79.1	actNOG.ENOG4100IXM.meta_raw	250.1
+CLI4811|pBCI2-1_0006986	PFAM FMN_red domain protein	381872	382498	00	381872	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	FMN_red	106.4	actNOG.ENOG4100IN3.meta_raw	196.4
+CLI4811|pBCI2-1_0006987	putative redox-sensitive transcriptional activator SoxR	382568	382969	00	382568	1	contig.1	cds	TIGR01950	85.3	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MerR_1	42.8	actNOG.ENOG4100K33.meta_raw	87.1
+CLI4811|pBCI2-1_0006988	PFAM MFS_3 domain protein	383010	384353	00	383010	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MFS_3	112.9	actNOG.ENOG4100GB1.meta_raw	503.1
+CLI4811|pBCI2-1_0006989	hypothetical protein	385159	385290	00	385159	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0006990	3-oxoacyl-(acyl-carrier protein) reductase	385432	387735	00	385432	-1	contig.1	cds	-	0.0	K00059	203.2	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_3,adh_short_C2	239.6,155.9	actNOG.ENOG4100GPK.meta_raw	708.5
+CLI4811|pBCI2-1_0006991	PFAM Polyketide_cyc2 domain protein	387768	388712	00	387768	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Polyketide_cyc2	46.5	actNOG.ENOG4100GAH.meta_raw	489.7
+CLI4811|pBCI2-1_0006992	(R,R)-butanediol dehydrogenase / diacetyl reductase	388742	389521	00	388742	-1	contig.1	cds	-	0.0	K03366	221.3	-	0.0	-	0.0	-	0.0	-	0.0	adh_short	214.1	actNOG.ENOG4100D30.meta_raw	419.3
+CLI4811|pBCI2-1_0006993	putative acetyl-CoA carboxylase, biotin carboxylase subunit	389523	390971	00	389523	-1	contig.1	cds	TIGR00514	614.6	K01961	650.8	-	0.0	-	0.0	-	0.0	-	0.0	Biotin_carb_N,CPSase_L_D2,Biotin_carb_C	151.1,251.2,115.7	actNOG.ENOG4100BJ3.meta_raw	708.2
+CLI4811|pBCI2-1_0006994	acetyl-CoA carboxylase biotin carboxyl carrier protein	390982	391524	00	390982	-1	contig.1	cds	-	0.0	K02160	123.1	-	0.0	-	0.0	-	0.0	-	0.0	Biotin_lipoyl	46.3	actNOG.ENOG4100Q8W.meta_raw	137.4
+CLI4811|pBCI2-1_0006995	acetyl-CoA carboxylase, carboxyl transferase, beta subunit	391527	393266	00	391527	-1	contig.1	cds	TIGR00515	320.2	K01963	588.8	-	0.0	-	0.0	-	0.0	-	0.0	ACCA	122.3	actNOG.ENOG4100EJJ.meta_raw	727.6
+CLI4811|pBCI2-1_0006996	antiSMASH PP-binding domain protein	393268	393519	00	393268	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	PP-binding	32.8	PP-binding	33.7	actNOG.ENOG4100TIP.meta_raw	108.3
+CLI4811|pBCI2-1_0006997	3-oxoacyl-(acyl-carrier-protein) synthase II	393576	394793	00	393576	-1	contig.1	cds	-	0.0	K09458	310.8	-	0.0	-	0.0	-	0.0	t2clf	640.2	ketoacyl-synt,Ketoacyl-synt_C	142.7,70.0	actNOG.ENOG4100CN1.meta_raw	604.6
+CLI4811|pBCI2-1_0006998	3-oxoacyl-(acyl-carrier-protein) synthase II	394790	396061	00	394790	-1	contig.1	cds	-	0.0	K09458	491.9	-	0.0	-	0.0	-	0.0	t2ks	771.2	ketoacyl-synt,Ketoacyl-synt_C	193.0,113.8	actNOG.ENOG4100BNA.meta_raw	539.6
+CLI4811|pBCI2-1_0006999	PFAM Cyclase_polyket domain protein	396061	396390	00	396061	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Cyclase_polyket	140.9	actNOG.ENOG4100PTM.meta_raw	174.4
+CLI4811|pBCI2-1_0007000	salicylate hydroxylase	396430	397923	00	396430	-1	contig.1	cds	-	0.0	K00480	103.9	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_3	296.5	actNOG.ENOG4100BHR.meta_raw	613.1
+CLI4811|pBCI2-1_0007001	dbCAN GT1 domain protein	398415	399557	00	398415	1	contig.1	cds	-	0.0	-	0.0	-	0.0	GT1	78.7	-	0.0	MGT2/MGT	262.5	DUF1205	31.6	actNOG.ENOG4100F4I.meta_raw	285.2
+CLI4811|pBCI2-1_0007002	hypothetical protein	399563	400462	00	399563	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007003	UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	400603	401751	00	400603	1	contig.1	cds	-	0.0	K07806	237.0	-	0.0	-	0.0	-	0.0	-	0.0	DegT_DnrJ_EryC1	372.5	actNOG.ENOG4100EN1.meta_raw	445.3
+CLI4811|pBCI2-1_0007004	PFAM dTDP_sugar_isom domain protein	402071	402361	00	402071	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	dTDP_sugar_isom	43.5	actNOG.ENOG4100H4V.meta_raw	81.0
+CLI4811|pBCI2-1_0007005	UDP-glucose 4-epimerase	402424	403446	00	402424	1	contig.1	cds	-	0.0	K01784	142.7	-	0.0	-	0.0	-	0.0	-	0.0	Epimerase	131.9	actNOG.ENOG4100HJ9.meta_raw	444.5
+CLI4811|pBCI2-1_0007006	hypothetical protein	403612	404517	00	403612	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007007	NADH dehydrogenase	404510	405373	00	404510	1	contig.1	cds	-	0.0	K00356	50.7	-	0.0	-	0.0	-	0.0	-	0.0	NAD_binding_10	84.1	actNOG.ENOG4100WYE.meta_raw	296.8
+CLI4811|pBCI2-1_0007008	dbCAN GT1 domain protein	405370	406509	00	405370	1	contig.1	cds	-	0.0	-	0.0	-	0.0	GT1	96.4	-	0.0	MGT2/MGT	270.5	DUF1205	58.4	actNOG.ENOG4100F4I.meta_raw	404.4
+CLI4811|pBCI2-1_0007009	PFAM FMN_red domain protein	406599	407210	00	406599	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	FMN_red	127.9	actNOG.ENOG4100IN3.meta_raw	273.8
+CLI4811|pBCI2-1_0007010	hypothetical protein	407323	408342	00	407323	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010BC.meta_raw	57.3
+CLI4811|pBCI2-1_0007011	PFAM APH domain protein	408335	408670	00	408335	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	APH	51.3	actNOG.ENOG4100FS3.meta_raw	209.9
+CLI4811|pBCI2-1_0007012	hypothetical protein	408892	409359	00	408892	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007013	hypothetical protein	409318	409845	00	409318	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100Y8Q.meta_raw	178.5
+CLI4811|pBCI2-1_0007014	PFAM DUF2269 domain protein	409946	410389	00	409946	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF2269	28.0	actNOG.ENOG4100T7E.meta_raw	128.2
+CLI4811|pBCI2-1_0007015	TetR/AcrR family transcriptional regulator, acrAB operon repressor	410606	411220	00	410606	1	contig.1	cds	-	0.0	K03577	60.9	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	54.2	actNOG.ENOG4100NI6.meta_raw	121.3
+CLI4811|pBCI2-1_0007016	PFAM 2-ph_phosp domain protein	411453	412229	00	411453	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	2-ph_phosp	75.3	actNOG.ENOG4100IWN.meta_raw	327.6
+CLI4811|pBCI2-1_0007017	K06979 family protein	412226	413116	00	412226	-1	contig.1	cds	-	0.0	K06979	138.4	-	0.0	-	0.0	-	0.0	-	0.0	APH	110.4	actNOG.ENOG4100GW0.meta_raw	332.0
+CLI4811|pBCI2-1_0007018	hypothetical protein	413192	413305	00	413192	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007019	hypothetical protein	413244	414275	00	413244	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007020	hypothetical protein	414275	414946	00	414275	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010N9.meta_raw	90.3
+CLI4811|pBCI2-1_0007021	hypothetical protein	415182	415922	00	415182	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100KNK.meta_raw	64.1
+CLI4811|pBCI2-1_0007022	PFAM TetR_C domain protein	415977	416720	00	415977	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	TetR_C	71.7	actNOG.ENOG4100IE6.meta_raw	219.8
+CLI4811|pBCI2-1_0007023	chaperonin GroL	416859	418493	00	416859	1	contig.1	cds	TIGR02348	811.1	K04077	837.5	-	0.0	-	0.0	-	0.0	-	0.0	Cpn60_TCP1	305.3	actNOG.ENOG4100BW6.meta_raw	936.5
+CLI4811|pBCI2-1_0007024	hypothetical protein	418595	419782	00	418595	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100JU0.meta_raw	340.0
+CLI4811|pBCI2-1_0007025	transposase	419730	420953	00	419730	-1	contig.1	cds	-	0.0	K07486	177.1	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	158.7,66.4	actNOG.ENOG4100DKU.meta_raw	560.5
+CLI4811|pBCI2-1_0007026	hypothetical protein	421165	422088	00	421165	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100WNZ.meta_raw	111.2
+CLI4811|pBCI2-1_0007027	putative transcriptional regulator	422085	422420	00	422085	-1	contig.1	cds	-	0.0	K07727	37.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_26	76.1	actNOG.ENOG4100QU9.meta_raw	154.5
+CLI4811|pBCI2-1_0007028	PFAM Phage_integrase domain protein	422417	423298	00	422417	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Phage_integrase	68.1	actNOG.ENOG4100GJF.meta_raw	394.9
+CLI4811|pBCI2-1_0007029	PFAM Phage_integrase domain protein	423725	424486	00	423725	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Phage_integrase	44.3	actNOG.ENOG4100MJS.meta_raw	255.2
+CLI4811|pBCI2-1_0007030	hypothetical protein	424867	425271	00	424867	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007031	hypothetical protein	425322	426947	00	425322	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007032	PFAM Phage_int_SAM_1 domain protein	427030	427470	00	427030	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Phage_int_SAM_1	31.3	actNOG.ENOG4100MJS.meta_raw	79.5
+CLI4811|pBCI2-1_0007033	hypothetical protein	427521	427901	00	427521	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007034	hypothetical protein	428359	429213	00	428359	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007035	hypothetical protein	429466	429828	00	429466	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007036	PFAM PIN domain protein	429879	430232	00	429879	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	PIN	31.2	actNOG.ENOG4100Q8N.meta_raw	135.3
+CLI4811|pBCI2-1_0007037	looped-hinge helix DNA binding domain, AbrB family	430312	430599	00	430312	-1	contig.1	cds	TIGR01439	40.8	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MazE_antitoxin	28.6	-	0.0
+CLI4811|pBCI2-1_0007038	hypothetical protein	430747	432120	00	430747	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100H55.meta_raw	26.9
+CLI4811|pBCI2-1_0007039	hypothetical protein	432218	432544	00	432218	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007040	hypothetical protein	433117	433317	00	433117	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007041	hypothetical protein	433454	433813	00	433454	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007042	hypothetical protein	434512	434739	00	434512	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007043	23S rRNA (guanine745-N1)-methyltransferase	435381	435782	00	435381	1	contig.1	cds	-	0.0	K00563	69.1	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100HJ7.meta_raw	102.6
+CLI4811|pBCI2-1_0007044	TIGR02677 family protein	435948	437507	00	435948	1	contig.1	cds	TIGR02677	462.1	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF2397	420.9	actNOG.ENOG4100G1Y.meta_raw	571.1
+CLI4811|pBCI2-1_0007045	TIGR02678 family protein	437504	438742	00	437504	1	contig.1	cds	TIGR02678	321.1	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF2398	345.2	actNOG.ENOG4100ECK.meta_raw	420.4
+CLI4811|pBCI2-1_0007046	TIGR02680 family protein	438739	442836	00	438739	1	contig.1	cds	TIGR02680	998.6	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SbcCD_C	67.8	actNOG.ENOG4100CQU.meta_raw	1215.9
+CLI4811|pBCI2-1_0007047	TIGR02679 family protein	442826	444067	00	442826	1	contig.1	cds	TIGR02679	308.3	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF3323,DUF2399	153.0,151.2	actNOG.ENOG4100G80.meta_raw	437.1
+CLI4811|pBCI2-1_0007048	hypothetical protein	444135	444443	00	444135	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100Y75.meta_raw	82.9
+CLI4811|pBCI2-1_0007049	hypothetical protein	444484	445113	00	444484	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100M9W.meta_raw	127.7
+CLI4811|pBCI2-1_0007050	TetR/AcrR family transcriptional regulator, acrAB operon repressor	445348	445974	00	445348	-1	contig.1	cds	-	0.0	K03577	44.9	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N,TetR_C_6	28.7,37.8	actNOG.ENOG4100Q00.meta_raw	195.0
+CLI4811|pBCI2-1_0007051	carboxylesterase type B	446248	447711	00	446248	1	contig.1	cds	-	0.0	K03927	402.4	-	0.0	CE1	29.6	-	0.0	-	0.0	COesterase	275.7	actNOG.ENOG4100CN4.meta_raw	485.3
+CLI4811|pBCI2-1_0007052	def peptide deformylase	447728	448525	00	447728	1	contig.1	cds	-	0.0	K06889	32.7	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	61.0	actNOG.ENOG41010KA.meta_raw	103.8
+CLI4811|pBCI2-1_0007053	PFAM YCII domain protein	448594	448968	00	448594	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	YCII	33.7	actNOG.ENOG4100PT8.meta_raw	179.8
+CLI4811|pBCI2-1_0007054	hypothetical protein	449111	449311	00	449111	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007055	3-oxoacid CoA-transferase subunit B	449326	449856	00	449326	1	contig.1	cds	-	0.0	K01029	23.7	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41014P6.meta_raw	30.1
+CLI4811|pBCI2-1_0007056	PFAM Lactamase_B domain protein	449853	450287	00	449853	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Lactamase_B	27.0	actNOG.ENOG4100FX6.meta_raw	130.6
+CLI4811|pBCI2-1_0007057	AraC family transcriptional regulator	450844	451710	00	450844	1	contig.1	cds	-	0.0	K13653	282.6	-	0.0	-	0.0	-	0.0	-	0.0	HTH_18,GyrI-like	60.8,59.0	actNOG.ENOG4100EA7.meta_raw	369.2
+CLI4811|pBCI2-1_0007058	hypothetical protein	451977	452957	00	451977	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007059	type I restriction enzyme M protein	452954	454657	00	452954	-1	contig.1	cds	-	0.0	K03427	64.1	-	0.0	-	0.0	-	0.0	-	0.0	N6_Mtase	54.6	actNOG.ENOG4100SIM.meta_raw	508.8
+CLI4811|pBCI2-1_0007060	K07045 family protein	454669	456306	00	454669	-1	contig.1	cds	-	0.0	K07045	36.5	-	0.0	-	0.0	-	0.0	-	0.0	AIPR	92.7	actNOG.ENOG4100CFG.meta_raw	109.1
+CLI4811|pBCI2-1_0007061	hypothetical protein	456273	456938	00	456273	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007062	hypothetical protein	457229	457462	00	457229	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100P8Q.meta_raw	100.5
+CLI4811|pBCI2-1_0007063	putative transposase	457743	458078	00	457743	1	contig.1	cds	-	0.0	K07497	34.6	-	0.0	-	0.0	-	0.0	-	0.0	rve	47.1	actNOG.ENOG4100E0Q.meta_raw	110.5
+CLI4811|pBCI2-1_0007064	PFAM rve_2 domain protein	458095	458310	00	458095	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	rve_2	29.6	actNOG.ENOG4100E0Q.meta_raw	61.8
+CLI4811|pBCI2-1_0007065	hypothetical protein	458417	459235	00	458417	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100MTS.meta_raw	214.4
+CLI4811|pBCI2-1_0007066	long-chain acyl-CoA synthetase	459232	460701	00	459232	-1	contig.1	cds	-	0.0	K01897	169.7	-	0.0	-	0.0	-	0.0	AMP-binding	156.7	AMP-binding	134.6	actNOG.ENOG4100DGX.meta_raw	211.0
+CLI4811|pBCI2-1_0007067	K00257 family protein	460707	461852	00	460707	-1	contig.1	cds	-	0.0	K00257	270.6	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	67.1,64.0,111.3	actNOG.ENOG4100IC9.meta_raw	246.2
+CLI4811|pBCI2-1_0007068	MFS transporter, putative metabolite:H+ symporter	461909	463345	00	461909	-1	contig.1	cds	-	0.0	K08369	400.1	-	0.0	-	0.0	-	0.0	-	0.0	Sugar_tr	126.4	actNOG.ENOG4100E0X.meta_raw	393.6
+CLI4811|pBCI2-1_0007069	enoyl-CoA hydratase	463412	464224	00	463412	-1	contig.1	cds	-	0.0	K01692	247.2	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	171.2	actNOG.ENOG4100JAD.meta_raw	287.6
+CLI4811|pBCI2-1_0007070	fumarylacetoacetase	464224	465153	00	464224	-1	contig.1	cds	-	0.0	K01555	69.4	-	0.0	-	0.0	-	0.0	-	0.0	FAA_hydrolase	180.9	actNOG.ENOG4100FX6.meta_raw	384.0
+CLI4811|pBCI2-1_0007071	hydroxyacylglutathione hydrolase	465153	466109	00	465153	-1	contig.1	cds	-	0.0	K01069	35.2	ClassB	81.9	-	0.0	-	0.0	-	0.0	Lactamase_B	89.3	actNOG.ENOG41014U6.meta_raw	414.4
+CLI4811|pBCI2-1_0007072	TetR/AcrR family transcriptional regulator, acrAB operon repressor	466191	466799	00	466191	-1	contig.1	cds	-	0.0	K03577	35.6	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	41.5	actNOG.ENOG4100NI6.meta_raw	143.6
+CLI4811|pBCI2-1_0007073	xanthine dehydrogenase molybdenum-binding subunit	467019	469427	00	467019	1	contig.1	cds	-	0.0	K00087	466.0	-	0.0	-	0.0	-	0.0	-	0.0	Ald_Xan_dh_C,Ald_Xan_dh_C2	87.4,479.8	actNOG.ENOG4100C35.meta_raw	675.8
+CLI4811|pBCI2-1_0007074	PFAM FAD_binding_5 domain protein	469424	470260	00	469424	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_5	105.8	actNOG.ENOG4100E6P.meta_raw	141.2
+CLI4811|pBCI2-1_0007075	PFAM Fer2-Fer2_2 domain protein	470257	470757	00	470257	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Fer2,Fer2_2	28.8,84.5	actNOG.ENOG4100H68.meta_raw	173.8
+CLI4811|pBCI2-1_0007076	hypothetical protein	471273	471842	00	471273	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007077	PFAM Lipoprotein_Ltp-Lipoprotein_Ltp domain protein	472511	473119	00	472511	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Lipoprotein_Ltp,Lipoprotein_Ltp	51.4,47.8	actNOG.ENOG4100NU8.meta_raw	197.4
+CLI4811|pBCI2-1_0007078	hypothetical protein	473351	474289	00	473351	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100YQA.meta_raw	107.7
+CLI4811|pBCI2-1_0007079	K07001 family protein	474647	476167	00	474647	-1	contig.1	cds	-	0.0	K07001	67.9	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	132.5	actNOG.ENOG4100DFN.meta_raw	318.7
+CLI4811|pBCI2-1_0007080	PFAM Virulence_RhuM domain protein	476260	477291	00	476260	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Virulence_RhuM	338.6	actNOG.ENOG4100HSI.meta_raw	429.1
+CLI4811|pBCI2-1_0007081	PFAM Orn_Arg_deC_N-Orn_DAP_Arg_deC domain protein	477500	478351	00	477500	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Orn_Arg_deC_N,Orn_DAP_Arg_deC	26.9,30.1	actNOG.ENOG4100F4F.meta_raw	168.3
+CLI4811|pBCI2-1_0007082	PFAM Endonuclease_NS domain protein	478715	479533	00	478715	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Endonuclease_NS	139.1	actNOG.ENOG4100I9U.meta_raw	354.4
+CLI4811|pBCI2-1_0007083	hypothetical protein	480014	480439	00	480014	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100QWK.meta_raw	88.9
+CLI4811|pBCI2-1_0007084	hypothetical protein	480556	481239	00	480556	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100IBG.meta_raw	38.4
+CLI4811|pBCI2-1_0007085	hypothetical protein	481557	481766	00	481557	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007086	hypothetical protein	482983	483477	00	482983	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007087	hypothetical protein	483564	484733	00	483564	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007088	hypothetical protein	485392	485709	00	485392	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100NEK.meta_raw	120.9
+CLI4811|pBCI2-1_0007089	K00517 family protein	486133	487395	00	486133	-1	contig.1	cds	-	0.0	K00517	278.2	-	0.0	-	0.0	-	0.0	-	0.0	p450	65.8	actNOG.ENOG4100ER3.meta_raw	420.4
+CLI4811|pBCI2-1_0007090	transposase	487757	488065	00	487757	1	contig.1	cds	-	0.0	K07483	65.9	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	37.8	actNOG.ENOG4100MKX.meta_raw	132.6
+CLI4811|pBCI2-1_0007091	putative transposase	488234	488929	00	488234	1	contig.1	cds	-	0.0	K07497	108.5	-	0.0	-	0.0	-	0.0	-	0.0	rve	87.8	actNOG.ENOG4100C2S.meta_raw	330.2
+CLI4811|pBCI2-1_0007092	PFAM Abhydrolase_6 domain protein	488949	489794	00	488949	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	54.1	actNOG.ENOG4100P62.meta_raw	257.8
+CLI4811|pBCI2-1_0007093	transposase	490163	491227	00	490163	-1	contig.1	cds	-	0.0	K07486	134.2	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	57.8,65.5	actNOG.ENOG4100MD1.meta_raw	373.4
+CLI4811|pBCI2-1_0007094	PFAM Ribonuc_L-PSP domain protein	491900	492289	00	491900	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Ribonuc_L-PSP	65.5	actNOG.ENOG4100Q18.meta_raw	117.4
+CLI4811|pBCI2-1_0007095	PFAM Pyridox_oxidase domain protein	492401	492835	00	492401	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Pyridox_oxidase	47.1	actNOG.ENOG410122I.meta_raw	169.0
+CLI4811|pBCI2-1_0007096	TIGR03086 family protein	492891	493433	00	492891	-1	contig.1	cds	TIGR03086	95.9	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MDMPI_N	53.3	actNOG.ENOG4100KVW.meta_raw	148.3
+CLI4811|pBCI2-1_0007097	PFAM MarR domain protein	493460	493732	00	493460	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MarR	33.7	actNOG.ENOG4100PZU.meta_raw	51.5
+CLI4811|pBCI2-1_0007098	hypothetical protein	493717	493887	00	493717	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007099	hypothetical protein	493997	494140	00	493997	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100IST.meta_raw	37.5
+CLI4811|pBCI2-1_0007100	PPOX class probable F420-dependent enzyme	494228	495238	00	494228	1	contig.1	cds	TIGR03618	117.1	K07005	35.7	-	0.0	-	0.0	-	0.0	-	0.0	Pyridox_oxidase	50.1	actNOG.ENOG4100IST.meta_raw	256.0
+CLI4811|pBCI2-1_0007101	PFAM EamA domain protein	495242	496210	00	495242	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	EamA	29.5	actNOG.ENOG41012CU.meta_raw	28.5
+CLI4811|pBCI2-1_0007102	PFAM HTH_20 domain protein	496244	496582	00	496244	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_20	51.1	actNOG.ENOG4100QEZ.meta_raw	87.4
+CLI4811|pBCI2-1_0007103	PFAM Resolvase-HTH_7 domain protein	496807	497328	00	496807	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Resolvase,HTH_7	108.6,27.2	actNOG.ENOG4100MMR.meta_raw	196.3
+CLI4811|pBCI2-1_0007104	hypothetical protein	497424	497714	00	497424	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007105	hypothetical protein	497711	497818	00	497711	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007106	hypothetical protein	497825	498220	00	497825	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100Q8B.meta_raw	51.2
+CLI4811|pBCI2-1_0007107	PFAM HTH_31 domain protein	498454	498900	00	498454	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_31	27.9	actNOG.ENOG4100ZZC.meta_raw	33.8
+CLI4811|pBCI2-1_0007108	PFAM Lsr2 domain protein	500248	500649	00	500248	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Lsr2	48.4	actNOG.ENOG4100NQM.meta_raw	39.9
+CLI4811|pBCI2-1_0007109	hypothetical protein	500706	501230	00	500706	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007110	dipeptidyl-peptidase 4	502202	504505	00	502202	-1	contig.1	cds	-	0.0	K01278	354.7	-	0.0	CE1	37.7	-	0.0	-	0.0	DPPIV_N,Peptidase_S9	134.3,118.9	actNOG.ENOG4100CCN.meta_raw	395.2
+CLI4811|pBCI2-1_0007111	PFAM DUF998 domain protein	505084	505797	00	505084	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF998	111.8	actNOG.ENOG4100PJB.meta_raw	252.6
+CLI4811|pBCI2-1_0007112	hypothetical protein	506502	506801	00	506502	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100T7W.meta_raw	70.1
+CLI4811|pBCI2-1_0007113	integrase/recombinase XerD	507540	508646	00	507540	1	contig.1	cds	-	0.0	K04763	125.9	-	0.0	-	0.0	-	0.0	-	0.0	Phage_integrase	72.0	actNOG.ENOG4100GJF.meta_raw	584.2
+CLI4811|pBCI2-1_0007114	putative transcriptional regulator	508643	508975	00	508643	1	contig.1	cds	-	0.0	K07727	36.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_26	72.8	actNOG.ENOG4100QU9.meta_raw	131.6
+CLI4811|pBCI2-1_0007115	hypothetical protein	508990	510501	00	508990	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100JU0.meta_raw	558.7
+CLI4811|pBCI2-1_0007116	hypothetical protein	510766	511128	00	510766	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100GFX.meta_raw	24.7
+CLI4811|pBCI2-1_0007117	hypothetical protein	511184	511435	00	511184	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100GFX.meta_raw	68.9
+CLI4811|pBCI2-1_0007118	2-octaprenyl-6-methoxyphenol hydroxylase	511609	512844	00	511609	-1	contig.1	cds	-	0.0	K03185	16.9	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_3	36.3	actNOG.ENOG4100E5C.meta_raw	346.0
+CLI4811|pBCI2-1_0007119	PFAM HTH_11-WYL domain protein	513031	514047	00	513031	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_11,WYL	37.2,60.1	actNOG.ENOG4100WHD.meta_raw	486.4
+CLI4811|pBCI2-1_0007120	alcohol dehydrogenase	514459	515400	00	514459	-1	contig.1	cds	-	0.0	K00001	189.2	-	0.0	-	0.0	-	0.0	-	0.0	ADH_N,ADH_zinc_N_2	30.7,103.5	actNOG.ENOG4100DAQ.meta_raw	351.1
+CLI4811|pBCI2-1_0007121	hypothetical protein	515387	515860	00	515387	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007122	MFS transporter, proline/betaine transporter	515947	517269	00	515947	-1	contig.1	cds	-	0.0	K03762	393.4	-	0.0	-	0.0	-	0.0	-	0.0	Sugar_tr	129.5	actNOG.ENOG4100CGE.meta_raw	541.4
+CLI4811|pBCI2-1_0007123	PFAM Fer2-Fer2_2 domain protein	517349	517798	00	517349	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Fer2,Fer2_2	29.5,101.4	actNOG.ENOG4100H68.meta_raw	195.9
+CLI4811|pBCI2-1_0007124	PFAM FAD_binding_5 domain protein	517795	518589	00	517795	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_5	122.0	actNOG.ENOG4100E6P.meta_raw	142.6
+CLI4811|pBCI2-1_0007125	xanthine dehydrogenase molybdenum-binding subunit	518592	520805	00	518592	-1	contig.1	cds	-	0.0	K00087	414.5	-	0.0	-	0.0	-	0.0	-	0.0	Ald_Xan_dh_C,Ald_Xan_dh_C2	72.2,424.0	actNOG.ENOG4100C35.meta_raw	591.6
+CLI4811|pBCI2-1_0007126	enoyl-CoA hydratase	520810	521625	00	520810	-1	contig.1	cds	-	0.0	K01692	131.9	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	79.7	actNOG.ENOG4100PWU.meta_raw	374.8
+CLI4811|pBCI2-1_0007127	kynB arylformamidase	521622	522398	00	521622	-1	contig.1	cds	-	0.0	K07130	146.8	-	0.0	-	0.0	-	0.0	-	0.0	Cyclase	129.7	actNOG.ENOG4100IG5.meta_raw	408.9
+CLI4811|pBCI2-1_0007128	ribokinase	522454	523482	00	522454	-1	contig.1	cds	-	0.0	K00852	42.7	-	0.0	-	0.0	-	0.0	-	0.0	LacI,Peripla_BP_3	49.8,112.7	actNOG.ENOG4100J7M.meta_raw	284.8
+CLI4811|pBCI2-1_0007129	PFAM Peptidase_M24 domain protein	523664	524017	00	523664	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Peptidase_M24	48.6	actNOG.ENOG4100DXG.meta_raw	134.1
+CLI4811|pBCI2-1_0007130	hypothetical protein	524250	524450	00	524250	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007131	cell filamentation protein	524743	525318	00	524743	-1	contig.1	cds	-	0.0	K04095	149.6	-	0.0	-	0.0	-	0.0	-	0.0	Fic	54.2	actNOG.ENOG4100PZ0.meta_raw	148.6
+CLI4811|pBCI2-1_0007132	hypothetical protein	525315	525536	00	525315	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007133	PFAM WHG domain protein	525817	526308	00	525817	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	WHG	46.9	actNOG.ENOG4100MYT.meta_raw	86.5
+CLI4811|pBCI2-1_0007134	hypothetical protein	526302	526547	00	526302	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007135	PFAM GreA_GreB domain protein	527265	527540	00	527265	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	GreA_GreB	34.4	actNOG.ENOG4100XJK.meta_raw	95.6
+CLI4811|pBCI2-1_0007136	carbohydrate diacid regulator	527710	528963	00	527710	1	contig.1	cds	-	0.0	K02647	112.2	-	0.0	-	0.0	-	0.0	-	0.0	HTH_30	61.1	actNOG.ENOG4100HY8.meta_raw	453.2
+CLI4811|pBCI2-1_0007137	hypothetical protein	528953	529306	00	528953	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007138	PFAM TetR_N domain protein	529448	529687	00	529448	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	56.2	actNOG.ENOG4100J6S.meta_raw	90.2
+CLI4811|pBCI2-1_0007139	hypothetical protein	529738	530376	00	529738	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007140	hypothetical protein	530206	530583	00	530206	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007141	hypothetical protein	531198	531491	00	531198	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007142	hypothetical protein	531525	532193	00	531525	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007143	hypothetical protein	532190	532570	00	532190	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007144	PFAM HTH_IclR-IclR domain protein	533286	534053	00	533286	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_IclR,IclR	53.0,69.6	actNOG.ENOG4100GJS.meta_raw	349.6
+CLI4811|pBCI2-1_0007145	putative benzoate transport	534231	535595	00	534231	1	contig.1	cds	TIGR00895	365.3	K08195	362.2	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	126.0	actNOG.ENOG4100C5T.meta_raw	581.3
+CLI4811|pBCI2-1_0007146	ferredoxin subunit of phenylpropionate dioxygenase	535592	536656	00	535592	1	contig.1	cds	-	0.0	K05710	25.3	-	0.0	-	0.0	-	0.0	-	0.0	Rieske	55.3	actNOG.ENOG4100D54.meta_raw	412.0
+CLI4811|pBCI2-1_0007147	hypothetical protein	536653	536919	00	536653	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100RG6.meta_raw	105.8
+CLI4811|pBCI2-1_0007148	vanillate monooxygenase	536940	537911	00	536940	1	contig.1	cds	-	0.0	K03863	335.9	-	0.0	-	0.0	-	0.0	-	0.0	NAD_binding_1,Fer2	27.6,43.0	actNOG.ENOG4101342.meta_raw	505.2
+CLI4811|pBCI2-1_0007149	K00517 family protein	537925	539124	00	537925	1	contig.1	cds	-	0.0	K00517	231.1	-	0.0	-	0.0	-	0.0	-	0.0	p450	74.4	actNOG.ENOG4100DBZ.meta_raw	506.3
+CLI4811|pBCI2-1_0007150	UDP-glucose 4-epimerase	539471	540388	00	539471	-1	contig.1	cds	-	0.0	K01784	28.3	-	0.0	-	0.0	-	0.0	-	0.0	Epimerase	55.7	actNOG.ENOG4100FVQ.meta_raw	314.6
+CLI4811|pBCI2-1_0007151	PFAM ADC domain protein	540512	541450	00	540512	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	ADC	56.0	actNOG.ENOG4100EVQ.meta_raw	510.4
+CLI4811|pBCI2-1_0007152	PFAM WHG domain protein	541641	542219	00	541641	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	WHG	65.4	actNOG.ENOG4100WJ0.meta_raw	297.0
+CLI4811|pBCI2-1_0007153	dbCAN CE10 domain protein	542334	543302	00	542334	1	contig.1	cds	-	0.0	-	0.0	-	0.0	CE10	206.5	-	0.0	-	0.0	Abhydrolase_3	211.4	actNOG.ENOG4100F5Q.meta_raw	549.2
+CLI4811|pBCI2-1_0007154	protease I	543414	544109	00	543414	1	contig.1	cds	-	0.0	K05520	63.6	-	0.0	-	0.0	-	0.0	-	0.0	DJ-1_PfpI	56.7	actNOG.ENOG4100HFW.meta_raw	327.3
+CLI4811|pBCI2-1_0007155	hypothetical protein	544205	544357	00	544205	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007156	MFS transporter, proline/betaine transporter	544786	546111	00	544786	1	contig.1	cds	-	0.0	K03762	436.8	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	92.8	actNOG.ENOG4100C6Q.meta_raw	423.8
+CLI4811|pBCI2-1_0007157	PFAM MarR domain protein	546086	546544	00	546086	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MarR	45.4	actNOG.ENOG4100NK4.meta_raw	101.1
+CLI4811|pBCI2-1_0007158	3-dehydro-L-gulonate 2-dehydrogenase	546583	547572	00	546583	1	contig.1	cds	-	0.0	K08092	68.8	-	0.0	-	0.0	-	0.0	-	0.0	Ldh_2	284.3	actNOG.ENOG4100XT8.meta_raw	442.0
+CLI4811|pBCI2-1_0007159	alkanesulfonate monooxygenase	547618	548643	00	547618	1	contig.1	cds	-	0.0	K04091	248.6	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	177.5	actNOG.ENOG4100CUW.meta_raw	279.0
+CLI4811|pBCI2-1_0007160	K01913 family protein	548648	550273	00	548648	1	contig.1	cds	-	0.0	K01913	367.4	-	0.0	-	0.0	F	67.7	AMP-binding	301.2	AMP-binding,AMP-binding_C	276.4,64.6	actNOG.ENOG4100DGX.meta_raw	647.8
+CLI4811|pBCI2-1_0007161	4-hydroxy 2-oxovalerate aldolase	550280	551212	00	550280	1	contig.1	cds	-	0.0	K01666	37.7	-	0.0	-	0.0	-	0.0	-	0.0	HMGL-like	81.9	actNOG.ENOG4100E1Y.meta_raw	211.9
+CLI4811|pBCI2-1_0007162	hypothetical protein	551225	551539	00	551225	1	contig.1	cds	-	0.0	K09780	56.5	-	0.0	-	0.0	-	0.0	-	0.0	YCII	40.0	actNOG.ENOG4100QRN.meta_raw	72.3
+CLI4811|pBCI2-1_0007163	hypothetical protein	551536	551970	00	551536	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100NHV.meta_raw	30.8
+CLI4811|pBCI2-1_0007164	PFAM Flavin_Reduct domain protein	551967	552452	00	551967	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Flavin_Reduct	93.4	actNOG.ENOG4100N25.meta_raw	197.8
+CLI4811|pBCI2-1_0007165	gluconolactonase	552461	554089	00	552461	1	contig.1	cds	-	0.0	K01053	37.5	-	0.0	-	0.0	-	0.0	-	0.0	SGL	27.9	actNOG.ENOG4100HMR.meta_raw	229.1
+CLI4811|pBCI2-1_0007166	2,5-diketo-D-gluconate reductase	554564	555448	00	554564	-1	contig.1	cds	-	0.0	K05885	102.4	-	0.0	-	0.0	-	0.0	-	0.0	Aldo_ket_red	146.5	actNOG.ENOG4100U28.meta_raw	436.1
+CLI4811|pBCI2-1_0007167	K07047 family protein	555445	556515	00	555445	-1	contig.1	cds	-	0.0	K07047	46.9	-	0.0	-	0.0	-	0.0	-	0.0	Amidohydro_1	70.1	actNOG.ENOG4100GJH.meta_raw	425.7
+CLI4811|pBCI2-1_0007168	PFAM SnoaL_4 domain protein	556515	557108	00	556515	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SnoaL_4	32.1	actNOG.ENOG4100Z45.meta_raw	188.4
+CLI4811|pBCI2-1_0007169	K07045 family protein	557105	558037	00	557105	-1	contig.1	cds	-	0.0	K07045	79.0	-	0.0	-	0.0	-	0.0	-	0.0	Amidohydro_2	99.9	actNOG.ENOG4100J4B.meta_raw	372.0
+CLI4811|pBCI2-1_0007170	acetoacetyl-CoA synthase	558034	559959	00	558034	-1	contig.1	cds	TIGR01217	735.4	K01895	338.0	-	0.0	-	0.0	-	0.0	AMP-binding	197.7	ACAS_N,AMP-binding	41.5,156.1	actNOG.ENOG41014RT.meta_raw	929.7
+CLI4811|pBCI2-1_0007171	carbohydrate diacid regulator	560031	561335	00	560031	1	contig.1	cds	-	0.0	K02647	42.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_30	39.2	actNOG.ENOG4100RQW.meta_raw	348.5
+CLI4811|pBCI2-1_0007172	3,4-dihydroxy-2-butanone 4-phosphate synthase	561344	562573	00	561344	-1	contig.1	cds	TIGR00506	210.3	K14652	614.3	-	0.0	-	0.0	-	0.0	-	0.0	DHBP_synthase,GTP_cyclohydro2	262.9,213.0	actNOG.ENOG4100C67.meta_raw	558.0
+CLI4811|pBCI2-1_0007173	PFAM Flavin_Reduct domain protein	562826	563320	00	562826	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Flavin_Reduct	110.1	actNOG.ENOG4100R62.meta_raw	184.2
+CLI4811|pBCI2-1_0007174	GTP cyclohydrolase II	563369	564583	00	563369	1	contig.1	cds	-	0.0	K01497	158.0	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_2	28.6,101.0	actNOG.ENOG4100DPH.meta_raw	533.0
+CLI4811|pBCI2-1_0007175	5-carboxymethyl-2-hydroxymuconate isomerase	564595	565449	00	564595	1	contig.1	cds	-	0.0	K01826	55.3	-	0.0	-	0.0	-	0.0	-	0.0	FAA_hydrolase	199.2	actNOG.ENOG4100D4Z.meta_raw	420.9
+CLI4811|pBCI2-1_0007176	biphenyl-2,3-diol 1,2-dioxygenase	565446	566384	00	565446	1	contig.1	cds	-	0.0	K00462	63.2	-	0.0	-	0.0	-	0.0	-	0.0	Glyoxalase	39.6	actNOG.ENOG4100QNE.meta_raw	524.7
+CLI4811|pBCI2-1_0007177	putative transcriptional regulator	566490	566924	00	566490	-1	contig.1	cds	-	0.0	K07726	25.2	-	0.0	-	0.0	-	0.0	-	0.0	HTH_31	29.3	actNOG.ENOG4100ZNE.meta_raw	142.1
+CLI4811|pBCI2-1_0007178	hypothetical protein	566929	567585	00	566929	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007179	acylphosphatase	568023	568508	00	568023	-1	contig.1	cds	-	0.0	K01512	76.9	-	0.0	-	0.0	-	0.0	-	0.0	Acylphosphatase	73.6	actNOG.ENOG4100EXV.meta_raw	119.3
+CLI4811|pBCI2-1_0007180	PFAM HupF_HypC domain protein	568505	568642	00	568505	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HupF_HypC	39.1	actNOG.ENOG4100SGP.meta_raw	55.7
+CLI4811|pBCI2-1_0007181	PFAM PadR domain protein	568716	568988	00	568716	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	PadR	29.7	actNOG.ENOG41013QM.meta_raw	64.1
+CLI4811|pBCI2-1_0007182	hypothetical protein	569026	569139	00	569026	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41013QM.meta_raw	41.2
+CLI4811|pBCI2-1_0007183	hypothetical protein	569849	570814	00	569849	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100XAU.meta_raw	22.3
+CLI4811|pBCI2-1_0007184	hypothetical protein	570811	571968	00	570811	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100Q5E.meta_raw	44.2
+CLI4811|pBCI2-1_0007185	hypothetical protein	571965	572381	00	571965	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100QPW.meta_raw	113.3
+CLI4811|pBCI2-1_0007186	hypothetical protein	572378	573679	00	572378	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100FRP.meta_raw	498.8
+CLI4811|pBCI2-1_0007187	PFAM HisKA_3 domain protein	573781	574584	00	573781	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HisKA_3	32.1	actNOG.ENOG4100KX6.meta_raw	119.7
+CLI4811|pBCI2-1_0007188	two-component response regulator, fimbrial Z protein FimZ	574597	575232	00	574597	1	contig.1	cds	-	0.0	K07688	87.7	-	0.0	-	0.0	-	0.0	-	0.0	Response_reg,GerE	50.5,60.1	actNOG.ENOG4100P97.meta_raw	149.5
+CLI4811|pBCI2-1_0007189	hypothetical protein	575304	576575	00	575304	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100Q5E.meta_raw	83.1
+CLI4811|pBCI2-1_0007190	PFAM DUF1929 domain protein	576572	578971	00	576572	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF1929	54.8	actNOG.ENOG4100G9H.meta_raw	230.0
+CLI4811|pBCI2-1_0007191	PFAM APH-APH domain protein	579209	579979	00	579209	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	APH,APH	35.5,27.7	actNOG.ENOG4100KEP.meta_raw	320.8
+CLI4811|pBCI2-1_0007192	putative molybdenum-pterin binding domain	580127	580594	00	580127	-1	contig.1	cds	TIGR00638	46.5	K02019	46.2	-	0.0	-	0.0	-	0.0	-	0.0	TOBE	32.5	actNOG.ENOG4100KQP.meta_raw	180.4
+CLI4811|pBCI2-1_0007193	PFAM Peptidase_M24 domain protein	580676	581371	00	580676	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Peptidase_M24	61.8	actNOG.ENOG4100F9Z.meta_raw	350.7
+CLI4811|pBCI2-1_0007194	D-3-phosphoglycerate dehydrogenase	581534	582703	00	581534	1	contig.1	cds	-	0.0	K00058	244.5	-	0.0	-	0.0	-	0.0	-	0.0	2-Hacid_dh_C	164.7	actNOG.ENOG4100CQ7.meta_raw	771.2
+CLI4811|pBCI2-1_0007195	cyanase	582700	583143	00	582700	1	contig.1	cds	TIGR00673	157.5	K01725	178.7	-	0.0	-	0.0	-	0.0	-	0.0	Cyanate_lyase	105.8	actNOG.ENOG4100H7M.meta_raw	167.6
+CLI4811|pBCI2-1_0007196	ATP-binding cassette, subfamily B, bacterial	583128	585221	00	583128	-1	contig.1	cds	-	0.0	K06147	250.5	-	0.0	-	0.0	-	0.0	-	0.0	ABC_membrane,ABC_tran,zf-CHY	115.7,46.4,42.0	actNOG.ENOG4100C2K.meta_raw	388.3
+CLI4811|pBCI2-1_0007197	putative ABC transport system ATP-binding protein	585218	586831	00	585218	-1	contig.1	cds	-	0.0	K02021	120.9	-	0.0	-	0.0	-	0.0	-	0.0	ABC_membrane	53.0	actNOG.ENOG4100BY0.meta_raw	441.3
+CLI4811|pBCI2-1_0007198	hypothetical protein	586966	588012	00	586966	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007199	hypothetical protein	588009	588227	00	588009	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007200	PFAM Dehydratase_hem domain protein	588250	589266	00	588250	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Dehydratase_hem	239.0	actNOG.ENOG4100RNR.meta_raw	270.5
+CLI4811|pBCI2-1_0007201	aldehyde dehydrogenase (NAD+)	589345	590790	00	589345	-1	contig.1	cds	-	0.0	K00128	514.5	-	0.0	-	0.0	-	0.0	-	0.0	Aldedh	512.2	actNOG.ENOG4100BH7.meta_raw	571.7
+CLI4811|pBCI2-1_0007202	TetR/AcrR family transcriptional regulator, acrAB operon repressor	591752	592366	00	591752	1	contig.1	cds	-	0.0	K03577	22.5	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N,TetR_C_11	50.2,64.8	actNOG.ENOG4100NHA.meta_raw	171.7
+CLI4811|pBCI2-1_0007203	hypothetical protein	592503	592754	00	592503	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007204	acyl-CoA dehydrogenase	592847	593674	00	592847	1	contig.1	cds	-	0.0	K00249	60.5	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_1	70.7	actNOG.ENOG4100HGS.meta_raw	209.1
+CLI4811|pBCI2-1_0007205	K00257 family protein	593671	594813	00	593671	1	contig.1	cds	-	0.0	K00257	209.8	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	41.4,63.7,55.3	actNOG.ENOG4100UNP.meta_raw	444.4
+CLI4811|pBCI2-1_0007206	hypothetical protein	594994	595344	00	594994	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100DGN.meta_raw	56.8
+CLI4811|pBCI2-1_0007207	hypothetical protein	595675	596034	00	595675	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007208	PFAM Pkinase domain protein	596320	597132	00	596320	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Pkinase	146.8	actNOG.ENOG4100IQZ.meta_raw	341.3
+CLI4811|pBCI2-1_0007209	hypothetical protein	597321	598055	00	597321	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100JQI.meta_raw	106.6
+CLI4811|pBCI2-1_0007210	DNA-binding protein WhiA	598328	599287	00	598328	-1	contig.1	cds	TIGR00647	111.7	K09762	141.6	-	0.0	-	0.0	-	0.0	-	0.0	HTH_WhiA	47.2	actNOG.ENOG4100BF3.meta_raw	222.9
+CLI4811|pBCI2-1_0007211	hypothetical protein	599504	599713	00	599504	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007212	hypothetical protein	600030	600263	00	600030	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100MXT.meta_raw	50.2
+CLI4811|pBCI2-1_0007213	hypothetical protein	600315	600902	00	600315	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100QEB.meta_raw	84.8
+CLI4811|pBCI2-1_0007214	hypothetical protein	601358	601534	00	601358	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007215	putative transposase	601610	602656	00	601610	1	contig.1	cds	-	0.0	K07497	71.3	-	0.0	-	0.0	-	0.0	-	0.0	LZ_Tnp_IS481,rve	56.8,136.7	actNOG.ENOG4100DMU.meta_raw	553.5
+CLI4811|pBCI2-1_0007216	AraC family transcriptional regulator	603055	604053	00	603055	1	contig.1	cds	-	0.0	K07506	25.4	-	0.0	-	0.0	-	0.0	-	0.0	HTH_18	43.4	actNOG.ENOG4100NZW.meta_raw	188.0
+CLI4811|pBCI2-1_0007217	hypothetical protein	604332	604583	00	604332	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007218	PFAM MerR_1 domain protein	604580	605002	00	604580	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MerR_1	36.0	actNOG.ENOG4100QGB.meta_raw	139.1
+CLI4811|pBCI2-1_0007219	hypothetical protein	605251	605580	00	605251	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007220	hypothetical protein	605857	606051	00	605857	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007221	hypothetical protein	606216	606767	00	606216	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100BXN.meta_raw	124.5
+CLI4811|pBCI2-1_0007222	universal stress protein A	607222	608145	00	607222	1	contig.1	cds	-	0.0	K06149	36.4	-	0.0	-	0.0	-	0.0	-	0.0	Usp,Usp	87.4,74.7	actNOG.ENOG4100D6C.meta_raw	283.6
+CLI4811|pBCI2-1_0007223	hypothetical protein	608029	608748	00	608029	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007224	PFAM Usp domain protein	608714	609211	00	608714	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Usp	80.1	actNOG.ENOG4100Q5P.meta_raw	128.2
+CLI4811|pBCI2-1_0007225	PFAM Usp-Usp domain protein	609208	610215	00	609208	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Usp,Usp	38.3,54.0	actNOG.ENOG4100D6C.meta_raw	189.9
+CLI4811|pBCI2-1_0007226	hypothetical protein	610600	611439	00	610600	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007227	hypothetical protein	611754	612347	00	611754	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100ES5.meta_raw	115.3
+CLI4811|pBCI2-1_0007228	electron transfer flavoprotein-quinone oxidoreductase	612344	614080	00	612344	-1	contig.1	cds	-	0.0	K00313	29.9	-	0.0	AA3	169.7	-	0.0	-	0.0	GMC_oxred_N,GMC_oxred_C	29.4,67.4	actNOG.ENOG4100ES5.meta_raw	896.7
+CLI4811|pBCI2-1_0007229	polyhydroxyalkanoate synthase	614299	615399	00	614299	1	contig.1	cds	-	0.0	K03821	37.9	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_1	28.6	actNOG.ENOG4100MBP.meta_raw	366.6
+CLI4811|pBCI2-1_0007230	LuxR family transcriptional regulator, maltose regulon positive	615492	618395	00	615492	1	contig.1	cds	-	0.0	K03556	40.0	-	0.0	-	0.0	-	0.0	-	0.0	Trans_reg_C,BTAD,NB-ARC,TPR_12,TPR_12	30.9,155.8,60.0,40.0,34.9	actNOG.ENOG4100EGI.meta_raw	1037.1
+CLI4811|pBCI2-1_0007231	L-ascorbate oxidase	618907	622677	00	618907	1	contig.1	cds	-	0.0	K00423	20.7	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100BFW.meta_raw	60.8
+CLI4811|pBCI2-1_0007232	hypothetical protein	623013	623735	00	623013	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007233	anti-anti-sigma factor	624596	624973	00	624596	-1	contig.1	cds	TIGR00377	55.4	K06378	34.5	-	0.0	-	0.0	-	0.0	-	0.0	STAS_2	41.1	actNOG.ENOG4100T8M.meta_raw	87.1
+CLI4811|pBCI2-1_0007234	type I restriction enzyme, R subunit	625258	628254	00	625258	-1	contig.1	cds	-	0.0	K01153	42.4	-	0.0	-	0.0	-	0.0	-	0.0	ResIII	74.1	actNOG.ENOG4100EM1.meta_raw	984.6
+CLI4811|pBCI2-1_0007235	hypothetical protein	628455	628760	00	628455	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100R9N.meta_raw	56.9
+CLI4811|pBCI2-1_0007236	hypothetical protein	629381	629617	00	629381	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007237	Cu2+-exporting ATPase	629544	630404	00	629544	-1	contig.1	cds	-	0.0	K01533	215.1	-	0.0	-	0.0	-	0.0	-	0.0	HMA	40.6	actNOG.ENOG4100V54.meta_raw	317.8
+CLI4811|pBCI2-1_0007238	cytochrome c oxidase, subunit I	630410	632164	00	630410	-1	contig.1	cds	TIGR02891	713.7	K02276	534.1	-	0.0	-	0.0	-	0.0	-	0.0	COX1	507.5	actNOG.ENOG4100CI3.meta_raw	1054.2
+CLI4811|pBCI2-1_0007239	hypothetical protein	632335	632814	00	632335	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007240	thiol:disulfide interchange protein DsbA	632959	633654	00	632959	-1	contig.1	cds	-	0.0	K03673	59.8	-	0.0	-	0.0	-	0.0	-	0.0	Thioredoxin_4	83.2	actNOG.ENOG4100IK1.meta_raw	277.7
+CLI4811|pBCI2-1_0007241	hypothetical protein	633756	634190	00	633756	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007242	putative periplasmic protein thiol:disulfide oxidoreductases, DsbE subfamily	634187	634816	00	634187	-1	contig.1	cds	TIGR00385	103.7	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	AhpC-TSA	78.3	actNOG.ENOG4100RH8.meta_raw	115.4
+CLI4811|pBCI2-1_0007243	type IV pilus assembly protein PilF	634813	635601	00	634813	-1	contig.1	cds	-	0.0	K02656	29.2	-	0.0	-	0.0	-	0.0	-	0.0	TPR_20	28.5	actNOG.ENOG4100EJ3.meta_raw	29.3
+CLI4811|pBCI2-1_0007244	cytochrome c-type biogenesis protein CcmH	635598	636095	00	635598	-1	contig.1	cds	-	0.0	K02200	117.6	-	0.0	-	0.0	-	0.0	-	0.0	CcmH	106.1	-	0.0
+CLI4811|pBCI2-1_0007245	putative c-type cytochrome biogenesis protein CcmF	636088	638076	00	636088	-1	contig.1	cds	TIGR00353	410.8	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Cytochrom_C_asm,CcmF_C	115.3,220.6	actNOG.ENOG4100CDW.meta_raw	397.8
+CLI4811|pBCI2-1_0007246	PFAM CcmE domain protein	638073	638519	00	638073	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CcmE	88.1	actNOG.ENOG410102A.meta_raw	77.3
+CLI4811|pBCI2-1_0007247	hypothetical protein	638516	638638	00	638516	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007248	PFAM Cytochrom_C_asm domain protein	638638	639414	00	638638	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Cytochrom_C_asm	85.0	actNOG.ENOG4100HB9.meta_raw	203.3
+CLI4811|pBCI2-1_0007249	putative heme exporter protein CcmB	639411	640088	00	639411	-1	contig.1	cds	TIGR01190	33.7	K02194	86.1	-	0.0	-	0.0	-	0.0	-	0.0	CcmB	57.6	actNOG.ENOG41010XR.meta_raw	58.0
+CLI4811|pBCI2-1_0007250	branched-chain amino acid transport system ATP-binding protein	640085	640702	00	640085	-1	contig.1	cds	-	0.0	K01996	112.7	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	100.6	actNOG.ENOG4100E6R.meta_raw	158.1
+CLI4811|pBCI2-1_0007251	PFAM DsbD domain protein	640832	641542	00	640832	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DsbD	167.7	actNOG.ENOG4100H81.meta_raw	215.8
+CLI4811|pBCI2-1_0007252	lipoprotein YgeR	641563	642342	00	641563	-1	contig.1	cds	-	0.0	K12943	51.2	-	0.0	-	0.0	-	0.0	-	0.0	Peptidase_M23	95.6	actNOG.ENOG4100MGH.meta_raw	214.1
+CLI4811|pBCI2-1_0007253	hypothetical protein	642397	642741	00	642397	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007254	PFAM YkuD domain protein	642960	643526	00	642960	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	YkuD	49.8	actNOG.ENOG4100N8Z.meta_raw	188.8
+CLI4811|pBCI2-1_0007255	hypothetical protein	643504	644277	00	643504	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007256	aspartate racemase	644547	645833	00	644547	1	contig.1	cds	-	0.0	K01779	53.6	-	0.0	-	0.0	dhpg	78.9	AMP-binding	110.7	AMP-binding	87.0	actNOG.ENOG4100CG7.meta_raw	130.4
+CLI4811|pBCI2-1_0007257	non-ribosomal peptide synthetase terminal domain of unknown function	645932	648520	00	645932	1	contig.1	cds	TIGR02353	636.1	K02536	18.3	-	0.0	-	0.0	-	0.0	PP-binding	27.5	-	0.0	actNOG.ENOG4100E2T.meta_raw	1027.0
+CLI4811|pBCI2-1_0007258	taurine dioxygenase	648517	649524	00	648517	1	contig.1	cds	-	0.0	K03119	18.8	-	0.0	-	0.0	-	0.0	-	0.0	TauD	124.2	actNOG.ENOG4100FIW.meta_raw	401.7
+CLI4811|pBCI2-1_0007259	hypothetical protein	650626	650898	00	650626	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007260	cysteine synthase A	650989	652092	00	650989	1	contig.1	cds	-	0.0	K01738	319.7	-	0.0	-	0.0	-	0.0	-	0.0	PALP	156.9	actNOG.ENOG4100CZK.meta_raw	613.6
+CLI4811|pBCI2-1_0007261	PFAM MFS_1 domain protein	652092	652598	00	652092	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	37.9	actNOG.ENOG410152D.meta_raw	192.3
+CLI4811|pBCI2-1_0007262	PFAM DDE_Tnp_1_4 domain protein	652707	653291	00	652707	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_1_4	63.6	actNOG.ENOG4100NQB.meta_raw	201.9
+CLI4811|pBCI2-1_0007263	PadR family transcriptional regulator, regulatory protein PadR	653824	654465	00	653824	-1	contig.1	cds	-	0.0	K10947	32.1	-	0.0	-	0.0	-	0.0	-	0.0	PadR	48.4	actNOG.ENOG4100NFS.meta_raw	171.5
+CLI4811|pBCI2-1_0007264	5-carboxymethyl-2-hydroxymuconate isomerase	654560	655429	00	654560	-1	contig.1	cds	-	0.0	K01826	27.0	-	0.0	-	0.0	-	0.0	-	0.0	FAA_hydrolase	165.5	actNOG.ENOG4100CJA.meta_raw	215.1
+CLI4811|pBCI2-1_0007265	PFAM MR_MLE_C domain protein	655426	655623	00	655426	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MR_MLE_C	26.9	actNOG.ENOG4100KBK.meta_raw	30.8
+CLI4811|pBCI2-1_0007266	PFAM MR_MLE_N-MR_MLE_C domain protein	655630	656586	00	655630	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MR_MLE_N,MR_MLE_C	45.6,143.9	actNOG.ENOG4100D9T.meta_raw	261.6
+CLI4811|pBCI2-1_0007267	K00517 family protein	656861	658093	00	656861	1	contig.1	cds	-	0.0	K00517	270.1	-	0.0	-	0.0	-	0.0	-	0.0	p450	79.3	actNOG.ENOG4100DBB.meta_raw	350.9
+CLI4811|pBCI2-1_0007268	putative gentisate 1,2-dioxygenase	658090	659082	00	658090	1	contig.1	cds	TIGR02272	254.4	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Cupin_2,Cupin_2	55.7,48.5	actNOG.ENOG4100IHQ.meta_raw	165.1
+CLI4811|pBCI2-1_0007269	vanillate monooxygenase	659093	660055	00	659093	1	contig.1	cds	-	0.0	K03863	318.8	-	0.0	-	0.0	-	0.0	-	0.0	Fer2	41.7	actNOG.ENOG4101342.meta_raw	413.3
+CLI4811|pBCI2-1_0007270	putative benzoate transport	660249	661553	00	660249	1	contig.1	cds	TIGR00895	314.0	K08195	324.2	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	126.0	actNOG.ENOG4100UH4.meta_raw	544.7
+CLI4811|pBCI2-1_0007271	7,8-dihydro-8-oxoguanine triphosphatase	661955	662533	00	661955	-1	contig.1	cds	-	0.0	K03574	53.6	-	0.0	-	0.0	-	0.0	-	0.0	NUDIX	71.2	actNOG.ENOG410151E.meta_raw	282.5
+CLI4811|pBCI2-1_0007272	hypothetical protein	662724	662900	00	662724	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007273	putative transposase	662960	663979	00	662960	1	contig.1	cds	-	0.0	K07497	77.4	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,rve	57.8,66.8	actNOG.ENOG4100EDG.meta_raw	168.5
+CLI4811|pBCI2-1_0007274	hypothetical protein	664342	664527	00	664342	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100GUZ.meta_raw	77.4
+CLI4811|pBCI2-1_0007275	PFAM DUF2236 domain protein	664810	665988	00	664810	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF2236	82.7	actNOG.ENOG4100MWE.meta_raw	317.2
+CLI4811|pBCI2-1_0007276	PFAM DUF3159 domain protein	666846	667538	00	666846	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF3159	107.0	actNOG.ENOG4100HP5.meta_raw	144.8
+CLI4811|pBCI2-1_0007277	PFAM HTH_31 domain protein	667738	668607	00	667738	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_31	53.1	actNOG.ENOG4100CDP.meta_raw	451.7
+CLI4811|pBCI2-1_0007278	PFAM Dabb domain protein	668604	669023	00	668604	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Dabb	39.8	actNOG.ENOG4100MKH.meta_raw	141.2
+CLI4811|pBCI2-1_0007279	unspecific monooxygenase	669075	670268	00	669075	1	contig.1	cds	-	0.0	K00493	140.9	-	0.0	-	0.0	-	0.0	-	0.0	p450	77.6	actNOG.ENOG4100DBZ.meta_raw	470.0
+CLI4811|pBCI2-1_0007280	K00517 family protein	670312	671592	00	670312	1	contig.1	cds	-	0.0	K00517	240.7	-	0.0	-	0.0	-	0.0	-	0.0	p450,p450	35.2,52.9	actNOG.ENOG4100CCC.meta_raw	448.3
+CLI4811|pBCI2-1_0007281	transposase, IS30 family	671764	673044	00	671764	1	contig.1	cds	-	0.0	K07482	109.2	-	0.0	-	0.0	-	0.0	-	0.0	HTH_38,rve	67.7,30.5	actNOG.ENOG4100D4B.meta_raw	462.1
+CLI4811|pBCI2-1_0007282	transposase	673203	674270	00	673203	1	contig.1	cds	-	0.0	K07486	130.2	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	41.3,71.8	actNOG.ENOG4100MD1.meta_raw	354.3
+CLI4811|pBCI2-1_0007283	putative transposase	675678	676724	00	675678	-1	contig.1	cds	-	0.0	K07497	71.3	-	0.0	-	0.0	-	0.0	-	0.0	LZ_Tnp_IS481,rve	56.8,136.7	actNOG.ENOG4100DMU.meta_raw	553.9
+CLI4811|pBCI2-1_0007284	transposase	677120	678217	00	677120	-1	contig.1	cds	-	0.0	K07486	123.3	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	51.1,51.4	actNOG.ENOG4100F4R.meta_raw	422.1
+CLI4811|pBCI2-1_0007285	hypothetical protein	678352	678591	00	678352	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007286	TetR/AcrR family transcriptional regulator, acrAB operon repressor	678658	679293	00	678658	1	contig.1	cds	-	0.0	K03577	59.6	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N,TetR_C_6	45.4,58.4	actNOG.ENOG41012H9.meta_raw	210.5
+CLI4811|pBCI2-1_0007287	(R,R)-butanediol dehydrogenase / diacetyl reductase	679307	680101	00	679307	-1	contig.1	cds	-	0.0	K03366	182.9	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	195.8	actNOG.ENOG4100G4X.meta_raw	239.7
+CLI4811|pBCI2-1_0007288	glycine betaine/proline transport system substrate-binding protein	680159	681070	00	680159	-1	contig.1	cds	-	0.0	K02002	286.4	-	0.0	-	0.0	-	0.0	-	0.0	OpuAC	183.7	actNOG.ENOG4100E1X.meta_raw	387.6
+CLI4811|pBCI2-1_0007289	glycine betaine/proline transport system substrate-binding protein	681108	682064	00	681108	-1	contig.1	cds	-	0.0	K02002	346.3	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_1	79.5	actNOG.ENOG4100BQW.meta_raw	456.1
+CLI4811|pBCI2-1_0007290	glycine betaine/L-proline transport ATP binding subunit	682061	683320	00	682061	-1	contig.1	cds	TIGR01186	396.1	K02052	271.7	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	112.1	actNOG.ENOG41014PM.meta_raw	584.5
+CLI4811|pBCI2-1_0007291	5-carboxymethyl-2-hydroxymuconate isomerase	683330	684253	00	683330	-1	contig.1	cds	-	0.0	K01826	49.9	-	0.0	-	0.0	-	0.0	-	0.0	FAA_hydrolase	235.6	actNOG.ENOG4100CJA.meta_raw	317.9
+CLI4811|pBCI2-1_0007292	thiamine biosynthesis ThiG	684250	685386	00	684250	-1	contig.1	cds	-	0.0	K03149	32.6	-	0.0	-	0.0	-	0.0	-	0.0	DAO	110.0	actNOG.ENOG4100FDD.meta_raw	269.4
+CLI4811|pBCI2-1_0007293	PFAM DHquinase_II domain protein	685452	685973	00	685452	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DHquinase_II	99.8	actNOG.ENOG4100KNQ.meta_raw	99.6
+CLI4811|pBCI2-1_0007294	PFAM DDE_Tnp_1 domain protein	687120	688082	00	687120	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_1	34.9	actNOG.ENOG4100V02.meta_raw	333.9
+CLI4811|pBCI2-1_0007295	PFAM DUF772 domain protein	688024	688488	00	688024	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF772	44.0	-	0.0
+CLI4811|pBCI2-1_0007296	hypothetical protein	689036	690121	00	689036	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010BC.meta_raw	62.6
+CLI4811|pBCI2-1_0007297	hypothetical protein	690546	690992	00	690546	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007298	PFAM Resolvase-HTH_7 domain protein	690989	691735	00	690989	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Resolvase,HTH_7	124.1,41.2	actNOG.ENOG4100MMR.meta_raw	262.7
+CLI4811|pBCI2-1_0007299	hypothetical protein	691732	692349	00	691732	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100IBG.meta_raw	49.3
+CLI4811|pBCI2-1_0007300	hypothetical protein	692422	693666	00	692422	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100QKP.meta_raw	72.2
+CLI4811|pBCI2-1_0007301	hypothetical protein	693673	694233	00	693673	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100PC2.meta_raw	84.7
+CLI4811|pBCI2-1_0007302	K07047 family protein	694320	695561	00	694320	1	contig.1	cds	-	0.0	K07047	35.6	-	0.0	-	0.0	-	0.0	-	0.0	Amidohydro_1	125.2	actNOG.ENOG4100IPB.meta_raw	384.6
+CLI4811|pBCI2-1_0007303	hypothetical protein	695614	696099	00	695614	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100J59.meta_raw	67.8
+CLI4811|pBCI2-1_0007304	hypothetical protein	696379	696891	00	696379	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007305	hypothetical protein	696879	697304	00	696879	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100J59.meta_raw	75.3
+CLI4811|pBCI2-1_0007306	hypothetical protein	697671	698657	00	697671	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100JTS.meta_raw	23.9
+CLI4811|pBCI2-1_0007307	septum site-determining protein MinD	698680	699963	00	698680	1	contig.1	cds	-	0.0	K03609	57.2	-	0.0	-	0.0	-	0.0	-	0.0	CbiA	42.8	actNOG.ENOG4100E8S.meta_raw	401.9
+CLI4811|pBCI2-1_0007308	dbCAN GH16 domain protein	699963	701207	00	699963	1	contig.1	cds	-	0.0	-	0.0	-	0.0	GH16	92.6	-	0.0	-	0.0	Glyco_hydro_16	46.9	actNOG.ENOG4100NVU.meta_raw	287.9
+CLI4811|pBCI2-1_0007309	hypothetical protein	701990	703753	00	701990	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007310	integrase	703740	704603	00	703740	1	contig.1	cds	-	0.0	K14059	23.2	-	0.0	-	0.0	-	0.0	-	0.0	Phage_int_SAM_1,Phage_integrase	37.0,29.7	actNOG.ENOG4100GUC.meta_raw	376.9
+CLI4811|pBCI2-1_0007311	PFAM Phage_integrase domain protein	704720	705034	00	704720	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Phage_integrase	36.8	actNOG.ENOG41014NQ.meta_raw	123.1
+CLI4811|pBCI2-1_0007312	integrase/recombinase XerD	705031	707622	00	705031	1	contig.1	cds	-	0.0	K04763	83.6	-	0.0	-	0.0	-	0.0	-	0.0	Phage_integrase	57.7	actNOG.ENOG4100F8E.meta_raw	806.5
+CLI4811|pBCI2-1_0007313	PFAM Transglycosylas domain protein	707619	707933	00	707619	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Transglycosylas	90.5	actNOG.ENOG4100NA4.meta_raw	131.4
+CLI4811|pBCI2-1_0007314	PFAM Trypsin_2 domain protein	707970	708893	00	707970	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Trypsin_2	28.6	actNOG.ENOG4100FJ2.meta_raw	189.6
+CLI4811|pBCI2-1_0007315	hypothetical protein	708890	709915	00	708890	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41011E4.meta_raw	60.1
+CLI4811|pBCI2-1_0007316	hypothetical protein	709966	710286	00	709966	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100SJK.meta_raw	26.1
+CLI4811|pBCI2-1_0007317	hypothetical protein	710286	711128	00	710286	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100XG9.meta_raw	109.0
+CLI4811|pBCI2-1_0007318	hypothetical protein	711125	712891	00	711125	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100NMR.meta_raw	160.2
+CLI4811|pBCI2-1_0007319	hypothetical protein	712965	714494	00	712965	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100CV6.meta_raw	332.7
+CLI4811|pBCI2-1_0007320	type IV secretion system protein VirB4	714491	716206	00	714491	1	contig.1	cds	-	0.0	K03199	32.5	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100BES.meta_raw	446.2
+CLI4811|pBCI2-1_0007321	probable lipoprotein NlpC	716215	717354	00	716215	1	contig.1	cds	-	0.0	K13695	48.1	-	0.0	-	0.0	-	0.0	-	0.0	NLPC_P60	68.1	actNOG.ENOG4100FYT.meta_raw	328.5
+CLI4811|pBCI2-1_0007322	PFAM DnaJ domain protein	717351	718064	00	717351	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DnaJ	73.7	actNOG.ENOG4100D0K.meta_raw	76.2
+CLI4811|pBCI2-1_0007323	hypothetical protein	718064	719425	00	718064	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007324	type IV secretion system protein VirD4	719546	721375	00	719546	1	contig.1	cds	-	0.0	K03205	140.6	-	0.0	-	0.0	-	0.0	-	0.0	TraG-D_C	63.6	actNOG.ENOG4100BI2.meta_raw	377.3
+CLI4811|pBCI2-1_0007325	hypothetical protein	721496	721933	00	721496	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007326	hypothetical protein	721930	723231	00	721930	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007327	hypothetical protein	723322	724062	00	723322	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007328	putative conjugative relaxase domain, TrwC/TraI family	724145	728506	00	724145	-1	contig.1	cds	TIGR02686	68.2	K03581	68.3	-	0.0	-	0.0	-	0.0	-	0.0	TrwC,AAA_30	190.2,165.0	actNOG.ENOG4100C24.meta_raw	728.2
+CLI4811|pBCI2-1_0007329	hypothetical protein	728937	729755	00	728937	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007330	hypothetical protein	730187	730339	00	730187	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007331	putative DNA protecting protein DprA	730944	731510	00	730944	-1	contig.1	cds	TIGR00732	159.8	K04096	235.0	-	0.0	-	0.0	-	0.0	-	0.0	DNA_processg_A	177.9	actNOG.ENOG4100BXH.meta_raw	272.2
+CLI4811|pBCI2-1_0007332	hypothetical protein	732003	732491	00	732003	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007333	hypothetical protein	732540	732830	00	732540	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007334	hypothetical protein	732886	733131	00	732886	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007335	hypothetical protein	733847	734623	00	733847	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007336	hypothetical protein	735049	735348	00	735049	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100M44.meta_raw	58.5
+CLI4811|pBCI2-1_0007337	putative DNA protecting protein DprA	735498	736436	00	735498	1	contig.1	cds	TIGR00732	170.6	K04096	239.2	-	0.0	-	0.0	-	0.0	-	0.0	DNA_processg_A	204.2	actNOG.ENOG4100BXH.meta_raw	243.3
+CLI4811|pBCI2-1_0007338	hypothetical protein	736433	737230	00	736433	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100TI9.meta_raw	97.5
+CLI4811|pBCI2-1_0007339	transposase	737677	738900	00	737677	1	contig.1	cds	-	0.0	K07486	177.1	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	158.7,66.4	actNOG.ENOG4100DKU.meta_raw	560.5
+CLI4811|pBCI2-1_0007340	acetoacetyl-CoA reductase	738953	739702	00	738953	-1	contig.1	cds	-	0.0	K00023	216.6	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	203.0	actNOG.ENOG4100G10.meta_raw	299.2
+CLI4811|pBCI2-1_0007341	TetR/AcrR family transcriptional regulator, acrAB operon repressor	739968	740840	00	739968	1	contig.1	cds	-	0.0	K03577	58.4	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	53.9	actNOG.ENOG4100J72.meta_raw	88.4
+CLI4811|pBCI2-1_0007342	putative benzoate transport	740848	742191	00	740848	-1	contig.1	cds	TIGR00895	344.0	K08195	320.2	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	124.9	actNOG.ENOG4100C5T.meta_raw	435.5
+CLI4811|pBCI2-1_0007343	transposase	742417	743640	00	742417	1	contig.1	cds	-	0.0	K07486	177.1	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	158.7,66.4	actNOG.ENOG4100DKU.meta_raw	560.5
+CLI4811|pBCI2-1_0007344	K07068 family protein	743627	744559	00	743627	-1	contig.1	cds	-	0.0	K07068	32.2	-	0.0	-	0.0	-	0.0	-	0.0	MaoC_dehydrat_N,MaoC_dehydratas	25.7,25.1	actNOG.ENOG4100KY3.meta_raw	85.7
+CLI4811|pBCI2-1_0007345	K01913 family protein	744856	746466	00	744856	1	contig.1	cds	-	0.0	K01913	403.3	-	0.0	-	0.0	F	141.7	AMP-binding	327.0	AMP-binding,AMP-binding_C	322.4,58.3	actNOG.ENOG4100E0E.meta_raw	571.5
+CLI4811|pBCI2-1_0007346	probable F420-dependent oxidoreductase, MSMEG_2249 family	746914	747984	00	746914	-1	contig.1	cds	TIGR03857	364.0	K04091	25.8	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	120.4	actNOG.ENOG4100G2D.meta_raw	491.4
+CLI4811|pBCI2-1_0007347	K06979 family protein	747981	749090	00	747981	-1	contig.1	cds	-	0.0	K06979	31.8	-	0.0	-	0.0	-	0.0	-	0.0	APH	50.0	actNOG.ENOG4100JN5.meta_raw	342.0
+CLI4811|pBCI2-1_0007348	def peptide deformylase	749135	750064	00	749135	-1	contig.1	cds	-	0.0	K06889	98.7	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	46.8	actNOG.ENOG4100UVC.meta_raw	388.1
+CLI4811|pBCI2-1_0007349	TetR/AcrR family transcriptional regulator, acrAB operon repressor	750061	750714	00	750061	-1	contig.1	cds	-	0.0	K03577	45.4	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	43.4	actNOG.ENOG4100S6M.meta_raw	166.5
+CLI4811|pBCI2-1_0007350	protein AroM	750714	752096	00	750714	-1	contig.1	cds	-	0.0	K06955	24.0	-	0.0	-	0.0	-	0.0	-	0.0	FMO-like	255.0	actNOG.ENOG4100W0E.meta_raw	810.1
+CLI4811|pBCI2-1_0007351	K01913 family protein	753275	754969	00	753275	-1	contig.1	cds	-	0.0	K01913	398.4	-	0.0	-	0.0	F	129.6	AMP-binding	303.0	AMP-binding,AMP-binding_C	282.7,60.9	actNOG.ENOG4100BGV.meta_raw	485.3
+CLI4811|pBCI2-1_0007352	PFAM CoA_transf_3 domain protein	755077	756237	00	755077	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3	288.3	actNOG.ENOG4100C76.meta_raw	556.9
+CLI4811|pBCI2-1_0007353	acetoacetyl-CoA reductase	756285	757043	00	756285	1	contig.1	cds	-	0.0	K00023	107.6	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	119.0	actNOG.ENOG4100HTI.meta_raw	273.9
+CLI4811|pBCI2-1_0007354	monoamine oxidase	757210	758538	00	757210	1	contig.1	cds	-	0.0	K00274	40.4	-	0.0	-	0.0	-	0.0	-	0.0	NAD_binding_8/Amino	43.8	actNOG.ENOG4100H6Y.meta_raw	64.9
+CLI4811|pBCI2-1_0007355	hydroxyacylglutathione hydrolase	758601	759635	00	758601	-1	contig.1	cds	-	0.0	K01069	65.7	-	0.0	-	0.0	-	0.0	-	0.0	Lactamase_B	87.1	actNOG.ENOG4100DD0.meta_raw	346.2
+CLI4811|pBCI2-1_0007356	enoyl-(acyl carrier protein) reductase II	759958	760938	00	759958	-1	contig.1	cds	-	0.0	K02371	324.3	-	0.0	-	0.0	-	0.0	-	0.0	NMO	214.8	actNOG.ENOG4100BSR.meta_raw	507.5
+CLI4811|pBCI2-1_0007357	acetyl-CoA acetyltransferases	760942	762111	00	760942	-1	contig.1	cds	TIGR01930	412.5	K00626	422.5	-	0.0	-	0.0	-	0.0	-	0.0	Thiolase_N,Thiolase_C	194.6,132.7	actNOG.ENOG4100BE2.meta_raw	566.3
+CLI4811|pBCI2-1_0007358	TetR/AcrR family transcriptional regulator, acrAB operon repressor	762171	762839	00	762171	1	contig.1	cds	-	0.0	K03577	63.6	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	57.6	actNOG.ENOG4100HT4.meta_raw	97.0
+CLI4811|pBCI2-1_0007359	hypothetical protein	762977	763117	00	762977	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007360	enoyl-CoA hydratase	763178	763999	00	763178	-1	contig.1	cds	-	0.0	K01692	213.9	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	149.4	actNOG.ENOG4100GQN.meta_raw	401.1
+CLI4811|pBCI2-1_0007361	hypothetical protein	764207	764653	00	764207	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100BTD.meta_raw	32.3
+CLI4811|pBCI2-1_0007362	polar amino acid transport system ATP-binding protein	764679	765728	00	764679	-1	contig.1	cds	-	0.0	K02028	194.8	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	95.1	actNOG.ENOG4100DCZ.meta_raw	565.6
+CLI4811|pBCI2-1_0007363	hypothetical protein	765756	766619	00	765756	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100SPZ.meta_raw	101.3
+CLI4811|pBCI2-1_0007364	hypothetical protein	766616	767233	00	766616	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41012SR.meta_raw	95.6
+CLI4811|pBCI2-1_0007365	hypothetical protein	767203	767769	00	767203	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100SPZ.meta_raw	116.3
+CLI4811|pBCI2-1_0007366	hypothetical protein	767736	768314	00	767736	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100XHH.meta_raw	122.1
+CLI4811|pBCI2-1_0007367	virulence factor Mce family protein	768311	769834	00	768311	-1	contig.1	cds	TIGR00996	201.4	K02067	91.3	-	0.0	-	0.0	-	0.0	-	0.0	MlaD,Mce4_CUP1	46.0,25.7	actNOG.ENOG4100EJU.meta_raw	360.3
+CLI4811|pBCI2-1_0007368	virulence factor Mce family protein	769831	771075	00	769831	-1	contig.1	cds	TIGR00996	220.1	K02067	79.2	-	0.0	-	0.0	-	0.0	-	0.0	MlaD	46.4	actNOG.ENOG4100C0H.meta_raw	412.3
+CLI4811|pBCI2-1_0007369	virulence factor Mce family protein	771075	772238	00	771075	-1	contig.1	cds	TIGR00996	234.3	K02067	96.9	-	0.0	-	0.0	-	0.0	-	0.0	MlaD,Mce4_CUP1	54.0,25.9	actNOG.ENOG4100BPF.meta_raw	369.2
+CLI4811|pBCI2-1_0007370	virulence factor Mce family protein	772238	773302	00	772238	-1	contig.1	cds	TIGR00996	203.5	K02067	85.4	-	0.0	-	0.0	-	0.0	-	0.0	MlaD,Mce4_CUP1	49.5,26.7	actNOG.ENOG4100BSY.meta_raw	355.2
+CLI4811|pBCI2-1_0007371	virulence factor Mce family protein	773290	774312	00	773290	-1	contig.1	cds	TIGR00996	223.0	K02067	103.8	-	0.0	-	0.0	-	0.0	-	0.0	MlaD	56.9	actNOG.ENOG4100I2S.meta_raw	383.2
+CLI4811|pBCI2-1_0007372	virulence factor Mce family protein	774312	775586	00	774312	-1	contig.1	cds	TIGR00996	200.7	K02067	59.5	-	0.0	-	0.0	-	0.0	-	0.0	MlaD,Mce4_CUP1	44.6,172.8	actNOG.ENOG4100GMM.meta_raw	336.1
+CLI4811|pBCI2-1_0007373	PFAM MlaE domain protein	775583	776425	00	775583	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MlaE	159.6	actNOG.ENOG4100EPX.meta_raw	330.8
+CLI4811|pBCI2-1_0007374	putative ABC transport permease subunit	776436	777212	00	776436	-1	contig.1	cds	TIGR00056	137.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MlaE	181.8	actNOG.ENOG4100TXH.meta_raw	313.4
+CLI4811|pBCI2-1_0007375	K01913 family protein	777973	779511	00	777973	-1	contig.1	cds	-	0.0	K01913	424.2	-	0.0	-	0.0	-	0.0	AMP-binding	266.8	AMP-binding,AMP-binding_C	241.7,71.8	actNOG.ENOG4100DEF.meta_raw	752.1
+CLI4811|pBCI2-1_0007376	TetR/AcrR family transcriptional regulator	779734	780891	00	779734	1	contig.1	cds	-	0.0	K09017	74.0	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N,TetR_N	45.9,48.1	actNOG.ENOG4100GFS.meta_raw	319.3
+CLI4811|pBCI2-1_0007377	K00517 family protein	780906	782189	00	780906	-1	contig.1	cds	-	0.0	K00517	242.4	-	0.0	-	0.0	-	0.0	-	0.0	p450	49.9	actNOG.ENOG4100CCC.meta_raw	482.7
+CLI4811|pBCI2-1_0007378	hypothetical protein	782194	782499	00	782194	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100XY2.meta_raw	109.0
+CLI4811|pBCI2-1_0007379	hypothetical protein	782770	783339	00	782770	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100QMD.meta_raw	152.9
+CLI4811|pBCI2-1_0007380	hypothetical protein	783357	784193	00	783357	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100YNV.meta_raw	104.9
+CLI4811|pBCI2-1_0007381	PFAM SnoaL_2 domain protein	784296	784793	00	784296	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SnoaL_2	54.1	actNOG.ENOG4100SDZ.meta_raw	62.0
+CLI4811|pBCI2-1_0007382	enoyl-CoA hydratase	784847	785608	00	784847	1	contig.1	cds	-	0.0	K01692	203.4	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	148.3	actNOG.ENOG4100HP6.meta_raw	173.8
+CLI4811|pBCI2-1_0007383	K01913 family protein	785693	787366	00	785693	1	contig.1	cds	-	0.0	K01913	372.8	-	0.0	-	0.0	F	136.4	AMP-binding	289.3	AMP-binding,AMP-binding_C	270.7,48.4	actNOG.ENOG4100DGI.meta_raw	468.1
+CLI4811|pBCI2-1_0007384	3-oxoacyl-(acyl-carrier protein) reductase	787336	788283	00	787336	1	contig.1	cds	-	0.0	K00059	198.7	-	0.0	-	0.0	-	0.0	-	0.0	adh_short	162.6	actNOG.ENOG4100G5G.meta_raw	252.1
+CLI4811|pBCI2-1_0007385	enoyl-CoA hydratase	788328	789125	00	788328	1	contig.1	cds	-	0.0	K01692	188.3	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	152.8	actNOG.ENOG4100HP6.meta_raw	162.4
+CLI4811|pBCI2-1_0007386	PFAM SnoaL_2 domain protein	789207	789641	00	789207	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SnoaL_2	38.5	actNOG.ENOG4100NX3.meta_raw	30.7
+CLI4811|pBCI2-1_0007387	acyl-CoA dehydrogenase	789752	790912	00	789752	-1	contig.1	cds	-	0.0	K00249	404.4	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	98.2,99.7,141.6	actNOG.ENOG4100BHN.meta_raw	585.5
+CLI4811|pBCI2-1_0007388	(R,R)-butanediol dehydrogenase / diacetyl reductase	790905	791762	00	790905	-1	contig.1	cds	-	0.0	K03366	88.2	-	0.0	-	0.0	-	0.0	-	0.0	adh_short	91.9	actNOG.ENOG4100EEF.meta_raw	400.5
+CLI4811|pBCI2-1_0007389	3-hydroxyacyl-CoA dehydrogenase FadJ	791759	793936	00	791759	-1	contig.1	cds	-	0.0	K01782	806.0	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1,3HCDH_N,3HCDH	111.6,198.5,62.6	actNOG.ENOG4100BHJ.meta_raw	959.2
+CLI4811|pBCI2-1_0007390	acetyl-CoA acetyltransferases	793985	795208	00	793985	-1	contig.1	cds	TIGR01930	412.8	K00626	419.0	-	0.0	-	0.0	-	0.0	-	0.0	Thiolase_N,Thiolase_C	148.0,149.6	actNOG.ENOG4100BE2.meta_raw	587.9
+CLI4811|pBCI2-1_0007391	TetR/AcrR family transcriptional regulator	795349	796581	00	795349	1	contig.1	cds	-	0.0	K09017	69.3	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N,TetR_N	51.8,53.7	actNOG.ENOG4100GFS.meta_raw	321.6
+CLI4811|pBCI2-1_0007392	acyl-CoA dehydrogenase	796688	797848	00	796688	1	contig.1	cds	-	0.0	K00249	390.1	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	97.1,94.3,137.4	actNOG.ENOG4100VYI.meta_raw	554.5
+CLI4811|pBCI2-1_0007393	K00540 family protein	797903	798694	00	797903	1	contig.1	cds	-	0.0	K00540	47.5	-	0.0	-	0.0	-	0.0	-	0.0	adh_short,adh_short_C2	54.5,59.5	actNOG.ENOG4100PK3.meta_raw	310.7
+CLI4811|pBCI2-1_0007394	PFAM CoA_transf_3 domain protein	799111	800322	00	799111	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3	193.4	actNOG.ENOG4100EHW.meta_raw	593.0
+CLI4811|pBCI2-1_0007395	acetyl-CoA acetyltransferases	800319	801533	00	800319	-1	contig.1	cds	TIGR01930	400.9	K00626	423.7	-	0.0	-	0.0	-	0.0	-	0.0	Thiolase_N,Thiolase_C	211.5,131.1	actNOG.ENOG4100BPS.meta_raw	475.1
+CLI4811|pBCI2-1_0007396	succinate-semialdehyde dehydrogenase (NADP+)	801589	802302	00	801589	-1	contig.1	cds	-	0.0	K00135	148.6	-	0.0	-	0.0	-	0.0	-	0.0	Aldedh	140.6	actNOG.ENOG4100DAW.meta_raw	309.1
+CLI4811|pBCI2-1_0007397	succinate-semialdehyde dehydrogenase (NADP+)	802242	802994	00	802242	-1	contig.1	cds	-	0.0	K00135	125.1	-	0.0	-	0.0	-	0.0	-	0.0	Aldedh	143.5	actNOG.ENOG4100DAW.meta_raw	298.5
+CLI4811|pBCI2-1_0007398	acetoacetyl-CoA reductase	803062	803925	00	803062	-1	contig.1	cds	-	0.0	K00023	148.9	-	0.0	-	0.0	-	0.0	-	0.0	adh_short	132.8	actNOG.ENOG4100G5G.meta_raw	401.1
+CLI4811|pBCI2-1_0007399	enoyl-CoA hydratase	803964	804767	00	803964	-1	contig.1	cds	-	0.0	K01692	212.1	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	162.5	actNOG.ENOG4100FU4.meta_raw	238.0
+CLI4811|pBCI2-1_0007400	enoyl-CoA hydratase	804767	805561	00	804767	-1	contig.1	cds	-	0.0	K01692	208.7	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	132.8	actNOG.ENOG4100FKD.meta_raw	185.9
+CLI4811|pBCI2-1_0007401	hypothetical protein	805558	805776	00	805558	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007402	PFAM Ring_hydroxyl_B domain protein	805787	806341	00	805787	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Ring_hydroxyl_B	93.1	actNOG.ENOG4100QWX.meta_raw	166.1
+CLI4811|pBCI2-1_0007403	large terminal subunit of phenylpropionate dioxygenase	806338	807645	00	806338	-1	contig.1	cds	-	0.0	K05708	262.7	-	0.0	-	0.0	-	0.0	-	0.0	Rieske,Ring_hydroxyl_A	62.4,56.9	actNOG.ENOG4100TZQ.meta_raw	440.8
+CLI4811|pBCI2-1_0007404	PFAM MaoC_dehydratas domain protein	807712	808173	00	807712	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MaoC_dehydratas	94.7	actNOG.ENOG4100KBG.meta_raw	228.4
+CLI4811|pBCI2-1_0007405	PFAM Fer4_13 domain protein	808180	808371	00	808180	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Fer4_13	53.6	actNOG.ENOG4100T9H.meta_raw	102.9
+CLI4811|pBCI2-1_0007406	K00517 family protein	808395	809648	00	808395	-1	contig.1	cds	-	0.0	K00517	237.0	-	0.0	-	0.0	-	0.0	-	0.0	p450	76.5	actNOG.ENOG4100CCC.meta_raw	490.3
+CLI4811|pBCI2-1_0007407	(R,R)-butanediol dehydrogenase / diacetyl reductase	809801	810598	00	809801	1	contig.1	cds	-	0.0	K03366	143.3	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	163.5	actNOG.ENOG4100FV1.meta_raw	197.4
+CLI4811|pBCI2-1_0007408	K00257 family protein	810721	811887	00	810721	1	contig.1	cds	-	0.0	K00257	312.4	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	77.4,70.2,98.5	actNOG.ENOG4100BJ5.meta_raw	535.7
+CLI4811|pBCI2-1_0007409	TetR/AcrR family transcriptional regulator, acrAB operon repressor	811928	812593	00	811928	1	contig.1	cds	-	0.0	K03577	75.4	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	53.4	actNOG.ENOG4100RA9.meta_raw	99.5
+CLI4811|pBCI2-1_0007410	hypothetical protein	812798	812968	00	812798	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007411	TetR/AcrR family transcriptional regulator, acrAB operon repressor	813425	814054	00	813425	1	contig.1	cds	-	0.0	K03577	67.1	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	52.0	actNOG.ENOG4100M17.meta_raw	89.6
+CLI4811|pBCI2-1_0007412	enoyl-CoA hydratase	814137	814931	00	814137	1	contig.1	cds	-	0.0	K01692	262.8	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	192.7	actNOG.ENOG4100KSF.meta_raw	279.5
+CLI4811|pBCI2-1_0007413	PFAM SCP2 domain protein	815030	815440	00	815030	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SCP2	35.7	actNOG.ENOG4100XY2.meta_raw	135.1
+CLI4811|pBCI2-1_0007414	acetyl-CoA acetyltransferases	815490	816641	00	815490	-1	contig.1	cds	TIGR01930	415.7	K00626	440.8	-	0.0	-	0.0	-	0.0	-	0.0	Thiolase_N,Thiolase_C	197.5,141.5	actNOG.ENOG4100BE2.meta_raw	562.8
+CLI4811|pBCI2-1_0007415	ferredoxin-NAD+ reductase	816689	817930	00	816689	-1	contig.1	cds	-	0.0	K00529	386.3	-	0.0	-	0.0	-	0.0	-	0.0	Pyr_redox_2,Reductase_C	189.5,56.4	actNOG.ENOG4100E5Z.meta_raw	492.1
+CLI4811|pBCI2-1_0007416	enoyl-CoA hydratase	818098	820128	00	818098	1	contig.1	cds	-	0.0	K01692	245.0	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1,SnoaL_2,ECH_1	160.0,43.7,190.9	actNOG.ENOG4100FU4.meta_raw	278.0
+CLI4811|pBCI2-1_0007417	hypothetical protein	820134	820442	00	820134	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-1_0007418	acyltransferase, WS/DGAT/MGAT	820549	821922	00	820549	1	contig.1	cds	TIGR02946	411.9	-	0.0	-	0.0	-	0.0	-	0.0	Condensation	25.4	WES_acyltransf,DUF1298	212.5,94.5	actNOG.ENOG4100CA5.meta_raw	503.1
+CLI4811|pBCI2-1_0007419	carboxylesterase	821950	822843	00	821950	-1	contig.1	cds	-	0.0	K03928	49.0	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	70.6	actNOG.ENOG4100PNF.meta_raw	263.0
+CLI4811|pBCI2-1_0007420	acetoacetyl-CoA reductase	822840	823595	00	822840	-1	contig.1	cds	-	0.0	K00023	244.3	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	190.5	actNOG.ENOG4100BDW.meta_raw	381.0
+CLI4811|pBCI2-1_0007421	haloalkane dehalogenase	823776	824525	00	823776	1	contig.1	cds	-	0.0	K01563	20.7	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	56.1	actNOG.ENOG4100C8D.meta_raw	205.5
+CLI4811|pBCI2-1_0007422	PFAM Flavin_Reduct domain protein	825040	825537	00	825040	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Flavin_Reduct	113.5	actNOG.ENOG4100N25.meta_raw	234.3
+CLI4811|pBCI2-1_0007423	MFS transporter, proline/betaine transporter	825755	827113	00	825755	-1	contig.1	cds	-	0.0	K03762	279.1	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	69.3	actNOG.ENOG4100BEI.meta_raw	341.2
+CLI4811|pBCI2-1_0007424	MFS transporter, proline/betaine transporter	827265	828602	00	827265	-1	contig.1	cds	-	0.0	K03762	383.6	-	0.0	-	0.0	-	0.0	-	0.0	Sugar_tr	74.2	actNOG.ENOG4100BEI.meta_raw	461.7
+CLI4811|pBCI2-1_0007425	K01913 family protein	828666	830210	00	828666	-1	contig.1	cds	-	0.0	K01913	356.5	-	0.0	-	0.0	-	0.0	AMP-binding	227.5	AMP-binding,AMP-binding_C	200.2,57.8	actNOG.ENOG4100DEF.meta_raw	510.7
+CLI4811|pBCI2-1_0007426	enoyl-CoA hydratase	830272	831087	00	830272	-1	contig.1	cds	-	0.0	K01692	254.6	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	181.5	actNOG.ENOG4100JH3.meta_raw	309.3
+CLI4811|pBCI2-1_0007427	K00257 family protein	831084	832256	00	831084	-1	contig.1	cds	-	0.0	K00257	196.6	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_1	57.4,94.3	actNOG.ENOG4100HGS.meta_raw	396.6
+CLI4811|pBCI2-1_0007428	K00257 family protein	832253	833446	00	832253	-1	contig.1	cds	-	0.0	K00257	219.0	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	62.1,61.4,59.1	actNOG.ENOG4100BD0.meta_raw	401.0
+CLI4811|pBCI2-1_0007429	PFAM DUF35_N-OB_aCoA_assoc domain protein	833456	833845	00	833456	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF35_N,OB_aCoA_assoc	38.9,62.9	actNOG.ENOG4100P2F.meta_raw	110.8
+CLI4811|pBCI2-1_0007430	acetyl-CoA C-acetyltransferase	833842	835011	00	833842	-1	contig.1	cds	-	0.0	K00626	143.5	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100FRI.meta_raw	383.4
+CLI4811|pBCI2-1_0007431	PFAM MaoC_dehydratas domain protein	835008	835487	00	835008	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MaoC_dehydratas	79.0	actNOG.ENOG4100KBG.meta_raw	176.5
+CLI4811|pBCI2-1_0007432	acetoacetyl-CoA reductase	835475	836386	00	835475	-1	contig.1	cds	-	0.0	K00023	151.9	-	0.0	-	0.0	-	0.0	-	0.0	adh_short	141.0	actNOG.ENOG4100G5G.meta_raw	381.0
+CLI4811|pBCI2-1_0007433	hypothetical protein	836706	837758	00	836706	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100E8E.meta_raw	128.9
+CLI4811|pBCI2-1_0007434	K06979 family protein	837755	838789	00	837755	1	contig.1	cds	-	0.0	K06979	144.2	-	0.0	-	0.0	-	0.0	-	0.0	APH	91.6	actNOG.ENOG4100DIW.meta_raw	168.4
+CLI4811|pBCI2-1_0007435	K01913 family protein	838807	840351	00	838807	1	contig.1	cds	-	0.0	K01913	468.7	-	0.0	-	0.0	F	169.0	AMP-binding	332.1	AMP-binding,AMP-binding_C	310.1,67.6	actNOG.ENOG4100BGV.meta_raw	573.4
+CLI4811|pBCI2-1_0007436	deazaflavin-dependent oxidoreductase, nitroreductase family	840361	840954	00	840361	1	contig.1	cds	TIGR00026	92.8	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF385	105.1	actNOG.ENOG4100N20.meta_raw	145.0
+CLI4811|pBCI2-1_0007437	(R,R)-butanediol dehydrogenase / diacetyl reductase	840879	841649	00	840879	-1	contig.1	cds	-	0.0	K03366	164.7	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	186.7	actNOG.ENOG4100K2N.meta_raw	223.7
+CLI4811|pBCI2-1_0007438	def peptide deformylase	842083	842904	00	842083	-1	contig.1	cds	-	0.0	K06889	58.8	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	66.4	actNOG.ENOG4100XDK.meta_raw	244.8
+CLI4811|pBCI2-1_0007439	phenylacetic acid degradation protein	843067	843852	00	843067	-1	contig.1	cds	-	0.0	K02614	29.6	-	0.0	-	0.0	-	0.0	-	0.0	4HBT	38.9	actNOG.ENOG4100MDC.meta_raw	203.3
+CLI4811|pBCI2-1_0007440	N-acyl homoserine lactone hydrolase	843845	844654	00	843845	-1	contig.1	cds	-	0.0	K13075	71.7	-	0.0	-	0.0	-	0.0	-	0.0	Lactamase_B	51.0	actNOG.ENOG41014IP.meta_raw	122.7
+CLI4811|pBCI2-1_0007441	gluconolactonase	844664	845587	00	844664	-1	contig.1	cds	-	0.0	K01053	103.6	-	0.0	-	0.0	-	0.0	-	0.0	SGL	249.8	actNOG.ENOG4100Q0C.meta_raw	267.4
+CLI4811|pBCI2-1_0007442	K00540 family protein	845584	846303	00	845584	-1	contig.1	cds	-	0.0	K00540	24.5	-	0.0	-	0.0	-	0.0	-	0.0	Nitroreductase	87.7	actNOG.ENOG4100DPE.meta_raw	242.0
+CLI4811|pBCI2-1_0007443	alkanesulfonate monooxygenase	846474	847568	00	846474	1	contig.1	cds	-	0.0	K04091	31.9	-	0.0	-	0.0	-	0.0	A-OX	61.8	Bac_luciferase	147.5	actNOG.ENOG4100GNF.meta_raw	392.7
+CLI4811|pBCI2-1_0007444	TetR/AcrR family transcriptional regulator, acrAB operon repressor	847629	848234	00	847629	-1	contig.1	cds	-	0.0	K03577	44.6	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	67.1	actNOG.ENOG41014W2.meta_raw	231.3
+CLI4811|pBCI2-1_0007445	formyl-CoA transferase	848241	850556	00	848241	-1	contig.1	cds	-	0.0	K07749	273.5	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3,CoA_transf_3,CoA_transf_3	26.3,90.8,258.1	actNOG.ENOG4100IK3.meta_raw	336.2
+CLI4811|pBCI2-1_0007446	acyl-CoA dehydrogenase	850571	851749	00	850571	-1	contig.1	cds	-	0.0	K00249	298.6	-	0.0	-	0.0	-	0.0	-	0.0	Acyl-CoA_dh_N,Acyl-CoA_dh_M,Acyl-CoA_dh_1	91.4,64.6,93.0	actNOG.ENOG4100BJ5.meta_raw	430.1
+CLI4811|pBCI2-1_0007447	alkanesulfonate monooxygenase	851917	853074	00	851917	1	contig.1	cds	-	0.0	K04091	42.0	-	0.0	-	0.0	-	0.0	-	0.0	Bac_luciferase	137.4	actNOG.ENOG4100EEA.meta_raw	474.3
+CLI4811|pBCI2-1_0007448	putative 3,4-dihydroxy-2-butanone 4-phosphate synthase	853067	854107	00	853067	1	contig.1	cds	TIGR00506	122.5	K14652	323.9	-	0.0	-	0.0	-	0.0	-	0.0	DHBP_synthase,GTP_cyclohydro2	171.2,79.5	actNOG.ENOG4100C67.meta_raw	286.3
+CLI4811|pBCI2-1_0007449	K01913 family protein	854227	855867	00	854227	1	contig.1	cds	-	0.0	K01913	197.1	-	0.0	-	0.0	-	0.0	AMP-binding	180.8	AMP-binding	147.8	actNOG.ENOG4100DGX.meta_raw	371.9
+CLI4811|pBCI2-1_0007450	dbCAN CE10 domain protein	855845	856738	00	855845	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	CE10	153.9	-	0.0	-	0.0	Abhydrolase_3	169.3	actNOG.ENOG4100HMX.meta_raw	237.4
+CLI4811|pBCI2-1_0007451	acetoacetyl-CoA reductase	856735	857517	00	856735	-1	contig.1	cds	-	0.0	K00023	180.7	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	202.6	actNOG.ENOG4100CX1.meta_raw	233.1
+CLI4811|pBCI2-1_0007452	branched-chain amino acid transport system ATP-binding protein	857529	858230	00	857529	-1	contig.1	cds	-	0.0	K01996	223.4	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	90.7	actNOG.ENOG4100JVK.meta_raw	201.0
+CLI4811|pBCI2-1_0007453	branched-chain amino acid transport system permease protein	858227	859009	00	858227	-1	contig.1	cds	-	0.0	K01998	211.7	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran,BCA_ABC_TP_C	92.6,28.2	actNOG.ENOG4100DSM.meta_raw	306.4
+CLI4811|pBCI2-1_0007454	branched-chain amino acid transport system permease protein	859006	860064	00	859006	-1	contig.1	cds	-	0.0	K01998	128.7	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_2	86.7	actNOG.ENOG4100KXC.meta_raw	145.3
+CLI4811|pBCI2-1_0007455	branched-chain amino acid transport system permease protein	860066	860938	00	860066	-1	contig.1	cds	-	0.0	K01998	62.2	-	0.0	-	0.0	-	0.0	-	0.0	BPD_transp_2	80.2	actNOG.ENOG4100HCP.meta_raw	211.1
+CLI4811|pBCI2-1_0007456	branched-chain amino acid transport system substrate-binding protein	861004	862212	00	861004	-1	contig.1	cds	-	0.0	K01999	99.2	-	0.0	-	0.0	-	0.0	-	0.0	Peripla_BP_6	186.8	actNOG.ENOG4100DBC.meta_raw	183.4
+CLI4811|pBCI2-1_0007457	(R,R)-butanediol dehydrogenase / diacetyl reductase	862432	863184	00	862432	1	contig.1	cds	-	0.0	K03366	189.8	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	211.2	actNOG.ENOG4100K2N.meta_raw	249.5
+CLI4811|pBCI2-1_0007458	TetR/AcrR family transcriptional regulator, acrAB operon repressor	863202	863816	00	863202	-1	contig.1	cds	-	0.0	K03577	51.2	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	50.4	actNOG.ENOG41014W2.meta_raw	201.5
+CLI4811|pBCI2-1_0007459	PFAM AcetylCoA_hydro-AcetylCoA_hyd_C domain protein	864012	865238	00	864012	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	AcetylCoA_hydro,AcetylCoA_hyd_C	28.2,138.0	actNOG.ENOG4100DNY.meta_raw	302.9
+CLI4811|pBCI2-1_0007460	4-hydroxy 2-oxovalerate aldolase	865235	866200	00	865235	1	contig.1	cds	-	0.0	K01666	72.2	-	0.0	-	0.0	-	0.0	-	0.0	HMGL-like	133.1	actNOG.ENOG4100E1Y.meta_raw	278.2
+CLI4811|pBCI2-1_0007461	acetyl-CoA synthetase	866197	867183	00	866197	1	contig.1	cds	-	0.0	K01895	103.5	-	0.0	-	0.0	-	0.0	AMP-binding	67.2	AMP-binding	66.8	actNOG.ENOG41014RT.meta_raw	238.6
+CLI4811|pBCI2-1_0007462	putative acetoacetyl-CoA synthase	867150	868169	00	867150	1	contig.1	cds	TIGR01217	347.3	K01895	150.9	-	0.0	-	0.0	-	0.0	AMP-binding	78.2	AMP-binding	40.5	actNOG.ENOG41014RT.meta_raw	447.6
+CLI4811|pBCI2-1_0007463	enoyl-CoA hydratase	868166	868951	00	868166	1	contig.1	cds	-	0.0	K01692	232.4	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	173.9	actNOG.ENOG4100GK5.meta_raw	239.2
+CLI4811|pBCI2-1_0007464	PFAM CoA_transf_3 domain protein	868948	870072	00	868948	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3	257.3	actNOG.ENOG4100C76.meta_raw	356.0
+CLI4811|pBCI2-1_0007465	SDR family mycofactocin-dependent oxidoreductase	870086	870946	00	870086	1	contig.1	cds	TIGR03971	348.4	K03366	184.3	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	164.5	actNOG.ENOG4100GHK.meta_raw	372.2
+CLI4811|pBCI2-1_0007466	putative PPOX class probable F420-dependent enzyme	870976	871458	00	870976	1	contig.1	cds	TIGR03618	65.9	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Pyridox_oxidase	40.5	actNOG.ENOG4100J69.meta_raw	82.4
+CLI4811|pBCI2-1_0007467	PFAM HTH_IclR-IclR domain protein	871664	872578	00	871664	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_IclR,IclR	54.0,64.5	actNOG.ENOG4100VMJ.meta_raw	264.5
+CLI4811|pBCI2-1_0007468	PFAM Reductase_C domain protein	872575	872955	00	872575	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Reductase_C	48.2	actNOG.ENOG4100E5Z.meta_raw	95.5
+CLI4811|pBCI2-1_0007469	PFAM Fer4_15 domain protein	873784	873975	00	873784	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Fer4_15	56.6	actNOG.ENOG4100TQD.meta_raw	58.3
+CLI4811|pBCI2-1_0007470	PFAM CoA_transf_3 domain protein	874004	874465	00	874004	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3	86.9	actNOG.ENOG4100BM3.meta_raw	88.9
+CLI4811|pBCI2-1_0007471	PFAM CoA_transf_3 domain protein	874444	874707	00	874444	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3	44.9	actNOG.ENOG4100BDQ.meta_raw	53.9
+CLI4811|pBCI2-1_0007472	PFAM CoA_transf_3 domain partial partial partial partial protein	874704	874997	01	874704	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CoA_transf_3	115.4	actNOG.ENOG4100BDQ.meta_raw	110.3

@@ -1,0 +1,305 @@
+LocusID	Annotation	Start	End	Partial	Absolute_Start	Strand	Contig	Type	TIGR	TIGR_bitscore	KEGG	KEGG_bitscore	resfam	resfam_bitscore	dbCAN	dbCAN_bitscore	NRPS	NRPS_bitscore	antiSMASH	antiSMASH_bitscore	PFAM	PFAM_bitscore	actNOG	actNOG_bitscore
+CLI4839|pFRP1-1_0005745	hypothetical partial partial partial partial protein	1	291	10	1	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100YZU.meta_raw	40.3
+CLI4839|pFRP1-1_0005746	hypothetical protein	352	591	00	352	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005747	PFAM Pyridox_oxidase domain protein	809	1231	00	809	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Pyridox_oxidase	35.2	actNOG.ENOG410122I.meta_raw	162.5
+CLI4839|pFRP1-1_0005748	TIGR03086 family protein	1421	1993	00	1421	-1	contig.1	cds	TIGR03086	86.4	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MDMPI_N	45.8	actNOG.ENOG4100KVW.meta_raw	128.8
+CLI4839|pFRP1-1_0005749	hypothetical protein	2693	3490	00	2693	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100JRH.meta_raw	315.1
+CLI4839|pFRP1-1_0005750	acetoacetyl-CoA reductase	3531	4418	00	3531	1	contig.1	cds	-	0.0	K00023	123.1	-	0.0	-	0.0	-	0.0	-	0.0	adh_short_C2	135.9	actNOG.ENOG4100FX3.meta_raw	360.1
+CLI4839|pFRP1-1_0005751	biotin synthesis protein BioC	4646	5287	00	4646	1	contig.1	cds	-	0.0	K02169	43.7	-	0.0	-	0.0	-	0.0	-	0.0	Methyltransf_12	50.2	actNOG.ENOG4100MNU.meta_raw	218.3
+CLI4839|pFRP1-1_0005752	hypothetical protein	5327	5629	00	5327	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005753	PFAM Cupin_2 domain protein	5810	6262	00	5810	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Cupin_2	38.9	actNOG.ENOG4100I6E.meta_raw	143.9
+CLI4839|pFRP1-1_0005754	transposase	6742	7992	00	6742	-1	contig.1	cds	-	0.0	K07486	107.2	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	77.0,47.9	actNOG.ENOG41013UI.meta_raw	546.6
+CLI4839|pFRP1-1_0005755	hypothetical protein	8251	8757	00	8251	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005756	hypothetical protein	9019	9813	00	9019	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005757	putative transposase	9858	11213	00	9858	1	contig.1	cds	-	0.0	K07493	236.3	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	206.2	actNOG.ENOG4100D0Y.meta_raw	799.5
+CLI4839|pFRP1-1_0005758	hypothetical protein	11648	11914	00	11648	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005759	hypothetical protein	11991	12143	00	11991	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005760	putative DNA protecting protein DprA	12714	13673	00	12714	-1	contig.1	cds	TIGR00732	170.2	K04096	264.5	-	0.0	-	0.0	-	0.0	-	0.0	DNA_processg_A	200.4	actNOG.ENOG4100BXH.meta_raw	335.4
+CLI4839|pFRP1-1_0005761	hypothetical protein	13772	14302	00	13772	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005762	hypothetical protein	14393	14638	00	14393	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005763	hypothetical protein	15054	15323	00	15054	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005764	hypothetical protein	15466	16158	00	15466	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005765	hypothetical protein	16208	16993	00	16208	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005766	hypothetical protein	17232	17495	00	17232	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005767	hypothetical protein	17651	17800	00	17651	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005768	transposase	17949	19046	00	17949	1	contig.1	cds	-	0.0	K07486	132.0	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	52.6,53.5	actNOG.ENOG4100F4R.meta_raw	429.9
+CLI4839|pFRP1-1_0005769	PFAM Prim-Pol domain protein	19219	20250	00	19219	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Prim-Pol	140.3	actNOG.ENOG4100JMQ.meta_raw	300.7
+CLI4839|pFRP1-1_0005770	hypothetical protein	20577	21056	00	20577	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005771	hypothetical protein	21116	21721	00	21116	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005772	putative transposase	21718	22125	00	21718	-1	contig.1	cds	-	0.0	K07499	24.5	-	0.0	-	0.0	-	0.0	-	0.0	Whib,HTH_23	68.1,36.0	actNOG.ENOG4100N1D.meta_raw	88.8
+CLI4839|pFRP1-1_0005773	PFAM SSB domain protein	22219	22626	00	22219	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SSB	57.5	actNOG.ENOG4100Q4F.meta_raw	100.1
+CLI4839|pFRP1-1_0005774	hypothetical protein	22958	23461	00	22958	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005775	putative transposase	23596	24468	00	23596	-1	contig.1	cds	-	0.0	K07497	144.7	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve	41.0,74.1	actNOG.ENOG4100GWC.meta_raw	427.8
+CLI4839|pFRP1-1_0005776	transposase	24528	24860	00	24528	-1	contig.1	cds	-	0.0	K07483	54.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	30.1	actNOG.ENOG4100RQQ.meta_raw	163.7
+CLI4839|pFRP1-1_0005777	hypothetical protein	24911	25033	00	24911	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005778	hypothetical protein	25136	26761	00	25136	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100KWR.meta_raw	403.3
+CLI4839|pFRP1-1_0005779	hypothetical protein	26758	27069	00	26758	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005780	PFAM DUF3145 domain protein	27066	27569	00	27066	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF3145	26.3	actNOG.ENOG4100IVC.meta_raw	31.6
+CLI4839|pFRP1-1_0005781	hypothetical protein	27573	27803	00	27573	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005782	hypothetical protein	27931	28242	00	27931	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005783	hypothetical protein	28347	29510	00	28347	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100U7C.meta_raw	509.6
+CLI4839|pFRP1-1_0005784	hypothetical protein	29946	30224	00	29946	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005785	hypothetical protein	30224	30526	00	30224	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005786	hypothetical protein	30602	31999	00	30602	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005787	hypothetical protein	32134	32427	00	32134	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005788	PFAM THF_DHG_CYH-THF_DHG_CYH_C domain protein	32756	33736	00	32756	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	THF_DHG_CYH,THF_DHG_CYH_C	53.2,52.2	actNOG.ENOG4100C4N.meta_raw	105.6
+CLI4839|pFRP1-1_0005789	hypothetical protein	33733	34269	00	33733	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005790	aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A	34290	35186	00	34290	-1	contig.1	cds	-	0.0	K02433	89.4	-	0.0	-	0.0	-	0.0	-	0.0	Amidase,Amidase	99.3,56.5	actNOG.ENOG4100GJ6.meta_raw	355.9
+CLI4839|pFRP1-1_0005791	hypothetical protein	35368	35526	00	35368	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005792	HTH-type transcriptional regulator / antitoxin for MqsR toxin	35485	36363	00	35485	-1	contig.1	cds	-	0.0	K13655	24.4	-	0.0	-	0.0	-	0.0	-	0.0	HTH_31	46.9	actNOG.ENOG4100PVX.meta_raw	187.0
+CLI4839|pFRP1-1_0005793	hypothetical protein	36369	36938	00	36369	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100RD6.meta_raw	153.4
+CLI4839|pFRP1-1_0005794	hypothetical protein	36935	37342	00	36935	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005795	hypothetical protein	37598	38068	00	37598	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005796	hypothetical protein	38055	39017	00	38055	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100QMI.meta_raw	199.3
+CLI4839|pFRP1-1_0005797	hypothetical protein	39014	39667	00	39014	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005798	putative transposase	39697	40569	00	39697	-1	contig.1	cds	-	0.0	K07497	144.8	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve	41.0,75.1	actNOG.ENOG4100GWC.meta_raw	424.6
+CLI4839|pFRP1-1_0005799	transposase	40629	40961	00	40629	-1	contig.1	cds	-	0.0	K07483	54.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	30.1	actNOG.ENOG4100RQQ.meta_raw	163.7
+CLI4839|pFRP1-1_0005800	putative transposase	41529	42602	00	41529	-1	contig.1	cds	-	0.0	K07494	167.8	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,DDE_3	50.3,74.2	actNOG.ENOG4100BDX.meta_raw	633.3
+CLI4839|pFRP1-1_0005801	hypothetical protein	42792	43004	00	42792	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005802	hypothetical protein	43085	43384	00	43085	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005803	hypothetical protein	43778	45289	00	43778	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100JU0.meta_raw	556.4
+CLI4839|pFRP1-1_0005804	putative transcriptional regulator	45304	45636	00	45304	-1	contig.1	cds	-	0.0	K07727	36.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_26	72.8	actNOG.ENOG4100QU9.meta_raw	131.6
+CLI4839|pFRP1-1_0005805	putative transposase	45772	47127	00	45772	1	contig.1	cds	-	0.0	K07493	236.3	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	206.2	actNOG.ENOG4100D0Y.meta_raw	799.5
+CLI4839|pFRP1-1_0005806	integrase/recombinase XerD	46957	48186	00	46957	-1	contig.1	cds	-	0.0	K04763	122.7	-	0.0	-	0.0	-	0.0	-	0.0	Phage_integrase	71.7	actNOG.ENOG4100GJF.meta_raw	564.8
+CLI4839|pFRP1-1_0005807	NADH dehydrogenase	48617	49453	00	48617	1	contig.1	cds	-	0.0	K00356	33.0	-	0.0	-	0.0	-	0.0	-	0.0	NAD_binding_10	58.3	actNOG.ENOG4100FFP.meta_raw	324.6
+CLI4839|pFRP1-1_0005808	hypothetical protein	49807	50553	00	49807	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100R07.meta_raw	188.6
+CLI4839|pFRP1-1_0005809	putative transposase	50546	51841	00	50546	1	contig.1	cds	-	0.0	K07493	236.5	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	206.5	actNOG.ENOG4100D0Y.meta_raw	799.7
+CLI4839|pFRP1-1_0005810	putative transposase	51880	53028	00	51880	1	contig.1	cds	-	0.0	K07493	381.3	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	454.7	actNOG.ENOG4100BTD.meta_raw	600.8
+CLI4839|pFRP1-1_0005811	amino acid adenylation domain	53136	55400	00	53136	-1	contig.1	cds	TIGR01733	399.3	K01780	484.9	-	0.0	-	0.0	D	501.1	Condensation,AMP-binding	31.6,344.5	Condensation,AMP-binding,AMP-binding_C	31.6,274.9,44.3	actNOG.ENOG4100CG7.meta_raw	676.7
+CLI4839|pFRP1-1_0005812	PFAM Amidinotransf domain protein	55432	56256	00	55432	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Amidinotransf	57.0	actNOG.ENOG4100C3W.meta_raw	430.3
+CLI4839|pFRP1-1_0005813	K00517 family protein	56573	57823	00	56573	1	contig.1	cds	-	0.0	K00517	240.5	-	0.0	-	0.0	-	0.0	-	0.0	p450	55.2	actNOG.ENOG4100ER3.meta_raw	390.3
+CLI4839|pFRP1-1_0005814	PFAM p450 domain protein	57868	59031	00	57868	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	p450	74.1	actNOG.ENOG4100BJZ.meta_raw	455.6
+CLI4839|pFRP1-1_0005815	amino acid adenylation domain	59115	75395	00	59115	-1	contig.1	cds	TIGR01733	407.7	K04780	1163.6	-	0.0	-	0.0	F,F,F,F	458.1,533.5,500.8,480.9	Condensation,AMP-binding,PP-binding,Condensation,Condensation,AMP-binding,PP-binding,Condensation,AMP-binding,PP-binding,Condensation,Condensation,AMP-binding,PP-binding	194.8,309.9,43.2,124.1,206.8,342.0,53.4,216.6,326.4,42.0,122.0,204.8,331.9,57.7	Condensation,HxxPF_rpt,AMP-binding,AMP-binding_C,PP-binding,Condensation,Condensation,AMP-binding,AMP-binding_C,PP-binding,Condensation,HxxPF_rpt,AMP-binding,AMP-binding_C,PP-binding,Condensation,Condensation,AMP-binding,AMP-binding_C,PP-binding,Thioesterase	185.7,91.8,250.0,30.4,42.2,96.5,195.4,286.2,56.5,54.2,204.9,92.5,263.8,28.7,40.9,101.3,195.7,258.4,52.8,59.0,67.1	actNOG.ENOG4100VZF.meta_raw	1389.4
+CLI4839|pFRP1-1_0005816	PFAM SHMT domain protein	75988	77433	00	75988	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SHMT	419.2	actNOG.ENOG4100C3X.meta_raw	499.8
+CLI4839|pFRP1-1_0005817	amino acid adenylation domain	77433	82916	00	77433	1	contig.1	cds	TIGR01733	411.6	K00666	294.8	-	0.0	-	0.0	C	564.0	AMP-binding,PP-binding,Condensation,AMP-binding,AMP-binding,PP-binding	362.0,35.6,191.9,57.1,106.6,46.2	AMP-binding,AMP-binding_C,PP-binding,Condensation,AMP-binding,AMP-binding,PP-binding	309.0,45.5,34.0,184.7,69.6,57.1,47.3	actNOG.ENOG4100BYC.meta_raw	651.1
+CLI4839|pFRP1-1_0005818	PFAM K_oxygenase domain protein	83109	84467	00	83109	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	K_oxygenase	364.3	actNOG.ENOG4100DWY.meta_raw	452.6
+CLI4839|pFRP1-1_0005819	drug resistance transporter, EmrB/QacA subfamily	84718	86397	00	84718	-1	contig.1	cds	TIGR00711	273.9	K07001	112.4	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	185.5	actNOG.ENOG4100C2R.meta_raw	462.0
+CLI4839|pFRP1-1_0005820	TetR/AcrR family transcriptional regulator, acrAB operon repressor	86559	87227	00	86559	1	contig.1	cds	-	0.0	K03577	25.5	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N,TetR_C	27.1,56.3	actNOG.ENOG4100EJK.meta_raw	198.4
+CLI4839|pFRP1-1_0005821	D-alanyl-D-alanine carboxypeptidase	87496	88794	00	87496	1	contig.1	cds	-	0.0	K01286	84.6	-	0.0	-	0.0	-	0.0	-	0.0	Beta-lactamase	198.1	actNOG.ENOG4100EHC.meta_raw	327.6
+CLI4839|pFRP1-1_0005822	putative transposase	88624	89979	00	88624	-1	contig.1	cds	-	0.0	K07493	236.3	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	206.2	actNOG.ENOG4100D0Y.meta_raw	799.5
+CLI4839|pFRP1-1_0005823	transposase	90350	91762	00	90350	-1	contig.1	cds	-	0.0	K07486	76.5	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	111.1,48.4	actNOG.ENOG4100CWJ.meta_raw	426.4
+CLI4839|pFRP1-1_0005824	putative transposase	91833	93188	00	91833	1	contig.1	cds	-	0.0	K07493	236.3	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	206.2	actNOG.ENOG4100D0Y.meta_raw	799.5
+CLI4839|pFRP1-1_0005825	PFAM DDE_Tnp_1 domain protein	93244	93945	00	93244	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_1	64.3	actNOG.ENOG4100H8J.meta_raw	288.3
+CLI4839|pFRP1-1_0005826	putative transposase	93983	94486	00	93983	1	contig.1	cds	-	0.0	K07493	186.4	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	142.9	actNOG.ENOG4100DIN.meta_raw	236.8
+CLI4839|pFRP1-1_0005827	MFS transporter, shikimate and dehydroshikimate	94557	95876	00	94557	-1	contig.1	cds	-	0.0	K08172	392.8	-	0.0	-	0.0	-	0.0	-	0.0	Sugar_tr,MFS_1	73.4,40.9	actNOG.ENOG4100BEI.meta_raw	516.5
+CLI4839|pFRP1-1_0005828	hypothetical protein	96358	96801	00	96358	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100CI5.meta_raw	32.3
+CLI4839|pFRP1-1_0005829	PFAM Rubredoxin domain protein	96973	97077	00	96973	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Rubredoxin	27.7	actNOG.ENOG4100T8A.meta_raw	35.0
+CLI4839|pFRP1-1_0005830	transposase	97657	97950	00	97657	1	contig.1	cds	-	0.0	K07483	68.2	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	41.1	actNOG.ENOG4100Q5Q.meta_raw	134.3
+CLI4839|pFRP1-1_0005831	putative transposase	98342	98692	00	98342	1	contig.1	cds	-	0.0	K07497	71.9	-	0.0	-	0.0	-	0.0	-	0.0	rve	62.5	actNOG.ENOG4100FHD.meta_raw	173.7
+CLI4839|pFRP1-1_0005832	transposase	98714	99046	00	98714	1	contig.1	cds	-	0.0	K07483	54.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	30.1	actNOG.ENOG4100RQQ.meta_raw	163.7
+CLI4839|pFRP1-1_0005833	putative transposase	99106	99978	00	99106	1	contig.1	cds	-	0.0	K07497	144.8	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve	41.0,75.1	actNOG.ENOG4100GWC.meta_raw	424.6
+CLI4839|pFRP1-1_0005834	PFAM Formyl_trans_N domain protein	100105	100320	00	100105	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Formyl_trans_N	33.3	actNOG.ENOG4100CZ6.meta_raw	124.3
+CLI4839|pFRP1-1_0005835	putative transposase	100317	101408	00	100317	-1	contig.1	cds	-	0.0	K07494	170.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,DDE_3	50.2,74.2	actNOG.ENOG4100BDX.meta_raw	642.3
+CLI4839|pFRP1-1_0005836	hypothetical protein	101499	101792	00	101499	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41013X3.meta_raw	49.3
+CLI4839|pFRP1-1_0005837	K07062 family protein	101931	102344	00	101931	-1	contig.1	cds	-	0.0	K07062	61.9	-	0.0	-	0.0	-	0.0	-	0.0	PIN	28.0	actNOG.ENOG4100MZQ.meta_raw	201.7
+CLI4839|pFRP1-1_0005838	hypothetical protein	102341	102565	00	102341	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010IW.meta_raw	61.1
+CLI4839|pFRP1-1_0005839	transposase	102914	103351	00	102914	1	contig.1	cds	-	0.0	K07483	41.4	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100P8Q.meta_raw	139.8
+CLI4839|pFRP1-1_0005840	putative transposase	103348	104286	00	103348	1	contig.1	cds	-	0.0	K07497	103.7	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve_3	43.6,50.6	actNOG.ENOG4100E0Q.meta_raw	372.8
+CLI4839|pFRP1-1_0005841	hypothetical protein	104448	104810	00	104448	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41014YX.meta_raw	26.2
+CLI4839|pFRP1-1_0005842	hypothetical protein	104967	105206	00	104967	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100KVW.meta_raw	53.0
+CLI4839|pFRP1-1_0005843	putative transposase	105722	106813	00	105722	-1	contig.1	cds	-	0.0	K07494	170.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,DDE_3	50.2,74.2	actNOG.ENOG4100BDX.meta_raw	642.3
+CLI4839|pFRP1-1_0005844	hypothetical protein	106857	107177	00	106857	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005845	PFAM DDE_5 domain protein	107174	108265	00	107174	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_5	171.7	actNOG.ENOG4100DDJ.meta_raw	328.6
+CLI4839|pFRP1-1_0005846	putative transposase	108309	109208	00	108309	1	contig.1	cds	-	0.0	K07492	81.9	-	0.0	-	0.0	-	0.0	-	0.0	DUF4096,DDE_Tnp_1	33.4,45.5	actNOG.ENOG4100IAB.meta_raw	392.2
+CLI4839|pFRP1-1_0005847	putative transposase	109291	109794	00	109291	1	contig.1	cds	-	0.0	K07492	34.5	-	0.0	-	0.0	-	0.0	-	0.0	DUF4096	38.2	actNOG.ENOG4100IAB.meta_raw	284.0
+CLI4839|pFRP1-1_0005848	PFAM DDE_Tnp_1_2 domain protein	109813	110133	00	109813	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_1_2	36.1	actNOG.ENOG4100IAB.meta_raw	158.6
+CLI4839|pFRP1-1_0005849	GntR family transcriptional regulator, uxuAB operon repressor	110193	110987	00	110193	1	contig.1	cds	-	0.0	K13637	116.6	-	0.0	-	0.0	-	0.0	-	0.0	GntR,FCD	65.9,79.2	actNOG.ENOG4100GVJ.meta_raw	208.7
+CLI4839|pFRP1-1_0005850	putative transposase	111046	111885	00	111046	-1	contig.1	cds	-	0.0	K07492	68.5	-	0.0	-	0.0	-	0.0	-	0.0	DUF4096,DDE_Tnp_1_2	48.5,69.2	actNOG.ENOG4100CM6.meta_raw	296.7
+CLI4839|pFRP1-1_0005851	hypothetical protein	112097	112252	00	112097	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG410140A.meta_raw	79.7
+CLI4839|pFRP1-1_0005852	lysyl-tRNA synthetase, class II	112601	115423	00	112601	1	contig.1	cds	-	0.0	K04567	543.1	-	0.0	-	0.0	-	0.0	-	0.0	tRNA-synt_2_TM,DUF2156,tRNA_anti-codon	58.0,259.2,35.0	actNOG.ENOG4100EHF.meta_raw	467.3
+CLI4839|pFRP1-1_0005853	hypothetical protein	115786	115893	00	115786	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005854	transposase	115897	116406	00	115897	-1	contig.1	cds	-	0.0	K07483	49.1	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110	40.0	actNOG.ENOG4100CAV.meta_raw	92.7
+CLI4839|pFRP1-1_0005855	putative transposase	116491	117315	00	116491	-1	contig.1	cds	-	0.0	K07497	99.7	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve	59.9,55.5	actNOG.ENOG4100E0Q.meta_raw	253.0
+CLI4839|pFRP1-1_0005856	transposase	117312	117623	00	117312	-1	contig.1	cds	-	0.0	K07483	63.4	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	55.0	actNOG.ENOG4100RFV.meta_raw	131.9
+CLI4839|pFRP1-1_0005857	putative transposase	117743	118834	00	117743	-1	contig.1	cds	-	0.0	K07494	170.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,DDE_3	50.2,74.2	actNOG.ENOG4100BDX.meta_raw	642.3
+CLI4839|pFRP1-1_0005858	PFAM DDE_5 domain protein	118983	119771	00	118983	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_5	173.1	actNOG.ENOG4100DDJ.meta_raw	329.9
+CLI4839|pFRP1-1_0005859	putative transposase	119796	121151	00	119796	1	contig.1	cds	-	0.0	K07493	236.3	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	206.2	actNOG.ENOG4100D0Y.meta_raw	799.5
+CLI4839|pFRP1-1_0005860	PFAM DegT_DnrJ_EryC1 domain protein	121185	122102	00	121185	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DegT_DnrJ_EryC1	241.7	actNOG.ENOG4100VXC.meta_raw	430.7
+CLI4839|pFRP1-1_0005861	hypothetical protein	122152	122244	00	122152	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005862	inositol 1-phosphate synthase, Actinobacterial type	122492	123571	00	122492	1	contig.1	cds	TIGR03450	670.2	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Inos-1-P_synth	107.7	actNOG.ENOG4100CMG.meta_raw	697.3
+CLI4839|pFRP1-1_0005863	hypothetical protein	123987	124301	00	123987	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100P8Q.meta_raw	48.1
+CLI4839|pFRP1-1_0005864	glucose-1-phosphate thymidylyltransferase, short form	124424	125362	00	124424	-1	contig.1	cds	TIGR01207	413.9	K00973	366.3	-	0.0	-	0.0	-	0.0	-	0.0	NTP_transferase	198.3	actNOG.ENOG4100CN6.meta_raw	441.3
+CLI4839|pFRP1-1_0005865	isochorismatase	126071	126589	00	126071	-1	contig.1	cds	-	0.0	K05993	104.8	-	0.0	-	0.0	-	0.0	-	0.0	Isochorismatase	86.8	actNOG.ENOG4100X6A.meta_raw	203.1
+CLI4839|pFRP1-1_0005866	PFAM Sigma70_r4_2-rve domain protein	127079	128377	00	127079	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Sigma70_r4_2,rve	25.5,41.9	actNOG.ENOG41013ER.meta_raw	618.8
+CLI4839|pFRP1-1_0005867	PFAM IstB_IS21 domain protein	128374	128934	00	128374	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	IstB_IS21	78.3	actNOG.ENOG4100FS1.meta_raw	204.5
+CLI4839|pFRP1-1_0005868	transposase	128985	129317	00	128985	1	contig.1	cds	-	0.0	K07483	54.5	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	30.6	actNOG.ENOG4100RQQ.meta_raw	163.3
+CLI4839|pFRP1-1_0005869	putative transposase	129377	130249	00	129377	1	contig.1	cds	-	0.0	K07497	144.7	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve	41.0,74.1	actNOG.ENOG4100GWC.meta_raw	427.8
+CLI4839|pFRP1-1_0005870	PFAM rve domain protein	130215	130862	00	130215	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	rve	50.0	actNOG.ENOG4101333.meta_raw	357.0
+CLI4839|pFRP1-1_0005871	putative transposase	130859	131782	00	130859	-1	contig.1	cds	-	0.0	K07497	142.7	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve	44.0,85.9	actNOG.ENOG4100G1C.meta_raw	485.8
+CLI4839|pFRP1-1_0005872	transposase	131803	132114	00	131803	-1	contig.1	cds	-	0.0	K07483	46.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	26.4	actNOG.ENOG4100PMV.meta_raw	121.7
+CLI4839|pFRP1-1_0005873	two-component heavy metal sensor histidine kinase CusS	132335	133474	00	132335	-1	contig.1	cds	-	0.0	K07644	191.4	-	0.0	-	0.0	-	0.0	-	0.0	HAMP,HisKA,HATPase_c	44.0,30.1,57.7	actNOG.ENOG4100F0R.meta_raw	321.3
+CLI4839|pFRP1-1_0005874	PFAM Trans_reg_C domain protein	133558	133779	00	133558	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Trans_reg_C	73.4	actNOG.ENOG4100DK5.meta_raw	107.2
+CLI4839|pFRP1-1_0005875	hypothetical protein	134433	135566	00	134433	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100YN7.meta_raw	254.1
+CLI4839|pFRP1-1_0005876	hypothetical protein	135757	135969	00	135757	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005877	hypothetical protein	136056	136232	00	136056	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005878	PFAM Peptidase_M24 domain protein	136348	137133	00	136348	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Peptidase_M24	59.2	actNOG.ENOG4100F9Z.meta_raw	342.5
+CLI4839|pFRP1-1_0005879	D-3-phosphoglycerate dehydrogenase	137207	138376	00	137207	1	contig.1	cds	-	0.0	K00058	244.5	-	0.0	-	0.0	-	0.0	-	0.0	2-Hacid_dh_C	164.7	actNOG.ENOG4100CQ7.meta_raw	769.9
+CLI4839|pFRP1-1_0005880	cyanase	138373	138816	00	138373	1	contig.1	cds	TIGR00673	157.5	K01725	178.7	-	0.0	-	0.0	-	0.0	-	0.0	Cyanate_lyase	105.8	actNOG.ENOG4100H7M.meta_raw	167.6
+CLI4839|pFRP1-1_0005881	PFAM zf-CHY domain protein	138801	139157	00	138801	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	zf-CHY	47.0	actNOG.ENOG4100N4K.meta_raw	152.4
+CLI4839|pFRP1-1_0005882	putative ABC transport system ATP-binding protein	139154	139636	00	139154	-1	contig.1	cds	-	0.0	K02021	97.1	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100C2K.meta_raw	222.4
+CLI4839|pFRP1-1_0005883	biofilm PGA synthesis N-glycosyltransferase PgaC	139651	141627	00	139651	-1	contig.1	cds	-	0.0	K11936	85.3	-	0.0	GT2	48.0	-	0.0	Glycos_transf_2	50.9	Glyco_tranf_2_3	50.5	actNOG.ENOG4100R4R.meta_raw	573.4
+CLI4839|pFRP1-1_0005884	hypothetical protein	141624	141791	00	141624	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005885	putative LPXTG-site transpeptidase (sortase) family protein	142039	142773	00	142039	1	contig.1	cds	TIGR01076	25.3	K07284	170.7	-	0.0	-	0.0	-	0.0	-	0.0	Sortase	88.7	actNOG.ENOG4100I3C.meta_raw	235.7
+CLI4839|pFRP1-1_0005886	hypothetical protein	142963	143328	00	142963	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005887	hypothetical protein	143328	143543	00	143328	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005888	hypothetical protein	143748	144230	00	143748	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100SN1.meta_raw	154.7
+CLI4839|pFRP1-1_0005889	hypothetical protein	144421	144999	00	144421	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005890	hypothetical protein	145025	145462	00	145025	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005891	hypothetical protein	145459	146301	00	145459	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005892	hypothetical protein	146821	147045	00	146821	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005893	DNA ligase (ATP)	147084	148103	00	147084	1	contig.1	cds	-	0.0	K01971	214.9	-	0.0	-	0.0	-	0.0	-	0.0	DNA_ligase_A_M,DNA_ligase_A_C	82.3,68.7	actNOG.ENOG4100I7G.meta_raw	286.3
+CLI4839|pFRP1-1_0005894	hypothetical protein	148189	149091	00	148189	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100XHY.meta_raw	41.3
+CLI4839|pFRP1-1_0005895	type IV secretion system protein VirD4	149113	150591	00	149113	-1	contig.1	cds	-	0.0	K03205	111.6	-	0.0	-	0.0	-	0.0	-	0.0	TraG-D_C	57.8	actNOG.ENOG4100BI2.meta_raw	381.0
+CLI4839|pFRP1-1_0005896	transposase	150645	150977	00	150645	1	contig.1	cds	-	0.0	K07483	54.5	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	30.6	actNOG.ENOG4100RQQ.meta_raw	163.3
+CLI4839|pFRP1-1_0005897	putative transposase	151037	151909	00	151037	1	contig.1	cds	-	0.0	K07497	144.7	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve	41.0,74.1	actNOG.ENOG4100GWC.meta_raw	427.8
+CLI4839|pFRP1-1_0005898	alkanesulfonate monooxygenase	152254	153420	00	152254	1	contig.1	cds	-	0.0	K04091	66.7	-	0.0	-	0.0	-	0.0	A-OX	51.6	Bac_luciferase	135.4	actNOG.ENOG4100FCM.meta_raw	259.6
+CLI4839|pFRP1-1_0005899	enoyl-CoA hydratase	153562	154344	00	153562	1	contig.1	cds	-	0.0	K01692	207.5	-	0.0	-	0.0	-	0.0	-	0.0	ECH_1	148.3	actNOG.ENOG4100C1S.meta_raw	189.0
+CLI4839|pFRP1-1_0005900	K01913 family protein	154349	155905	00	154349	1	contig.1	cds	-	0.0	K01913	372.6	-	0.0	-	0.0	aad	42.0	AMP-binding	279.2	AMP-binding,AMP-binding_C	255.9,64.9	actNOG.ENOG4100BGV.meta_raw	453.1
+CLI4839|pFRP1-1_0005901	aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A	155902	157299	00	155902	1	contig.1	cds	-	0.0	K02433	358.1	-	0.0	-	0.0	-	0.0	-	0.0	Amidase	294.0	actNOG.ENOG4100DR1.meta_raw	324.9
+CLI4839|pFRP1-1_0005902	aldehyde dehydrogenase (NAD+)	157365	158867	00	157365	1	contig.1	cds	-	0.0	K00128	620.4	-	0.0	-	0.0	-	0.0	-	0.0	Aldedh	599.5	actNOG.ENOG4100BH7.meta_raw	662.0
+CLI4839|pFRP1-1_0005903	putative reactive intermediate/imine deaminase	158921	159313	00	158921	1	contig.1	cds	TIGR00004	87.3	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Ribonuc_L-PSP	78.7	actNOG.ENOG4101280.meta_raw	105.8
+CLI4839|pFRP1-1_0005904	PFAM Flavin_Reduct domain protein	159351	159881	00	159351	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Flavin_Reduct	102.9	actNOG.ENOG4100N25.meta_raw	207.5
+CLI4839|pFRP1-1_0005905	hypothetical protein	159878	159982	00	159878	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005906	transposase	160166	160912	00	160166	1	contig.1	cds	-	0.0	K07484	117.3	-	0.0	-	0.0	-	0.0	-	0.0	zf-IS66	34.9	actNOG.ENOG4100Z1I.meta_raw	142.5
+CLI4839|pFRP1-1_0005907	PFAM DDE_Tnp_IS66 domain protein	160909	161073	00	160909	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_IS66	41.0	actNOG.ENOG4100WF2.meta_raw	43.3
+CLI4839|pFRP1-1_0005908	hypothetical protein	161070	161294	00	161070	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010RX.meta_raw	83.7
+CLI4839|pFRP1-1_0005909	putative transposase	161281	162153	00	161281	-1	contig.1	cds	-	0.0	K07497	144.7	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve	41.0,74.1	actNOG.ENOG4100GWC.meta_raw	427.8
+CLI4839|pFRP1-1_0005910	transposase	162213	162545	00	162213	-1	contig.1	cds	-	0.0	K07483	54.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	30.1	actNOG.ENOG4100RQQ.meta_raw	163.7
+CLI4839|pFRP1-1_0005911	PFAM DDE_3 domain protein	162520	162975	00	162520	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_3	78.8	actNOG.ENOG4100BDX.meta_raw	220.7
+CLI4839|pFRP1-1_0005912	hypothetical protein	163028	163552	00	163028	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005913	putative transposase	163951	164382	00	163951	1	contig.1	cds	-	0.0	K07497	36.3	-	0.0	-	0.0	-	0.0	-	0.0	rve_3	47.7	actNOG.ENOG4100GBP.meta_raw	228.6
+CLI4839|pFRP1-1_0005914	hypothetical protein	164471	164656	00	164471	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005915	hypothetical protein	164596	164961	00	164596	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100HUP.meta_raw	94.0
+CLI4839|pFRP1-1_0005916	hypothetical protein	164964	165128	00	164964	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100HUP.meta_raw	59.7
+CLI4839|pFRP1-1_0005917	hypothetical protein	165569	165868	00	165569	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100D25.meta_raw	32.1
+CLI4839|pFRP1-1_0005918	transposase	166593	167405	00	166593	1	contig.1	cds	-	0.0	K07486	109.1	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_20	70.0	actNOG.ENOG4100DRX.meta_raw	322.2
+CLI4839|pFRP1-1_0005919	putative transcriptional regulator	167509	167817	00	167509	-1	contig.1	cds	-	0.0	K07726	24.6	-	0.0	-	0.0	-	0.0	-	0.0	HTH_3	42.9	actNOG.ENOG4100Q8J.meta_raw	139.7
+CLI4839|pFRP1-1_0005920	PFAM Gp49 domain protein	167814	168188	00	167814	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Gp49	69.2	actNOG.ENOG4100N3D.meta_raw	184.0
+CLI4839|pFRP1-1_0005921	putative transposase	168271	169362	00	168271	-1	contig.1	cds	-	0.0	K07494	170.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,DDE_3	50.2,74.2	actNOG.ENOG4100BDX.meta_raw	642.3
+CLI4839|pFRP1-1_0005922	PFAM DDE_5 domain protein	169511	171100	00	169511	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_5	172.2	actNOG.ENOG4100DDJ.meta_raw	504.3
+CLI4839|pFRP1-1_0005923	PFAM Multi_Drug_Res domain protein	171144	171458	00	171144	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Multi_Drug_Res	67.2	actNOG.ENOG4100N2F.meta_raw	135.7
+CLI4839|pFRP1-1_0005924	quaternary ammonium compound-resistance protein SugE	171458	171835	00	171458	1	contig.1	cds	-	0.0	K11741	116.2	-	0.0	-	0.0	-	0.0	-	0.0	Multi_Drug_Res	74.8	actNOG.ENOG4100N2F.meta_raw	144.2
+CLI4839|pFRP1-1_0005925	putative transposase	172113	173144	00	172113	1	contig.1	cds	-	0.0	K07493	189.9	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	169.9	actNOG.ENOG4100D0Y.meta_raw	611.6
+CLI4839|pFRP1-1_0005926	hypothetical protein	173247	173396	00	173247	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG410140A.meta_raw	91.0
+CLI4839|pFRP1-1_0005927	putative transposase	173403	174446	00	173403	-1	contig.1	cds	-	0.0	K07493	278.5	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	236.2	actNOG.ENOG4100DIN.meta_raw	376.1
+CLI4839|pFRP1-1_0005928	hypothetical protein	174474	174602	00	174474	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005929	K07093 family protein	174623	176050	00	174623	-1	contig.1	cds	-	0.0	K07093	239.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF839,DUF839	26.7,166.9	actNOG.ENOG4100H47.meta_raw	630.7
+CLI4839|pFRP1-1_0005930	PFAM DDE_5 domain protein	176087	176455	00	176087	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_5	41.0	actNOG.ENOG4100W00.meta_raw	120.9
+CLI4839|pFRP1-1_0005931	putative transposase	176834	177805	00	176834	-1	contig.1	cds	-	0.0	K07492	82.8	-	0.0	-	0.0	-	0.0	-	0.0	DUF4096,DDE_Tnp_1	40.7,45.2	actNOG.ENOG4100IAB.meta_raw	431.8
+CLI4839|pFRP1-1_0005932	putative sarcosine oxidase, beta subunit family, heterotetrameric form	178131	178802	00	178131	1	contig.1	cds	TIGR01373	205.1	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DAO	97.0	actNOG.ENOG4100E2C.meta_raw	224.4
+CLI4839|pFRP1-1_0005933	hypothetical protein	179098	179706	00	179098	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100K06.meta_raw	148.8
+CLI4839|pFRP1-1_0005934	putative transposase	179770	181221	00	179770	1	contig.1	cds	-	0.0	K07497	87.6	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,rve,Mu-transpos_C	28.2,91.1,37.2	actNOG.ENOG4100EUA.meta_raw	619.9
+CLI4839|pFRP1-1_0005935	PFAM AAA_22 domain protein	181214	182026	00	181214	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	AAA_22	58.9	actNOG.ENOG4100F13.meta_raw	414.8
+CLI4839|pFRP1-1_0005936	hypothetical protein	182164	182496	00	182164	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100BI2.meta_raw	47.1
+CLI4839|pFRP1-1_0005937	PFAM TraG-D_C domain protein	182563	182949	00	182563	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	TraG-D_C	30.0	actNOG.ENOG4100BI2.meta_raw	66.4
+CLI4839|pFRP1-1_0005938	def peptide deformylase	182954	184252	00	182954	1	contig.1	cds	-	0.0	K06889	30.2	-	0.0	CE15	251.2	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100GT9.meta_raw	142.0
+CLI4839|pFRP1-1_0005939	PFAM FAD_binding_4-BBE domain protein	184769	186241	00	184769	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_4,BBE	63.8,48.8	actNOG.ENOG4100DWA.meta_raw	544.9
+CLI4839|pFRP1-1_0005940	2,5-diketo-D-gluconate reductase	186441	187487	00	186441	-1	contig.1	cds	-	0.0	K05885	142.1	-	0.0	-	0.0	-	0.0	-	0.0	Aldo_ket_red	246.0	actNOG.ENOG4100F3I.meta_raw	557.5
+CLI4839|pFRP1-1_0005941	PFAM Methyltransf_2 domain protein	187555	188577	00	187555	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Methyltransf_2	130.5	actNOG.ENOG4100GCU.meta_raw	364.5
+CLI4839|pFRP1-1_0005942	PFAM HTH_23 domain protein	188762	188995	00	188762	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_23	42.1	actNOG.ENOG4100BDX.meta_raw	69.8
+CLI4839|pFRP1-1_0005943	transposase	189260	190483	00	189260	1	contig.1	cds	-	0.0	K07486	177.1	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	158.7,66.4	actNOG.ENOG4100DKU.meta_raw	560.5
+CLI4839|pFRP1-1_0005944	aspartate racemase	190489	191892	00	190489	-1	contig.1	cds	-	0.0	K01779	9.7	-	0.0	-	0.0	-	0.0	Condensation	60.7	Condensation	51.5	actNOG.ENOG4100W7Q.meta_raw	217.4
+CLI4839|pFRP1-1_0005945	PFAM DAHP_synth_2-DAHP_synth_2 domain protein	191981	193129	00	191981	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DAHP_synth_2,DAHP_synth_2	143.7,248.2	actNOG.ENOG4100CIV.meta_raw	459.0
+CLI4839|pFRP1-1_0005946	PFAM Inos-1-P_synth domain protein	193193	193885	00	193193	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Inos-1-P_synth	109.5	actNOG.ENOG4100CMG.meta_raw	454.1
+CLI4839|pFRP1-1_0005947	hypothetical protein	194117	194293	00	194117	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100CMG.meta_raw	81.5
+CLI4839|pFRP1-1_0005948	chorismatase, FkbO/Hyg5 family	194335	195381	00	194335	-1	contig.1	cds	TIGR04444	357.3	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005949	putative 3-dehydroquinate dehydratase, type II	195598	196032	00	195598	-1	contig.1	cds	TIGR01088	146.8	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DHquinase_II	152.8	actNOG.ENOG4100JHY.meta_raw	272.9
+CLI4839|pFRP1-1_0005950	hypothetical protein	196630	197031	00	196630	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005951	hypothetical protein	197637	198509	00	197637	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100WXR.meta_raw	339.0
+CLI4839|pFRP1-1_0005952	glycolate oxidase	198648	200264	00	198648	1	contig.1	cds	-	0.0	K00104	26.8	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_4,BBE	73.6,50.7	actNOG.ENOG4100DWA.meta_raw	686.7
+CLI4839|pFRP1-1_0005953	alpha-amylase	200307	201971	00	200307	1	contig.1	cds	-	0.0	K01176	102.7	-	0.0	GH13	183.6	-	0.0	-	0.0	Alpha-amylase	165.4	actNOG.ENOG4100U5D.meta_raw	653.1
+CLI4839|pFRP1-1_0005954	PFAM Glyco_transf_8 domain protein	202545	203063	00	202545	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Glyco_transf_8	61.5	actNOG.ENOG4100SMY.meta_raw	103.3
+CLI4839|pFRP1-1_0005955	N-acetylglucosamine kinase	203091	203996	00	203091	-1	contig.1	cds	-	0.0	K00884	73.5	-	0.0	-	0.0	-	0.0	-	0.0	ROK	115.2	actNOG.ENOG4100IX2.meta_raw	343.2
+CLI4839|pFRP1-1_0005956	hypothetical protein	204135	204482	00	204135	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005957	hypothetical protein	204353	204997	00	204353	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100T6W.meta_raw	47.0
+CLI4839|pFRP1-1_0005958	antiSMASH Condensation domain protein	205123	205314	00	205123	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Condensation	20.4	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005959	hypothetical protein	205394	205672	00	205394	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005960	hypothetical protein	205687	205794	00	205687	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005961	hypothetical protein	206431	207483	00	206431	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010BC.meta_raw	62.8
+CLI4839|pFRP1-1_0005962	integrase/recombinase XerD	207480	208673	00	207480	-1	contig.1	cds	-	0.0	K04763	59.4	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100MJS.meta_raw	317.5
+CLI4839|pFRP1-1_0005963	hypothetical protein	208779	209006	00	208779	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005964	hypothetical protein	209071	209451	00	209071	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100MDM.meta_raw	72.8
+CLI4839|pFRP1-1_0005965	TetR/AcrR family transcriptional regulator, acrAB operon repressor	210028	210627	00	210028	-1	contig.1	cds	-	0.0	K03577	60.7	-	0.0	-	0.0	-	0.0	-	0.0	TetR_N	44.1	actNOG.ENOG4100M17.meta_raw	115.3
+CLI4839|pFRP1-1_0005966	DNA replication protein DnaC	210719	212227	00	210719	-1	contig.1	cds	-	0.0	K02315	67.3	-	0.0	-	0.0	-	0.0	-	0.0	IstB_IS21,DDE_Tnp_1	159.9,28.8	actNOG.ENOG4101375.meta_raw	491.7
+CLI4839|pFRP1-1_0005967	hypothetical protein	212224	212928	00	212224	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4101333.meta_raw	300.0
+CLI4839|pFRP1-1_0005968	transposase	212998	213330	00	212998	1	contig.1	cds	-	0.0	K07483	54.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_Tnp_1	30.1	actNOG.ENOG4100RQQ.meta_raw	163.7
+CLI4839|pFRP1-1_0005969	putative transposase	213390	214262	00	213390	1	contig.1	cds	-	0.0	K07497	144.8	-	0.0	-	0.0	-	0.0	-	0.0	HTH_21,rve	41.0,75.1	actNOG.ENOG4100GWC.meta_raw	424.6
+CLI4839|pFRP1-1_0005970	hypothetical protein	214495	215241	00	214495	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG410103K.meta_raw	52.7
+CLI4839|pFRP1-1_0005971	replicative DNA helicase	215238	216623	00	215238	1	contig.1	cds	TIGR00665	535.7	K08482	32.6	-	0.0	-	0.0	-	0.0	-	0.0	DnaB,DnaB_C	119.0,341.0	actNOG.ENOG4100BK8.meta_raw	817.3
+CLI4839|pFRP1-1_0005972	ParB/RepB/Spo0J family partition protein	216696	217628	00	216696	-1	contig.1	cds	TIGR00180	75.2	K03497	133.4	-	0.0	-	0.0	-	0.0	-	0.0	ParBc	31.2	actNOG.ENOG4100QYT.meta_raw	153.3
+CLI4839|pFRP1-1_0005973	PFAM CbiA domain protein	217625	218278	00	217625	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CbiA	49.7	actNOG.ENOG4100TW2.meta_raw	197.2
+CLI4839|pFRP1-1_0005974	hypothetical protein	218646	218939	00	218646	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005975	hypothetical protein	219531	220223	00	219531	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005976	hypothetical protein	220664	221008	00	220664	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41012P0.meta_raw	25.3
+CLI4839|pFRP1-1_0005977	hypothetical protein	221005	221565	00	221005	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100RD6.meta_raw	133.6
+CLI4839|pFRP1-1_0005978	PFAM HTH_31 domain protein	221571	222440	00	221571	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_31	46.6	actNOG.ENOG4100PVX.meta_raw	224.5
+CLI4839|pFRP1-1_0005979	PFAM Whib domain protein	222647	222937	00	222647	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Whib	60.7	actNOG.ENOG4100N1D.meta_raw	79.6
+CLI4839|pFRP1-1_0005980	hypothetical protein	222934	223968	00	222934	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41012VY.meta_raw	28.9
+CLI4839|pFRP1-1_0005981	hypothetical protein	224088	224303	00	224088	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005982	hypothetical protein	224300	224605	00	224300	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005983	transposase	224580	225836	00	224580	-1	contig.1	cds	-	0.0	K07486	170.4	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	158.6,66.4	actNOG.ENOG4100DKU.meta_raw	539.6
+CLI4839|pFRP1-1_0005984	hypothetical protein	226061	226588	00	226061	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4101018.meta_raw	34.0
+CLI4839|pFRP1-1_0005985	hypothetical protein	226599	227045	00	226599	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005986	hypothetical protein	227052	228077	00	227052	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005987	hypothetical protein	228188	230410	00	228188	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100TQ8.meta_raw	198.7
+CLI4839|pFRP1-1_0005988	PFAM Whib domain protein	230552	230899	00	230552	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Whib	89.6	actNOG.ENOG4100MSH.meta_raw	164.1
+CLI4839|pFRP1-1_0005989	PFAM SsgA domain protein	230914	231417	00	230914	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SsgA	59.4	actNOG.ENOG4100NJ4.meta_raw	83.6
+CLI4839|pFRP1-1_0005990	hypothetical protein	231414	231818	00	231414	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100PY5.meta_raw	118.1
+CLI4839|pFRP1-1_0005991	hypothetical protein	232044	232466	00	232044	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0005992	hypothetical protein	232757	233365	00	232757	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100K06.meta_raw	148.8
+CLI4839|pFRP1-1_0005993	putative transposase	233494	234027	00	233494	-1	contig.1	cds	-	0.0	K07493	79.3	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	103.3	actNOG.ENOG4100U0C.meta_raw	171.2
+CLI4839|pFRP1-1_0005994	transposase	234751	235563	00	234751	1	contig.1	cds	-	0.0	K07486	116.6	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_20	76.3	actNOG.ENOG4100DRX.meta_raw	331.6
+CLI4839|pFRP1-1_0005995	transposase	235654	236736	00	235654	-1	contig.1	cds	-	0.0	K07486	135.8	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	93.7,75.1	actNOG.ENOG4100DRX.meta_raw	484.0
+CLI4839|pFRP1-1_0005996	monovalent cation:H+ antiporter-2, CPA2 family	237106	238419	00	237106	-1	contig.1	cds	-	0.0	K03455	201.6	-	0.0	-	0.0	-	0.0	-	0.0	Na_H_Exchanger	171.1	actNOG.ENOG4100FBK.meta_raw	471.1
+CLI4839|pFRP1-1_0005997	PFAM Abhydrolase_6 domain protein	238416	239168	00	238416	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Abhydrolase_6	34.4	actNOG.ENOG4100MJU.meta_raw	86.9
+CLI4839|pFRP1-1_0005998	chlorinating enzyme	239240	240196	00	239240	-1	contig.1	cds	TIGR01762	447.2	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	PhyH	134.1	actNOG.ENOG4100TGH.meta_raw	421.4
+CLI4839|pFRP1-1_0005999	antiSMASH PP-binding domain protein	240230	240478	00	240230	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	PP-binding	22.4	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006000	PFAM MbtH domain protein	240741	240959	00	240741	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	MbtH	100.2	actNOG.ENOG4100QH2.meta_raw	129.5
+CLI4839|pFRP1-1_0006001	antiSMASH LmbU domain protein	241026	241694	00	241026	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	LmbU	250.1	-	0.0	actNOG.ENOG4100P9X.meta_raw	267.9
+CLI4839|pFRP1-1_0006002	transcriptional regulator	242655	243317	00	242655	1	contig.1	cds	-	0.0	K07734	175.5	-	0.0	-	0.0	-	0.0	-	0.0	FMN_bind_2	124.8	actNOG.ENOG4100KYK.meta_raw	238.0
+CLI4839|pFRP1-1_0006003	PFAM Thioesterase domain protein	243358	244128	00	243358	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Thioesterase	144.6	actNOG.ENOG4100MJU.meta_raw	268.5
+CLI4839|pFRP1-1_0006004	fatty-acyl-CoA synthase	244125	247898	00	244125	1	contig.1	cds	-	0.0	K00666	279.8	-	0.0	-	0.0	hyv-d	154.1	AMP-binding,PP-binding	252.1,46.3	AMP-binding,KR,PP-binding	199.9,94.6,44.7	actNOG.ENOG4100TZ4.meta_raw	1067.8
+CLI4839|pFRP1-1_0006005	putative transposase	248124	249215	00	248124	1	contig.1	cds	-	0.0	K07494	170.3	-	0.0	-	0.0	-	0.0	-	0.0	HTH_32,DDE_3	50.2,74.2	actNOG.ENOG4100BDX.meta_raw	642.3
+CLI4839|pFRP1-1_0006006	hypothetical protein	249438	249944	00	249438	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100PC2.meta_raw	114.6
+CLI4839|pFRP1-1_0006007	hypothetical protein	249951	251093	00	249951	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100PRJ.meta_raw	76.8
+CLI4839|pFRP1-1_0006008	K07047 family protein	251116	252345	00	251116	1	contig.1	cds	-	0.0	K07047	33.9	-	0.0	-	0.0	-	0.0	-	0.0	Amidohydro_1	108.7	actNOG.ENOG4100IPB.meta_raw	356.6
+CLI4839|pFRP1-1_0006009	hypothetical protein	252487	252828	00	252487	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006010	PFAM DUF4158-DDE_Tnp_Tn3 domain protein	252931	255123	00	252931	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF4158,DDE_Tnp_Tn3	95.7,35.3	actNOG.ENOG4100C01.meta_raw	774.1
+CLI4839|pFRP1-1_0006011	PFAM DDE_Tnp_Tn3 domain protein	255120	255953	00	255120	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DDE_Tnp_Tn3	286.1	actNOG.ENOG4100C01.meta_raw	503.5
+CLI4839|pFRP1-1_0006012	hypothetical protein	256268	256582	00	256268	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006013	PFAM ERCC4-Lsr2 domain protein	256782	257771	00	256782	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	ERCC4,Lsr2	38.0,28.9	actNOG.ENOG4100EE3.meta_raw	518.8
+CLI4839|pFRP1-1_0006014	putative DNA-invertase from lambdoid prophage Rac	257967	258905	00	257967	1	contig.1	cds	-	0.0	K14060	109.1	-	0.0	-	0.0	-	0.0	-	0.0	Resolvase,HTH_7	129.1,39.0	actNOG.ENOG4100MMR.meta_raw	248.1
+CLI4839|pFRP1-1_0006015	dbCAN CE15 domain protein	259261	260001	00	259261	1	contig.1	cds	-	0.0	-	0.0	-	0.0	CE15	171.5	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100GT9.meta_raw	120.9
+CLI4839|pFRP1-1_0006016	K07093 family protein	259995	261317	00	259995	1	contig.1	cds	-	0.0	K07093	243.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF839,DUF839,DUF839	27.3,36.6,122.4	actNOG.ENOG4100H47.meta_raw	504.9
+CLI4839|pFRP1-1_0006017	hypothetical protein	261585	261935	00	261585	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006018	putative transposase	261973	263268	00	261973	1	contig.1	cds	-	0.0	K07493	236.5	-	0.0	-	0.0	-	0.0	-	0.0	Transposase_mut	206.5	actNOG.ENOG4100D0Y.meta_raw	799.7
+CLI4839|pFRP1-1_0006019	K01780 family protein	263276	265267	00	263276	-1	contig.1	cds	-	0.0	K01780	86.3	-	0.0	-	0.0	hpg	75.2	AMP-binding,PP-binding,PP-binding	109.0,25.4,28.0	AMP-binding	85.2	actNOG.ENOG4100CG7.meta_raw	128.6
+CLI4839|pFRP1-1_0006020	hypothetical protein	265537	266310	00	265537	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006021	PFAM YkuD domain protein	266288	267040	00	266288	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	YkuD	48.7	actNOG.ENOG4100N8Z.meta_raw	187.9
+CLI4839|pFRP1-1_0006022	lipoprotein YgeR	267472	268251	00	267472	1	contig.1	cds	-	0.0	K12943	51.2	-	0.0	-	0.0	-	0.0	-	0.0	Peptidase_M23	95.6	actNOG.ENOG4100MGH.meta_raw	214.1
+CLI4839|pFRP1-1_0006023	PFAM DsbD domain protein	268272	268982	00	268272	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DsbD	167.7	actNOG.ENOG4100H81.meta_raw	215.8
+CLI4839|pFRP1-1_0006024	branched-chain amino acid transport system ATP-binding protein	269112	269729	00	269112	1	contig.1	cds	-	0.0	K01996	112.7	-	0.0	-	0.0	-	0.0	-	0.0	ABC_tran	100.6	actNOG.ENOG4100E6R.meta_raw	158.1
+CLI4839|pFRP1-1_0006025	putative heme exporter protein CcmB	269726	270403	00	269726	1	contig.1	cds	TIGR01190	33.7	K02194	86.1	-	0.0	-	0.0	-	0.0	-	0.0	CcmB	57.6	actNOG.ENOG41010XR.meta_raw	58.0
+CLI4839|pFRP1-1_0006026	PFAM Cytochrom_C_asm domain protein	270400	271176	00	270400	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Cytochrom_C_asm	85.0	actNOG.ENOG4100HB9.meta_raw	203.3
+CLI4839|pFRP1-1_0006027	hypothetical protein	271176	271298	00	271176	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006028	PFAM CcmE domain protein	271295	271741	00	271295	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CcmE	88.1	actNOG.ENOG410102A.meta_raw	77.3
+CLI4839|pFRP1-1_0006029	putative c-type cytochrome biogenesis protein CcmF	271738	273726	00	271738	1	contig.1	cds	TIGR00353	410.8	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Cytochrom_C_asm,CcmF_C	115.3,220.6	actNOG.ENOG4100CDW.meta_raw	397.8
+CLI4839|pFRP1-1_0006030	cytochrome c-type biogenesis protein CcmH	273719	274216	00	273719	1	contig.1	cds	-	0.0	K02200	117.6	-	0.0	-	0.0	-	0.0	-	0.0	CcmH	106.1	-	0.0
+CLI4839|pFRP1-1_0006031	type IV pilus assembly protein PilF	274213	275001	00	274213	1	contig.1	cds	-	0.0	K02656	29.2	-	0.0	-	0.0	-	0.0	-	0.0	TPR_20	28.5	actNOG.ENOG4100EJ3.meta_raw	29.3
+CLI4839|pFRP1-1_0006032	putative periplasmic protein thiol:disulfide oxidoreductases, DsbE subfamily	274998	275627	00	274998	1	contig.1	cds	TIGR00385	103.7	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	AhpC-TSA	78.3	actNOG.ENOG4100RH8.meta_raw	115.4
+CLI4839|pFRP1-1_0006033	hypothetical protein	275624	276058	00	275624	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006034	thiol:disulfide interchange protein DsbA	276160	276855	00	276160	1	contig.1	cds	-	0.0	K03673	59.8	-	0.0	-	0.0	-	0.0	-	0.0	Thioredoxin_4	83.2	actNOG.ENOG4100IK1.meta_raw	277.7
+CLI4839|pFRP1-1_0006035	hypothetical protein	277000	277479	00	277000	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006036	cytochrome c oxidase, subunit I	277650	279404	00	277650	1	contig.1	cds	TIGR02891	714.6	K02276	534.8	-	0.0	-	0.0	-	0.0	-	0.0	COX1	507.9	actNOG.ENOG4100CI3.meta_raw	1055.2
+CLI4839|pFRP1-1_0006037	hypothetical protein	279353	280435	00	279353	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006038	ATPase, P-type (transporting), HAD superfamily, subfamily IC	280816	281703	00	280816	1	contig.1	cds	TIGR01494	144.2	K01533	372.2	-	0.0	-	0.0	-	0.0	-	0.0	Hydrolase	111.6	actNOG.ENOG4100BF1.meta_raw	379.4
+CLI4839|pFRP1-1_0006039	ParB/RepB/Spo0J family partition protein	282457	283563	00	282457	-1	contig.1	cds	TIGR00180	65.0	K03497	115.6	-	0.0	-	0.0	-	0.0	-	0.0	ParBc	29.8	actNOG.ENOG4100QYT.meta_raw	103.9
+CLI4839|pFRP1-1_0006040	flagellar biosynthesis protein FlhG	283566	284501	00	283566	-1	contig.1	cds	-	0.0	K04562	44.3	-	0.0	-	0.0	-	0.0	-	0.0	AAA_31	123.3	actNOG.ENOG4100GV7.meta_raw	240.8
+CLI4839|pFRP1-1_0006041	hypothetical protein	284516	284797	00	284516	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006042	hypothetical protein	285389	286180	00	285389	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4839|pFRP1-1_0006043	putative conjugative relaxase domain, TrwC/TraI family	286354	291087	00	286354	-1	contig.1	cds	TIGR02686	51.1	K03581	71.4	-	0.0	-	0.0	-	0.0	-	0.0	TrwC,AAA_30	156.4,176.0	actNOG.ENOG4100C24.meta_raw	754.3
+CLI4839|pFRP1-1_0006044	hypothetical protein	291301	292104	00	291301	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100P5B.meta_raw	274.8
+CLI4839|pFRP1-1_0006045	putative transposase	292101	294107	00	292101	1	contig.1	cds	-	0.0	K07497	51.1	-	0.0	-	0.0	-	0.0	-	0.0	rve,Mu-transpos_C	43.5,27.1	actNOG.ENOG4100CAB.meta_raw	891.2
+CLI4839|pFRP1-1_0006046	PFAM TniB domain protein	294199	295278	00	294199	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	TniB	99.1	actNOG.ENOG4100M2G.meta_raw	543.2
+CLI4839|pFRP1-1_0006047	hypothetical protein	295275	296075	00	295275	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100ZTC.meta_raw	72.9
+CLI4839|pFRP1-1_0006048	adenylylsulfate kinase partial partial partial partial protein	296366	297301	01	296366	1	contig.1	cds	-	0.0	K00860	24.8	-	0.0	-	0.0	-	0.0	-	0.0	AAA_33	28.7	actNOG.ENOG4100YZU.meta_raw	250.4

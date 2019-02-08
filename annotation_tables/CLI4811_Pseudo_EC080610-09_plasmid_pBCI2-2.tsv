@@ -1,0 +1,111 @@
+LocusID	Annotation	Start	End	Partial	Absolute_Start	Strand	Contig	Type	TIGR	TIGR_bitscore	KEGG	KEGG_bitscore	resfam	resfam_bitscore	dbCAN	dbCAN_bitscore	NRPS	NRPS_bitscore	antiSMASH	antiSMASH_bitscore	PFAM	PFAM_bitscore	actNOG	actNOG_bitscore
+CLI4811|pBCI2-2_0007473	type IV secretion system protein VirB4 partial partial partial partial protein	1	1515	10	1	-1	contig.1	cds	-	0.0	K03199	33.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100BES.meta_raw	424.2
+CLI4811|pBCI2-2_0007474	hypothetical protein	1512	3041	00	1512	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100CV6.meta_raw	331.9
+CLI4811|pBCI2-2_0007475	hypothetical protein	3041	3136	00	3041	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007476	hypothetical protein	3136	4905	00	3136	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100NMR.meta_raw	168.7
+CLI4811|pBCI2-2_0007477	hypothetical protein	4902	5735	00	4902	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100XGH.meta_raw	99.2
+CLI4811|pBCI2-2_0007478	hypothetical protein	5735	6067	00	5735	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007479	hypothetical protein	6119	7144	00	6119	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41011E4.meta_raw	56.0
+CLI4811|pBCI2-2_0007480	hypothetical protein	7141	7530	00	7141	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100FJ2.meta_raw	81.7
+CLI4811|pBCI2-2_0007481	hypothetical protein	7831	8280	00	7831	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007482	integrase/recombinase XerD	8386	9489	00	8386	1	contig.1	cds	-	0.0	K04763	184.3	-	0.0	-	0.0	-	0.0	-	0.0	Phage_int_SAM_1,Phage_integrase	44.2,92.3	actNOG.ENOG41014UV.meta_raw	355.5
+CLI4811|pBCI2-2_0007483	integrase/recombinase XerD	9486	11579	00	9486	1	contig.1	cds	-	0.0	K04763	118.6	-	0.0	-	0.0	-	0.0	-	0.0	Phage_integrase	77.8	actNOG.ENOG4100UU1.meta_raw	512.7
+CLI4811|pBCI2-2_0007484	hypothetical protein	11609	11872	00	11609	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100NA4.meta_raw	26.8
+CLI4811|pBCI2-2_0007485	integrase/recombinase XerD	11869	14460	00	11869	-1	contig.1	cds	-	0.0	K04763	83.6	-	0.0	-	0.0	-	0.0	-	0.0	Phage_integrase	57.7	actNOG.ENOG4100F8E.meta_raw	806.5
+CLI4811|pBCI2-2_0007486	integrase/recombinase XerD	14457	15752	00	14457	-1	contig.1	cds	-	0.0	K04763	158.2	-	0.0	-	0.0	-	0.0	-	0.0	Phage_int_SAM_1,Phage_integrase	36.0,69.7	actNOG.ENOG4100GUC.meta_raw	375.2
+CLI4811|pBCI2-2_0007487	hypothetical protein	15739	18180	00	15739	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007488	dbCAN GH16 domain protein	18271	19551	00	18271	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	GH16	93.3	-	0.0	-	0.0	Glyco_hydro_16	47.8	actNOG.ENOG4100NVU.meta_raw	280.7
+CLI4811|pBCI2-2_0007489	septum site-determining protein MinD	19551	20834	00	19551	-1	contig.1	cds	-	0.0	K03609	57.7	-	0.0	-	0.0	-	0.0	-	0.0	CbiA	42.7	actNOG.ENOG4100E8S.meta_raw	395.7
+CLI4811|pBCI2-2_0007490	hypothetical protein	20857	21831	00	20857	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100JTS.meta_raw	26.7
+CLI4811|pBCI2-2_0007491	hypothetical protein	22204	22632	00	22204	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100QWK.meta_raw	89.3
+CLI4811|pBCI2-2_0007492	hypothetical protein	22629	22883	00	22629	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007493	hypothetical protein	23178	23615	00	23178	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100J59.meta_raw	106.7
+CLI4811|pBCI2-2_0007494	hypothetical protein	23987	24460	00	23987	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007495	hypothetical protein	24506	25003	00	24506	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100PC2.meta_raw	74.1
+CLI4811|pBCI2-2_0007496	hypothetical protein	25133	26140	00	25133	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100Y5Q.meta_raw	33.1
+CLI4811|pBCI2-2_0007497	hypothetical protein	26207	26818	00	26207	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007498	PFAM Amidohydro_1 domain protein	26930	27355	00	26930	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Amidohydro_1	43.2	actNOG.ENOG4100IPB.meta_raw	90.5
+CLI4811|pBCI2-2_0007499	hypothetical protein	27367	28014	00	27367	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100IBG.meta_raw	49.7
+CLI4811|pBCI2-2_0007500	PFAM Resolvase-HTH_7 domain protein	28011	28757	00	28011	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Resolvase,HTH_7	124.1,41.2	actNOG.ENOG4100MMR.meta_raw	262.7
+CLI4811|pBCI2-2_0007501	hypothetical protein	28754	29200	00	28754	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007502	hypothetical protein	29625	30743	00	29625	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010BC.meta_raw	66.1
+CLI4811|pBCI2-2_0007503	biotin synthesis protein BioC	30981	31820	00	30981	-1	contig.1	cds	-	0.0	K02169	77.9	-	0.0	-	0.0	-	0.0	-	0.0	Methyltransf_11	94.4	actNOG.ENOG4100NFD.meta_raw	280.0
+CLI4811|pBCI2-2_0007504	putative drug resistance transporter, EmrB/QacA subfamily	32226	33650	00	32226	-1	contig.1	cds	TIGR00711	194.4	K07552	87.8	-	0.0	-	0.0	-	0.0	-	0.0	MFS_1	140.3	actNOG.ENOG4100C61.meta_raw	455.6
+CLI4811|pBCI2-2_0007505	hypothetical protein	33713	34015	00	33713	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007506	PFAM Dimerisation2-Methyltransf_2 domain protein	34281	35336	00	34281	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Dimerisation2,Methyltransf_2	32.8,145.0	actNOG.ENOG4100J00.meta_raw	324.1
+CLI4811|pBCI2-2_0007507	non-specific serine/threonine protein kinase	35498	37429	00	35498	1	contig.1	cds	-	0.0	K08282	388.6	-	0.0	-	0.0	-	0.0	-	0.0	SNF2_N,Helicase_C	185.1,43.5	actNOG.ENOG4100BE4.meta_raw	680.9
+CLI4811|pBCI2-2_0007508	hypothetical protein	37426	38025	00	37426	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100RKE.meta_raw	123.0
+CLI4811|pBCI2-2_0007509	hypothetical protein	38148	38288	00	38148	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007510	hypothetical protein	38282	38935	00	38282	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100MEG.meta_raw	117.7
+CLI4811|pBCI2-2_0007511	PFAM Trp_halogenase domain protein	38932	40479	00	38932	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Trp_halogenase	463.1	actNOG.ENOG4100V3W.meta_raw	409.4
+CLI4811|pBCI2-2_0007512	K00517 family protein	40476	41753	00	40476	-1	contig.1	cds	-	0.0	K00517	272.3	-	0.0	-	0.0	-	0.0	-	0.0	p450	77.8	actNOG.ENOG4100UV3.meta_raw	377.3
+CLI4811|pBCI2-2_0007513	salicylate hydroxylase	41750	43363	00	41750	-1	contig.1	cds	-	0.0	K00480	100.7	-	0.0	-	0.0	-	0.0	-	0.0	FAD_binding_3	234.1	actNOG.ENOG4100I4G.meta_raw	502.6
+CLI4811|pBCI2-2_0007514	antiSMASH indsynth domain protein	43360	46626	00	43360	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	indsynth	1371.3	Ferritin-like	116.8	actNOG.ENOG4100RJE.meta_raw	1233.4
+CLI4811|pBCI2-2_0007515	monoamine oxidase	46623	48089	00	46623	-1	contig.1	cds	-	0.0	K00274	299.6	-	0.0	-	0.0	-	0.0	-	0.0	Amino_oxidase	196.1	actNOG.ENOG4100KHH.meta_raw	451.5
+CLI4811|pBCI2-2_0007516	glycosyltransferase, MGT family	48361	49668	00	48361	1	contig.1	cds	TIGR01426	161.1	-	0.0	-	0.0	GT1	170.8	-	0.0	MGT2/MGT	183.0	UDPGT	47.2	actNOG.ENOG4100BVK.meta_raw	488.0
+CLI4811|pBCI2-2_0007517	monovalent cation:H+ antiporter-2, CPA2 family	49794	51125	00	49794	-1	contig.1	cds	-	0.0	K03455	152.7	-	0.0	-	0.0	-	0.0	-	0.0	Na_H_Exchanger	179.8	actNOG.ENOG4100FBK.meta_raw	542.9
+CLI4811|pBCI2-2_0007518	PFAM Trp_halogenase domain protein	51462	53054	00	51462	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Trp_halogenase	550.9	actNOG.ENOG4100V3W.meta_raw	877.9
+CLI4811|pBCI2-2_0007519	PFAM Flavin_Reduct domain protein	53208	53762	00	53208	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Flavin_Reduct	103.9	actNOG.ENOG4100Q6E.meta_raw	181.9
+CLI4811|pBCI2-2_0007520	LuxR family transcriptional regulator, maltose regulon positive	53759	56569	00	53759	-1	contig.1	cds	-	0.0	K03556	101.6	-	0.0	-	0.0	-	0.0	-	0.0	AAA_16,GerE	51.4,53.7	actNOG.ENOG4100GR9.meta_raw	487.7
+CLI4811|pBCI2-2_0007521	K06979 family protein	57365	57838	00	57365	-1	contig.1	cds	-	0.0	K06979	53.5	-	0.0	-	0.0	-	0.0	-	0.0	APH	59.1	actNOG.ENOG4100FS3.meta_raw	268.6
+CLI4811|pBCI2-2_0007522	glycosyltransferase, MGT family	58004	59161	00	58004	1	contig.1	cds	TIGR01426	352.4	-	0.0	-	0.0	GT1	155.0	-	0.0	MGT2/MGT	179.9	UDPGT	62.2	actNOG.ENOG4100D3U.meta_raw	384.5
+CLI4811|pBCI2-2_0007523	hypothetical protein	59262	59396	00	59262	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007524	putative ATP-dependent endonuclease of the OLD family	59611	61434	00	59611	1	contig.1	cds	-	0.0	K07459	129.8	-	0.0	-	0.0	-	0.0	-	0.0	AAA_21	51.3	actNOG.ENOG4100J8C.meta_raw	38.4
+CLI4811|pBCI2-2_0007525	DNA helicase II / ATP-dependent DNA helicase PcrA	61431	62984	00	61431	1	contig.1	cds	-	0.0	K03657	69.8	-	0.0	-	0.0	-	0.0	-	0.0	AAA_19,UvrD-helicase	28.3,33.4	actNOG.ENOG4100BN3.meta_raw	43.2
+CLI4811|pBCI2-2_0007526	integrase/recombinase XerD	63202	64539	00	63202	-1	contig.1	cds	-	0.0	K04763	54.4	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100MJS.meta_raw	323.2
+CLI4811|pBCI2-2_0007527	hypothetical protein	64832	65143	00	64832	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007528	hypothetical protein	65140	65463	00	65140	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007529	hypothetical protein	65494	65808	00	65494	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007530	hypothetical protein	65822	66031	00	65822	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007531	pyrimidine-specific ribonucleoside hydrolase	66109	67206	00	66109	1	contig.1	cds	-	0.0	K01250	72.2	-	0.0	-	0.0	-	0.0	-	0.0	IU_nuc_hydro	78.1	actNOG.ENOG4100E2U.meta_raw	70.6
+CLI4811|pBCI2-2_0007532	hypothetical protein	67299	68675	00	67299	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007533	hypothetical protein	68802	69554	00	68802	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41010VF.meta_raw	28.0
+CLI4811|pBCI2-2_0007534	hypothetical protein	69467	69775	00	69467	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007535	hypothetical protein	69780	69998	00	69780	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100SBR.meta_raw	46.3
+CLI4811|pBCI2-2_0007536	hypothetical protein	70106	70804	00	70106	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007537	hypothetical protein	71006	72031	00	71006	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007538	hypothetical protein	72249	72530	00	72249	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007539	biofilm PGA synthesis N-glycosyltransferase PgaC	72647	74269	00	72647	-1	contig.1	cds	-	0.0	K11936	85.2	-	0.0	GT2	48.9	-	0.0	Glycos_transf_2	51.0	Glyco_tranf_2_3	50.8	actNOG.ENOG4100R4R.meta_raw	574.3
+CLI4811|pBCI2-2_0007540	hypothetical protein	74266	74433	00	74266	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007541	putative LPXTG-site transpeptidase (sortase) family protein	74681	75415	00	74681	1	contig.1	cds	TIGR01076	25.4	K07284	174.8	-	0.0	-	0.0	-	0.0	-	0.0	Sortase	92.5	actNOG.ENOG4100I3C.meta_raw	239.2
+CLI4811|pBCI2-2_0007542	hypothetical protein	75711	76193	00	75711	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100SN1.meta_raw	146.5
+CLI4811|pBCI2-2_0007543	hypothetical protein	76520	76744	00	76520	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007544	dbCAN CE15 domain protein	77109	78344	00	77109	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	CE15	255.9	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100GT9.meta_raw	146.6
+CLI4811|pBCI2-2_0007545	hypothetical protein	78677	79105	00	78677	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007546	hypothetical protein	79242	81041	00	79242	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG410103K.meta_raw	166.7
+CLI4811|pBCI2-2_0007547	replicative DNA helicase	81038	82441	00	81038	1	contig.1	cds	TIGR00665	539.1	K08482	32.8	-	0.0	-	0.0	-	0.0	-	0.0	DnaB,DnaB_C	118.4,341.8	actNOG.ENOG4100BK8.meta_raw	821.0
+CLI4811|pBCI2-2_0007548	ParB/RepB/Spo0J family partition protein	82546	83481	00	82546	-1	contig.1	cds	TIGR00180	77.4	K03497	128.2	-	0.0	-	0.0	-	0.0	-	0.0	ParBc	32.7	actNOG.ENOG4100QYT.meta_raw	158.0
+CLI4811|pBCI2-2_0007549	PFAM CbiA domain protein	83478	84131	00	83478	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	CbiA	50.7	actNOG.ENOG4100TW2.meta_raw	201.9
+CLI4811|pBCI2-2_0007550	hypothetical protein	84521	84817	00	84521	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007551	hypothetical protein	86369	86719	00	86369	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG41012P0.meta_raw	25.8
+CLI4811|pBCI2-2_0007552	hypothetical protein	86716	87273	00	86716	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4100RD6.meta_raw	128.7
+CLI4811|pBCI2-2_0007553	PFAM HTH_31 domain protein	87280	88155	00	87280	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	HTH_31	39.9	actNOG.ENOG4100PVX.meta_raw	207.1
+CLI4811|pBCI2-2_0007554	hypothetical protein	88152	88298	00	88152	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007555	PFAM Whib domain protein	88548	88850	00	88548	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Whib	57.6	actNOG.ENOG4100N1D.meta_raw	72.9
+CLI4811|pBCI2-2_0007556	hypothetical protein	88847	89887	00	88847	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007557	hypothetical protein	90005	90217	00	90005	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007558	hypothetical protein	90217	90522	00	90217	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007559	transposase	90528	91751	00	90528	-1	contig.1	cds	-	0.0	K07486	177.1	-	0.0	-	0.0	-	0.0	-	0.0	DEDD_Tnp_IS110,Transposase_20	158.7,66.4	actNOG.ENOG4100DKU.meta_raw	560.5
+CLI4811|pBCI2-2_0007560	hypothetical protein	91976	92491	00	91976	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007561	hypothetical protein	92503	92949	00	92503	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007562	hypothetical protein	92956	93987	00	92956	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007563	PFAM AAA_16 domain protein	94111	96360	00	94111	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	AAA_16	28.5	actNOG.ENOG4100TQ8.meta_raw	190.1
+CLI4811|pBCI2-2_0007564	PFAM Whib domain protein	96507	96866	00	96507	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Whib	85.7	actNOG.ENOG4100MSH.meta_raw	150.9
+CLI4811|pBCI2-2_0007565	PFAM SsgA domain protein	96863	97357	00	96863	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	SsgA	61.4	actNOG.ENOG4100NJ4.meta_raw	77.6
+CLI4811|pBCI2-2_0007566	chromosome partitioning protein, ParB family	97795	99387	00	97795	1	contig.1	cds	-	0.0	K03497	63.9	-	0.0	-	0.0	-	0.0	-	0.0	ParBc	40.1	actNOG.ENOG4100KWR.meta_raw	91.8
+CLI4811|pBCI2-2_0007567	PFAM Prim-Pol domain protein	100156	101169	00	100156	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Prim-Pol	141.6	actNOG.ENOG4100JMQ.meta_raw	233.2
+CLI4811|pBCI2-2_0007568	hypothetical protein	101166	101957	00	101166	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	actNOG.ENOG4101088.meta_raw	98.6
+CLI4811|pBCI2-2_0007569	hypothetical protein	102446	102796	00	102446	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007570	hypothetical protein	102883	103485	00	102883	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007571	PFAM DUF3560 domain protein	103518	104540	00	103518	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF3560	96.0	actNOG.ENOG4100WGK.meta_raw	289.4
+CLI4811|pBCI2-2_0007572	hypothetical protein	104990	105196	00	104990	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007573	hypothetical protein	105532	106041	00	105532	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007574	putative conjugative relaxase domain, TrwC/TraI family	106234	110664	00	106234	1	contig.1	cds	TIGR02686	68.5	K03581	77.4	-	0.0	-	0.0	-	0.0	-	0.0	TrwC,AAA_30	190.3,158.6	actNOG.ENOG4100C24.meta_raw	696.5
+CLI4811|pBCI2-2_0007575	hypothetical protein	110691	111437	00	110691	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007576	PFAM Lsr2 domain protein	111562	111954	00	111562	1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	Lsr2	120.8	actNOG.ENOG4100NQM.meta_raw	126.4
+CLI4811|pBCI2-2_0007577	type IV secretion system protein VirD4	112029	113918	00	112029	-1	contig.1	cds	-	0.0	K03205	145.1	-	0.0	-	0.0	-	0.0	-	0.0	TraG-D_C	61.1	actNOG.ENOG4100BI2.meta_raw	394.0
+CLI4811|pBCI2-2_0007578	K07093 family protein	113915	115444	00	113915	-1	contig.1	cds	-	0.0	K07093	254.0	-	0.0	-	0.0	-	0.0	-	0.0	DUF839,DUF839,DUF839	24.9,37.4,122.3	actNOG.ENOG4100H47.meta_raw	527.3
+CLI4811|pBCI2-2_0007579	hypothetical protein	115500	116267	00	115500	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007580	hypothetical protein	116267	116599	00	116267	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0
+CLI4811|pBCI2-2_0007581	PFAM DnaJ domain protein	116596	117318	00	116596	-1	contig.1	cds	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	-	0.0	DnaJ	72.3	actNOG.ENOG4100D0K.meta_raw	75.7
+CLI4811|pBCI2-2_0007582	probable lipoprotein NlpC	117315	118457	00	117315	-1	contig.1	cds	-	0.0	K13695	47.0	-	0.0	-	0.0	-	0.0	-	0.0	NLPC_P60	67.7	actNOG.ENOG4100FYT.meta_raw	332.6
