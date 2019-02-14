@@ -5,7 +5,7 @@ Preprint: https://www.biorxiv.org/content/10.1101/545640v1
 
 BioRxiv doi: https://doi.org/10.1101/545640
 
-Zenodo doi: 10.5281/zenodo.2560835
+Zenodo doi: https://doi.org/10.5281/zenodo.2560835
 
  - Assembled genomes: Illumina - Velvet, PacBio - HGAP
  - Coding regions: ORFs - Prodigal, RNA coding regions - Infernal
